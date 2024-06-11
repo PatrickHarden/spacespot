@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gZMcBi cFdzMz"
+  >
+    <p
+      class="sc-bZQynM gOyWtx"
+    >
+      SUMMARY_SIGNING_DETAILS_TITLE
+    </p>
+    <div
+      class="sc-EHOje dwvQIT"
+    >
+      <h4
+        class="sc-bdVaJa sc-gzVnrw eXcUDV"
+      >
+        Name1
+      </h4>
+      <p
+        class="sc-htoDjs hnczzB"
+      >
+        name1@email.com
+      </p>
+      <p
+        class="sc-dnqmqq hIOUSA"
+      >
+        companyA - 12345678
+      </p>
+      <button
+        class="sc-htpNat faIrTZ"
+      >
+        SUMMARY_CTA_CHANGE
+      </button>
+    </div>
+    <h4
+      class="sc-bdVaJa sc-iwsKbI jZwpMZ"
+    >
+      SUMMARY_SIGNING_DETAILS_MSG
+    </h4>
+    <div
+      class="sc-ifAKCX jglCv"
+    >
+      <button
+        class="sc-bwzfXH iJJCMy"
+      >
+        SUMMARY_CTA_ACCEPT_LEASE
+      </button>
+      <button
+        class="sc-htpNat faIrTZ"
+      >
+        SUMMARY_CTA_BACK
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

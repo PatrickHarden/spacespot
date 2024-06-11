@@ -1,0 +1,455 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-eMigcr gKPvBo"
+  >
+    <div
+      class="sc-fzsDOv dyVjQx"
+    >
+      <div
+        class="sc-itybZL iEUZkf"
+      >
+        <div
+          class="sc-dTdPqK dfprlY"
+        >
+          NEGOTIATE_EXPLANATION_1
+        </div>
+        <div
+          class="sc-dTdPqK dfprlY"
+        >
+          NEGOTIATE_EXPLANATION_2
+        </div>
+        <div
+          class="sc-dTdPqK dfprlY"
+        >
+          NEGOTIATE_EXPLANATION_3
+        </div>
+      </div>
+      <div
+        class="sc-itybZL iEUZkf"
+      >
+        <h2
+          class="sc-kPVwWT sc-kUaPvJ fwOsuB"
+        >
+          NEGOTIATE_FIT_OUT_LANDLORD
+        </h2>
+        <div
+          class="sc-gGBfsJ gxAkCg"
+        >
+          <h3
+            class="sc-hqyNC jWkGJW"
+          >
+            CUSTOM_FITOUT_EMPTY
+          </h3>
+          <button
+            class="sc-brqgnP tnlpq"
+          >
+            <svg
+              class="sc-jnlKLf dZWbHL"
+              height="1.1em"
+              viewBox="0 0 18 17"
+              width="1.1em"
+            >
+              <g
+                fill="none"
+                fill-rule="evenodd"
+                stroke="#6CB9D5"
+                stroke-linecap="round"
+                stroke-width="2"
+              >
+                <path
+                  d="M9 1.6v13.8M1.64 8.5h14.72"
+                />
+              </g>
+            </svg>
+             CUSTOM_FITOUT_OPTION_ADD
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-itybZL iEUZkf"
+      >
+        <h2
+          class="sc-kPVwWT sc-kUaPvJ fwOsuB"
+        >
+          NEGOTIATE_PROVISIONS
+        </h2>
+        <div
+          class="sc-elJkPf jYklyF"
+        >
+          <div
+            class="sc-ktHwxA gfswcL"
+          >
+            <p>
+              <span>
+                SPECIAL_PROV_TEMPLATE_MSG: 
+              </span>
+              <button
+                class="sc-kafWEX kZKReJ"
+                data-testid="download"
+              >
+                SPECIAL_PROV_TEMPLATE_STANDARD
+              </button>
+            </p>
+            <div>
+              <div
+                class=""
+                tabindex="0"
+              >
+                <input
+                  accept="application/pdf"
+                  autocomplete="off"
+                  multiple=""
+                  style="display: none;"
+                  tabindex="-1"
+                  type="file"
+                />
+                <button
+                  class="sc-cIShpX jNfJhG"
+                  data-testid="upload"
+                >
+                  <img
+                    alt="upload"
+                    src="upload.svg"
+                  />
+                  SPECIAL_PROV_TEMPLATE_UPLOAD
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-kTUwUJ ftkIjf"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root sc-dqBHgY dtXTuM"
+              data-testid="removeSP"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+            <div>
+              gfd
+            </div>
+          </div>
+          <div
+            class="sc-iyvyFf kDLJQy"
+          >
+            <button
+              class="sc-brqgnP sc-feJyhm ijLrqQ"
+            >
+              SPECIAL_PROV_MODIFY
+            </button>
+            <span
+              class="sc-gzOgki hzDEgs"
+            >
+              SPECIAL_PROV_STATUS_CREATED
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-itybZL iEUZkf"
+      >
+        <h2
+          class="sc-kPVwWT gmbLKa"
+        >
+          NEGOTIATE_LEASE_TERMS
+        </h2>
+        <div
+          class="sc-bRBYWo gFRiVi"
+        >
+          <h2
+            class="sc-Rmtcm krzlQq"
+          >
+            NEGOTIATE_YOUR_TERMS_LANDLORD
+          </h2>
+          <div
+            class="sc-EHOje jZQcXK"
+          >
+            <svg
+              class="sc-gqjmRU cugBST"
+              height="54"
+              viewBox="-2 -2 58 58"
+              width="54"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g
+                fill="white"
+                fill-rule="evenodd"
+                opacity="1"
+                stroke="none"
+                stroke-width="1"
+              >
+                <g
+                  fill="#ffcdc8"
+                  fill-opacity="1"
+                  fill-rule="nonzero"
+                  stroke="#fe7062"
+                  stroke-width="2"
+                >
+                  <circle
+                    cx="27"
+                    cy="27"
+                    r="27"
+                  />
+                </g>
+                <g
+                  fill="#fe7062"
+                  fill-rule="nonzero"
+                >
+                  <text
+                    font-size="26"
+                    font-weight="400"
+                    id="name"
+                    text-anchor="middle"
+                  >
+                    <tspan
+                      x="27"
+                      y="37"
+                    >
+                      IH
+                    </tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div
+              class="sc-bZQynM hnnyjN"
+            >
+              <h2
+                class="sc-htpNat hDHSmr"
+              >
+                NEGOTIATE_AREA
+              </h2>
+              <div
+                class="sc-ifAKCX dXjDeY"
+              >
+                3500sq.m.
+              </div>
+            </div>
+            <div
+              class="sc-gzVnrw cZMWQi"
+            >
+              <h2
+                class="sc-htpNat hDHSmr"
+              >
+                NEGOTIATE_LENGTH
+              </h2>
+              <div
+                class="sc-ifAKCX dXjDeY"
+              >
+                13 NEGOTIATE_MONTHS NEGOTIATE_FROM ONBOARDING_AVAILABILITY_NOW
+              </div>
+            </div>
+            <div
+              class="sc-htoDjs hXNBKs"
+            >
+              <h2
+                class="sc-htpNat hDHSmr"
+              >
+                NEGOTIATE_MONTHLY NEGOTIATE_PAYMENT
+              </h2>
+              <div
+                class="sc-iwsKbI hiqfNw"
+              >
+                <div
+                  class="sc-gZMcBi fYhffy"
+                >
+                  <div
+                    class="sc-ifAKCX dXjDeY"
+                  >
+                    40000kr
+                  </div>
+                  <div
+                    class="sc-bxivhb etrvNB"
+                  >
+                    NEGOTIATE_RENT
+                  </div>
+                </div>
+                <div
+                  class="sc-gZMcBi fYhffy"
+                >
+                  <div
+                    class="sc-ifAKCX dXjDeY"
+                  >
+                    2000kr
+                  </div>
+                  <div
+                    class="sc-bxivhb etrvNB"
+                  >
+                    NEGOTIATE_SERVICE_CHARGES
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-dnqmqq gJJfia"
+            >
+              <h2
+                class="sc-htpNat hDHSmr"
+              >
+                NEGOTIATE_DEPOSIT
+              </h2>
+              <div
+                class="sc-ifAKCX dXjDeY"
+              >
+                2 NEGOTIATE_DEPOSIT_IN NEGOTIATE_DEPOSIT_GARANTEE
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-gipzik bJCGzT"
+          >
+            <div>
+              <button
+                class="sc-brqgnP sc-jDwBTQ jokWaa"
+                data-testid="modify"
+              >
+                NEGOTIATE_MODIFY
+              </button>
+            </div>
+            <div>
+              <span
+                class="sc-csuQGl dcYdvi"
+              >
+                NEGOTIATE_STATUS_WAITING_CONFIRMATION
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gPWkxV hCsoHJ"
+    >
+      <div
+        class="sc-bXGyLb gjEVdO"
+      >
+        <div
+          class="sc-lkqHmb naxll"
+        >
+          <h2
+            class="sc-kPVwWT sc-daURTG bQvNNR"
+          >
+            SUMMARY_TITLE
+          </h2>
+          <div
+            class="sc-cbkKFq kIqKWP"
+          >
+            <div
+              class="sc-fYiAbW csePZy"
+            >
+              SUMMARY_RENT
+            </div>
+            <div
+              class="sc-fOKMvo dRHEOq"
+            >
+              40,000kr
+            </div>
+          </div>
+          <div
+            class="sc-cbkKFq kIqKWP"
+          >
+            <div
+              class="sc-fYiAbW csePZy"
+            >
+              SUMMARY_SERVICE_CHARGES
+            </div>
+            <div
+              class="sc-fOKMvo dRHEOq"
+            >
+              2,000kr
+            </div>
+          </div>
+          <div
+            class="sc-cbkKFq sc-krvtoX hbdGJC"
+          >
+            <div
+              class="sc-dUjcNx blveqi"
+            >
+              SUMMARY_MONTHLY_TOTAL
+            </div>
+            <div
+              class="sc-gHboQg crupRU"
+            >
+              42,000kr
+            </div>
+          </div>
+          <div
+            class="sc-cbkKFq kIqKWP"
+          >
+            <div
+              class="sc-eilVRo kYKuKc"
+            >
+              SUMMARY_LEASE_TOTAL_MONTHS
+            </div>
+            <div
+              class="sc-eerKOB dAsPsz"
+            >
+              546,000kr
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-eLExRp vRCSD"
+        >
+          <div
+            class="sc-kfGgVZ kDLxNN"
+          >
+            SUMMARY_TEXT_LANDLORD_SUBMIT_TERMS
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-jVODtj kGwmLz"
+      id="footer"
+    >
+      <div
+        class="sc-bnXvFD csxtcE"
+      >
+        <div
+          class="sc-gFaPwZ bsUfux"
+        >
+          <div
+            class="sc-fhYwyz fORKGZ"
+          >
+            SUMMARY_MONTHLY_TOTAL
+          </div>
+          <div
+            class="sc-gJWqzi iXMdab"
+          >
+            42,000kr
+          </div>
+        </div>
+        <div
+          class="sc-gFaPwZ bsUfux"
+        >
+          <div
+            class="sc-fhYwyz fORKGZ"
+          >
+            SUMMARY_LEASE_TOTAL
+          </div>
+          <div
+            class="sc-jzgbtB eINSbh"
+          >
+            546,000kr
+          </div>
+        </div>
+        <div
+          class="sc-kfGgVZ kDLxNN"
+        >
+          SUMMARY_TEXT_LANDLORD_SUBMIT_TERMS_MOBILE
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

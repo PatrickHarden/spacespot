@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Negotiation reducer custom fituot options delete custom fitout success should update state 1`] = `
+Object {
+  "customFitout": Array [
+    Object {
+      "amount": 1,
+      "description": "test",
+      "id": "1",
+      "isCustom": true,
+      "name": "test",
+    },
+  ],
+  "loading": false,
+}
+`;
+
+exports[`Negotiation reducer custom fituot options put custom fitout success should update state 1`] = `
+Object {
+  "customFitout": Array [
+    Object {
+      "amount": 1,
+      "description": "test",
+      "id": "1",
+      "isCustom": true,
+      "name": "test",
+    },
+    Object {
+      "amount": 2,
+      "description": "test2",
+      "id": "2",
+      "isCustom": true,
+      "name": "test2",
+    },
+  ],
+  "loading": false,
+}
+`;

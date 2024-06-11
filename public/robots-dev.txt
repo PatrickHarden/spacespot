@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+# dev
+User-agent: *
+Sitemap: https://uat.spacespot.no/sitemap.xml
+Disallow: /
+

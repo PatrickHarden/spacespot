@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landlord: TermsAgreed 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-bwzfXH gzKgFy"
+  >
+    SUMMARY_CTA_PREVIEW
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Tenant: TermsAgreed 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa ffjAVz"
+  >
+    SUMMARY_TEXT_TENANT_WAITING
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TermsNotAgreed 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa ffjAVz"
+  >
+    SUMMARY_TEXT_LANDLORD_SUBMIT_TERMS
+  </div>
+</DocumentFragment>
+`;

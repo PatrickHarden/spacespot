@@ -1,0 +1,234 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing selected false 1`] = `
+<Styled(Component)
+  className="Test"
+  onClick={[MockFunction]}
+  selected={false}
+>
+  <StyledComponent
+    className="Test"
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bwzfXH",
+          "isStatic": false,
+          "lastClassName": "coJLNu",
+          "rules": Array [
+            "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+            [Function],
+            ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+            [Function],
+            ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+            [Function],
+            ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-bwzfXH",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    onClick={[MockFunction]}
+    selected={false}
+  >
+    <Component
+      className="sc-bwzfXH coJLNu Test"
+      onClick={[MockFunction]}
+      selected={false}
+    >
+      <button
+        className="sc-bwzfXH coJLNu Test"
+        onClick={[MockFunction]}
+      >
+        ONBOARDING_EXISTING
+      </button>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;
+
+exports[`renders without crashing selected true 1`] = `
+<Styled(Component)
+  className="Test"
+  onClick={[MockFunction]}
+  selected={true}
+>
+  <StyledComponent
+    className="Test"
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bwzfXH",
+          "isStatic": false,
+          "lastClassName": "ljZAhJ",
+          "rules": Array [
+            "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+            [Function],
+            ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+            [Function],
+            ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+            [Function],
+            ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-bwzfXH",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    onClick={[MockFunction]}
+    selected={true}
+  >
+    <Component
+      className="sc-bwzfXH ljZAhJ Test"
+      onClick={[MockFunction]}
+      selected={true}
+    >
+      <button
+        className="sc-bwzfXH ljZAhJ Test"
+        onClick={[MockFunction]}
+      >
+        <Styled(CheckCircleIcon)
+          fontSize="default"
+          htmlColor="#6CB9D5"
+        >
+          <StyledComponent
+            fontSize="default"
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "compare": null,
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bdVaJa",
+                  "isStatic": false,
+                  "lastClassName": "bYrkLc",
+                  "rules": Array [
+                    "
+  position: absolute;
+  background-color: #ffffff;
+  top: -11px;
+  right: -11px;
+  &.MuiSvgIcon-root {
+    font-size: 1.5rem;
+  }
+",
+                  ],
+                },
+                "displayName": "Styled(CheckCircleIcon)",
+                "foldedComponentIds": Array [],
+                "muiName": "SvgIcon",
+                "render": [Function],
+                "styledComponentId": "sc-bdVaJa",
+                "target": Object {
+                  "$$typeof": Symbol(react.memo),
+                  "compare": null,
+                  "displayName": "CheckCircleIcon",
+                  "muiName": "SvgIcon",
+                  "type": Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "render": [Function],
+                  },
+                },
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            htmlColor="#6CB9D5"
+          >
+            <ForwardRef
+              className="sc-bdVaJa bYrkLc"
+              fontSize="default"
+              htmlColor="#6CB9D5"
+            >
+              <WithStyles(ForwardRef(SvgIcon))
+                className="sc-bdVaJa bYrkLc"
+                fontSize="default"
+                htmlColor="#6CB9D5"
+              >
+                <ForwardRef(SvgIcon)
+                  className="sc-bdVaJa bYrkLc"
+                  classes={
+                    Object {
+                      "colorAction": "MuiSvgIcon-colorAction",
+                      "colorDisabled": "MuiSvgIcon-colorDisabled",
+                      "colorError": "MuiSvgIcon-colorError",
+                      "colorPrimary": "MuiSvgIcon-colorPrimary",
+                      "colorSecondary": "MuiSvgIcon-colorSecondary",
+                      "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                      "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                      "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                      "root": "MuiSvgIcon-root",
+                    }
+                  }
+                  fontSize="default"
+                  htmlColor="#6CB9D5"
+                >
+                  <svg
+                    aria-hidden="true"
+                    className="MuiSvgIcon-root sc-bdVaJa bYrkLc"
+                    color="#6CB9D5"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                    />
+                  </svg>
+                </ForwardRef(SvgIcon)>
+              </WithStyles(ForwardRef(SvgIcon))>
+            </ForwardRef>
+          </StyledComponent>
+        </Styled(CheckCircleIcon)>
+        ONBOARDING_EXISTING
+      </button>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;

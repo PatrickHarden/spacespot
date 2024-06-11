@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing  1`] = `
+<styled.div>
+  <Styled(styled.h1)>
+    ONBOARDING_TITLE
+  </Styled(styled.h1)>
+  <BuildingSeparator />
+  <styled.div>
+    <Styled(Component) />
+  </styled.div>
+</styled.div>
+`;

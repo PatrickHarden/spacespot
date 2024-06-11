@@ -1,0 +1,719 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landlord Accepted with content 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+      <div>
+        <div
+          class=""
+          tabindex="0"
+        >
+          <input
+            accept="application/pdf"
+            autocomplete="off"
+            multiple=""
+            style="display: none;"
+            tabindex="-1"
+            type="file"
+          />
+          <button
+            class="sc-htoDjs kHlInK"
+            data-testid="upload"
+          >
+            <img
+              alt="upload"
+              src="upload.svg"
+            />
+            SPECIAL_PROV_TEMPLATE_UPLOAD
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-chPdSV idJAuf"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf keUeIv"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-bZQynM jgQicF"
+        color="#6CB9D5"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-ckVGcZ grMCQK"
+    >
+      <button
+        class="sc-bdVaJa sc-iwsKbI fbhcGV"
+      >
+        SPECIAL_PROV_MODIFY
+      </button>
+      <span
+        class="sc-dxgOiQ dGLNsP"
+      >
+        SPECIAL_PROV_STATUS_ACCEPTED
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Landlord Created 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+      <div>
+        <div
+          class=""
+          tabindex="0"
+        >
+          <input
+            accept="application/pdf"
+            autocomplete="off"
+            multiple=""
+            style="display: none;"
+            tabindex="-1"
+            type="file"
+          />
+          <button
+            class="sc-htoDjs kHlInK"
+            data-testid="upload"
+          >
+            <img
+              alt="upload"
+              src="upload.svg"
+            />
+            SPECIAL_PROV_TEMPLATE_UPLOAD
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-chPdSV kQTYaE"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf keUeIv"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-ckVGcZ grMCQK"
+    >
+      <button
+        class="sc-bdVaJa sc-iwsKbI fbhcGV"
+      >
+        SPECIAL_PROV_MODIFY
+      </button>
+      <span
+        class="sc-dxgOiQ cnsbFl"
+      >
+        SPECIAL_PROV_STATUS_CREATED
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Landlord Declined 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+      <div>
+        <div
+          class=""
+          tabindex="0"
+        >
+          <input
+            accept="application/pdf"
+            autocomplete="off"
+            multiple=""
+            style="display: none;"
+            tabindex="-1"
+            type="file"
+          />
+          <button
+            class="sc-htoDjs kHlInK"
+            data-testid="upload"
+          >
+            <img
+              alt="upload"
+              src="upload.svg"
+            />
+            SPECIAL_PROV_TEMPLATE_UPLOAD
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-kGXeez dtpVJJ"
+    >
+      SPECIAL_PROV_REJECT_MSG
+    </div>
+    <div
+      class="sc-chPdSV dGEpEe"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf keUeIv"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-ckVGcZ grMCQK"
+    >
+      <button
+        class="sc-bdVaJa sc-iwsKbI fbhcGV"
+      >
+        SPECIAL_PROV_MODIFY
+      </button>
+      <span
+        class="sc-dxgOiQ bhcTgB"
+      >
+        SPECIAL_PROV_STATUS_REJECTED
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Landlord Empty 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+      <div>
+        <div
+          class=""
+          tabindex="0"
+        >
+          <input
+            accept="application/pdf"
+            autocomplete="off"
+            multiple=""
+            style="display: none;"
+            tabindex="-1"
+            type="file"
+          />
+          <button
+            class="sc-htoDjs kHlInK"
+            data-testid="upload"
+          >
+            <img
+              alt="upload"
+              src="upload.svg"
+            />
+            SPECIAL_PROV_TEMPLATE_UPLOAD
+          </button>
+        </div>
+      </div>
+    </div>
+    <h3>
+      SPECIAL_PROV_HEADING
+    </h3>
+    <ul>
+      <li>
+        SPECIAL_PROV_INDEX
+      </li>
+      <li>
+        SPECIAL_PROV_DOCS
+      </li>
+    </ul>
+    <div
+      class="sc-ckVGcZ grMCQK"
+    >
+      <button
+        class="sc-bdVaJa sc-iwsKbI fbhcGV"
+      >
+        <svg
+          height="1.1em"
+          viewBox="0 0 18 17"
+          width="1.1em"
+        >
+          <g
+            fill="none"
+            fill-rule="evenodd"
+            stroke="#6CB9D5"
+            stroke-linecap="round"
+            stroke-width="2"
+          >
+            <path
+              d="M9 1.6v13.8M1.64 8.5h14.72"
+            />
+          </g>
+        </svg>
+        SPECIAL_PROV_ADD
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Landlord closed 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+      <div>
+        <div
+          class=""
+          tabindex="0"
+        >
+          <input
+            accept="application/pdf"
+            autocomplete="off"
+            multiple=""
+            style="display: none;"
+            tabindex="-1"
+            type="file"
+          />
+          <button
+            class="sc-htoDjs kHlInK"
+            data-testid="upload"
+          >
+            <img
+              alt="upload"
+              src="upload.svg"
+            />
+            SPECIAL_PROV_TEMPLATE_UPLOAD
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-chPdSV bBbhVf"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf keUeIv"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-ckVGcZ grMCQK"
+    >
+      <button
+        class="sc-bdVaJa sc-iwsKbI fbhcGV"
+      >
+        SPECIAL_PROV_MODIFY
+      </button>
+      <span
+        class="sc-dxgOiQ dTQwIU"
+      >
+        SPECIAL_PROV_STATUS_CREATED
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tenant Accepted 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+    </div>
+    <div
+      class="sc-chPdSV idJAuf"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf dYkZbJ"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-bZQynM jgQicF"
+        color="#6CB9D5"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-jKJlTe glIfdv"
+    >
+      <div>
+        <button
+          class="sc-fjdhpX jwFMl"
+        >
+          NEGOTIATE_DECLINE
+        </button>
+      </div>
+      <div>
+        <div>
+          <span
+            class="sc-dxgOiQ dGLNsP"
+          >
+            SPECIAL_PROV_STATUS_ACCEPTED
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tenant Declined 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+    </div>
+    <div
+      class="sc-kGXeez dtpVJJ"
+    >
+      SPECIAL_PROV_TENANT_REJECT_MSG
+    </div>
+    <div
+      class="sc-chPdSV dGEpEe"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf dYkZbJ"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Provision 1
+      </div>
+    </div>
+    <div
+      class="sc-jKJlTe glIfdv"
+    >
+      <div>
+        <button
+          class="sc-fjdhpX jwFMl"
+        >
+          NEGOTIATE_ACCEPT
+        </button>
+      </div>
+      <div>
+        <div>
+          <span
+            class="sc-dxgOiQ bhcTgB"
+          >
+            SPECIAL_PROV_STATUS_REJECTED
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tenant Empty 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+    </div>
+    <div
+      class="sc-jKJlTe glIfdv"
+    >
+      <div />
+      <div>
+        <div>
+          <span
+            class="sc-dxgOiQ dTQwIU"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tenant created 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+    </div>
+    <div
+      class="sc-chPdSV kQTYaE"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf dYkZbJ"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Test
+      </div>
+    </div>
+    <div
+      class="sc-jKJlTe glIfdv"
+    >
+      <div />
+      <div>
+        <button
+          class="sc-bdVaJa sc-VigVT epVYbe"
+        >
+          NEGOTIATE_DECLINE
+        </button>
+        <button
+          class="sc-bwzfXH sc-jTzLTM gaZteH"
+        >
+          NEGOTIATE_ACCEPT
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-kpOJdX eVdXhQ"
+    >
+      NEGOTIATE_SPECIAL_PROVISION_ACCEPTING
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Tenant disabled 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cSHVUG jkVRhX"
+  >
+    <div
+      class="sc-gzVnrw gGBuAk"
+    >
+      <p>
+        <span>
+          SPECIAL_PROV_TEMPLATE_MSG: 
+        </span>
+        <button
+          class="sc-dnqmqq jAHHlC"
+          data-testid="download"
+        >
+          SPECIAL_PROV_TEMPLATE_STANDARD
+        </button>
+      </p>
+    </div>
+    <div
+      class="sc-chPdSV idJAuf"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-kgoBCf dYkZbJ"
+        data-testid="removeSP"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+      <div>
+        Test
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

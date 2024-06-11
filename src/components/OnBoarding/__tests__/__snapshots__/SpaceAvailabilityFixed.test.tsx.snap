@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing  1`] = `
+<Fragment>
+  <Styled(styled.h4)>
+    ONBOARDING_SPACE_AVAILABILITY_FIXED_TITLE
+  </Styled(styled.h4)>
+  <styled.div>
+    <Styled(Styled(Component))
+      disablePast={true}
+      id="availabilityFixed"
+      label="ONBOARDING_SPACE_AVAILABILITY"
+      onChange={[Function]}
+      value={Date { NaN }}
+    />
+    <Styled(Input)
+      id="months"
+      isRight={true}
+      label="ONBOARDING_SPACE_MONTHS"
+      onChange={[Function]}
+      placeholder="ONBOARDING_PLACEHOLDER_MONTHS"
+      type="number"
+      value=""
+    />
+  </styled.div>
+  <Styled(styled.h4)>
+    ONBOARDING_SPACE_MONTHLY_PAYMENT
+  </Styled(styled.h4)>
+  <styled.div>
+    <Styled(Styled(Input))
+      id="spaceRent"
+      isSmall={true}
+      label="ONBOARDING_SPACE_RENT (Kr)"
+      onChange={[Function]}
+      placeholder="ONBOARDING_PLACEHOLDER_RENT"
+      type="number"
+      value=""
+    />
+    <Styled(Styled(Input))
+      id="spaceServices"
+      label="ONBOARDING_SPACE_SERVICES (Kr)"
+      onChange={[Function]}
+      placeholder="ONBOARDING_PLACEHOLDER_MONTHLY_SERVICE"
+      type="number"
+      value=""
+    />
+  </styled.div>
+  <Styled(styled.h4)>
+    ONBOARDING_SPACE_YEARLY_PRICE_PER_SIZE
+  </Styled(styled.h4)>
+  <styled.div>
+    0
+  </styled.div>
+</Fragment>
+`;

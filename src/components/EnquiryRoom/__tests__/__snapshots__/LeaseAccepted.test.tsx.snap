@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders LeaseAccepted 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-EHOje bkRve"
+  >
+    <p
+      class="sc-bwzfXH lawRFO"
+    >
+      SUMMARY_SIGNING_WAITING_TENANT
+    </p>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="mail"
+          src="mail.svg"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          <b>
+            SUMMARY_SIGNING_EMAIL_SEND_TO name1@email.com 
+          </b>
+          SUMMARY_SIGNING_EMAIL_SEND_WHEN
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="clock"
+          src="clock.svg"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_WAITING_TENANT
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

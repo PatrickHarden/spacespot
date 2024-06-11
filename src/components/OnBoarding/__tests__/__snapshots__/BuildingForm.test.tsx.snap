@@ -1,0 +1,255 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders editing  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fjdhpX ivWPpw"
+  >
+    <div
+      class="sc-jzJRlG eitML"
+    >
+      <h3
+        class="sc-bxivhb sc-jTzLTM icipt"
+      >
+        ONBOARDING_BUILDING_LOCATION
+      </h3>
+      <div />
+      <div
+        class="sc-kAzzGY gxoIGP"
+      >
+        <div
+          class="sc-bdVaJa dlaMlh sc-kgoBCf fASVuD"
+        >
+          <label
+            for="city"
+          >
+            ONBOARDING_CITY
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            id="city"
+            type="text"
+            value=""
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa dlaMlh sc-kgoBCf eMitas"
+        >
+          <label
+            for="postCode"
+          >
+            ONBOARDING_POSTCODE
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            id="postCode"
+            type="text"
+            value=""
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-kAzzGY gxoIGP"
+      >
+        <div
+          class="sc-kGXeez kmgrTh"
+        />
+      </div>
+      <div
+        class="sc-iwsKbI dZnSpL"
+      >
+        <label
+          for="location"
+        >
+          ONBOARDING_LOCATION
+        </label>
+        <div />
+        <div
+          class="sc-gqjmRU ulVPb"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cSHVUG holRAm"
+    />
+  </div>
+  <div
+    class="sc-iAyFgw iIrzWq"
+  >
+    <h3
+      class="sc-bxivhb sc-kkGfuU kbARHh"
+    >
+      ONBOARDING_AMENITYLIST_TITLE
+    </h3>
+    <div
+      class="sc-hSdWYo RoIgG"
+    >
+      <div />
+    </div>
+    <div
+      class="sc-kEYyzF rdOzj"
+    >
+      <label
+        class="sc-hMqMXs cGlFEd"
+      >
+        Gym
+        <input
+          checked=""
+          type="checkbox"
+        />
+        <span />
+      </label>
+    </div>
+  </div>
+  <div
+    class="sc-dxgOiQ djyNcJ"
+  >
+    <div
+      class="sc-ckVGcZ kbnVEi"
+    />
+    <button
+      class="sc-kpOJdX sc-jKJlTe eiKxPZ"
+      data-testid="button-back"
+    >
+      ONBOARDING_BACK
+    </button>
+    <button
+      class="sc-kpOJdX sc-eNQAEJ eqqVyk"
+      data-testid="button-next"
+      id="button-next"
+    >
+      ONBOARDING_EDIT
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders without crashing  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fjdhpX ivWPpw"
+  >
+    <div
+      class="sc-jzJRlG eitML"
+    >
+      <h3
+        class="sc-bxivhb sc-jTzLTM icipt"
+      >
+        ONBOARDING_BUILDING_LOCATION
+      </h3>
+      <div />
+      <div
+        class="sc-kAzzGY gxoIGP"
+      >
+        <div
+          class="sc-bdVaJa dlaMlh sc-kgoBCf fASVuD"
+        >
+          <label
+            for="city"
+          >
+            ONBOARDING_CITY
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            id="city"
+            type="text"
+            value=""
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa dlaMlh sc-kgoBCf eMitas"
+        >
+          <label
+            for="postCode"
+          >
+            ONBOARDING_POSTCODE
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            id="postCode"
+            type="text"
+            value=""
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-kAzzGY gxoIGP"
+      >
+        <div
+          class="sc-kGXeez kmgrTh"
+        />
+      </div>
+      <div
+        class="sc-iwsKbI dZnSpL"
+      >
+        <label
+          for="location"
+        >
+          ONBOARDING_LOCATION
+        </label>
+        <div />
+        <div
+          class="sc-gqjmRU ulVPb"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-cSHVUG holRAm"
+    />
+  </div>
+  <div
+    class="sc-iAyFgw iIrzWq"
+  >
+    <h3
+      class="sc-bxivhb sc-kkGfuU kbARHh"
+    >
+      ONBOARDING_AMENITYLIST_TITLE
+    </h3>
+    <div
+      class="sc-hSdWYo RoIgG"
+    >
+      <div />
+    </div>
+    <div
+      class="sc-kEYyzF rdOzj"
+    >
+      <label
+        class="sc-hMqMXs cGlFEd"
+      >
+        Gym
+        <input
+          checked=""
+          type="checkbox"
+        />
+        <span />
+      </label>
+    </div>
+  </div>
+  <div
+    class="sc-dxgOiQ djyNcJ"
+  >
+    <div
+      class="sc-ckVGcZ kbnVEi"
+    />
+    <button
+      class="sc-kpOJdX sc-eNQAEJ eqqVyk"
+      data-testid="button-next"
+      id="button-next"
+    >
+      ONBOARDING_CONTINUE
+    </button>
+  </div>
+</DocumentFragment>
+`;

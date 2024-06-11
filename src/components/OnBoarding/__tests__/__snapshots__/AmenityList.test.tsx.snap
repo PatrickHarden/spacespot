@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing  1`] = `
+<Styled(Component)
+  amenities={
+    Object {
+      "op1": Object {
+        "checked": true,
+        "desc": "op1",
+      },
+    }
+  }
+>
+  <StyledComponent
+    amenities={
+      Object {
+        "op1": Object {
+          "checked": true,
+          "desc": "op1",
+        },
+      }
+    }
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bwzfXH",
+          "isStatic": false,
+          "lastClassName": "kyWUYx",
+          "rules": Array [
+            "
+  min-height: 100px;
+  margin-left: 10px;
+  label {
+    color: #828286;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-bwzfXH",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+  >
+    <Component
+      amenities={
+        Object {
+          "op1": Object {
+            "checked": true,
+            "desc": "op1",
+          },
+        }
+      }
+      className="sc-bwzfXH kyWUYx"
+    >
+      <div
+        className="sc-bwzfXH kyWUYx"
+      >
+        <Styled(Component)
+          checked={true}
+          key="op1"
+          onChange={[Function]}
+        >
+          <StyledComponent
+            checked={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bdVaJa",
+                  "isStatic": false,
+                  "lastClassName": "fxjLYd",
+                  "rules": Array [
+                    "
+  display: block;
+  position: relative;
+  cursor: pointer;
+  padding-left: 25px;
+  margin: 10px 0;
+  input {
+    position: absolute;
+    opacity 0;
+    cursor: pointer;
+    width: 0;
+    height: 0
+  }
+  span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    border: 2px solid #B3DBE9;
+    margin-top: 1px;
+  }
+  input:checked ~ span {
+    background-color: transparent;
+  }
+
+  span:after {
+    content: \\" \\";
+    position: absolute;
+    display: none;
+  }
+
+  input:checked ~ span:after {
+    display: block;
+  }
+
+  span:after {
+    left: 5px;
+    top: 2px;
+    width: 5px;
+    height: 8px;
+    border: solid black;
+    border-width: 0 1px 2px 0;
+    transform: rotate(45deg);
+  }
+",
+                  ],
+                },
+                "displayName": "Styled(Component)",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bdVaJa",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            onChange={[Function]}
+          >
+            <Component
+              checked={true}
+              className="sc-bdVaJa fxjLYd"
+              onChange={[Function]}
+            >
+              <label
+                className="sc-bdVaJa fxjLYd"
+              >
+                op1
+                <input
+                  checked={true}
+                  onChange={[Function]}
+                  type="checkbox"
+                />
+                <span />
+              </label>
+            </Component>
+          </StyledComponent>
+        </Styled(Component)>
+      </div>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;

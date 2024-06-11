@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Incorrect route 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-ipXKqB ktEwfJ"
+  >
+    <div
+      class="sc-fONwsr fUhGlo"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Shows the building details 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-ipXKqB ktEwfJ"
+  >
+    <div
+      class="sc-fONwsr fUhGlo"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+  ,
+</DocumentFragment>
+`;

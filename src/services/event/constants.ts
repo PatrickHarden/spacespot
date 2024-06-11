@@ -1,0 +1,9 @@
+const GET = 'EVENTS/GET'
+const GET_SUCCESS = 'EVENTS/GET/SUCCESS'
+const GET_ERROR = 'EVENTS/GET/ERROR'
+
+export default {
+  GET,
+  GET_SUCCESS,
+  GET_ERROR,
+}

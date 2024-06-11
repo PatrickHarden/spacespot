@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bwzfXH iOGJJb"
+  >
+    <p>
+      SUMMARY_SIGNING_INFO
+    </p>
+    <button
+      class="sc-bdVaJa bMKJVi"
+    >
+      SUMMARY_PREVIEW_CTA_PREVIEW
+    </button>
+  </div>
+</DocumentFragment>
+`;

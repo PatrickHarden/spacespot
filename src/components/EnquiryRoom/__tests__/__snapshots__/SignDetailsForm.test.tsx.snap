@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gqjmRU hurzXi"
+  >
+    <h2
+      class="sc-bxivhb fTAvxB"
+    >
+      SUMMARY_SIGNING_FORM_TITLE
+    </h2>
+    <div
+      class="sc-iwsKbI jilomH"
+    >
+      <h4
+        class="sc-ifAKCX sc-htoDjs cudOw"
+      >
+        SUMMARY_SIGNING_FORM_PERSON
+      </h4>
+      <p
+        class="sc-dnqmqq epmrXp"
+      >
+        SUMMARY_SIGNING_FORM_PERSON_DSC
+      </p>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="name"
+        >
+          SUMMARY_SIGNING_FORM_NAME
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="name"
+          id="name"
+          min="0"
+          type="text"
+          value="Name1"
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="emailId"
+        >
+          SUMMARY_SIGNING_FORM_EMAIL
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="emailId"
+          id="emailId"
+          min="0"
+          type="text"
+          value="name1@email.com"
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-iwsKbI jilomH"
+    >
+      <h4
+        class="sc-ifAKCX sc-htoDjs cudOw"
+      >
+        SUMMARY_SIGNING_FORM_LEGAL
+      </h4>
+      <p
+        class="sc-dnqmqq epmrXp"
+      >
+        SUMMARY_SIGNING_FORM_LEGAL_DSC
+      </p>
+      <div
+        class="sc-gZMcBi QWWJs"
+      >
+        <div
+          class="sc-bdVaJa dlaMlh"
+        >
+          <label
+            for="companyName"
+          >
+            SUMMARY_SIGNING_FORM_LEGAL_NAME
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            data-testid="companyName"
+            id="companyName"
+            min="0"
+            type="text"
+            value="companyA"
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa dlaMlh"
+        >
+          <label
+            for="companyNumber"
+          >
+            SUMMARY_SIGNING_FORM_LEGAL_NUMBER
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            data-testid="companyNumber"
+            id="companyNumber"
+            min="0"
+            type="text"
+            value="12345678"
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gzVnrw IKReL"
+    >
+      <button
+        class="sc-EHOje hOldrS"
+      >
+        SUMMARY_CTA_CONTINUE
+      </button>
+      <button
+        class="sc-bZQynM gAEiOa"
+      >
+        SUMMARY_CTA_CANCEL
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders LeaseAccepted 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gZMcBi glCPCK"
+  >
+    <h2
+      class="sc-bdVaJa vdwpC"
+    >
+      CONGRATS_LANDLORD_TITLE
+    </h2>
+    <img
+      alt="check"
+      src="circle-check.svg"
+    />
+    <div
+      class="sc-ifAKCX RiPlF"
+    >
+      <div
+        class="sc-EHOje eplpxs"
+      >
+        <h3
+          class="sc-bwzfXH sc-gzVnrw fdNsCF"
+        />
+        <p
+          class="sc-htoDjs ffwBID"
+        />
+        <p
+          class="sc-dnqmqq kcuwGs"
+        >
+          April 22, 2020 → May 22, 2021
+        </p>
+      </div>
+      <div
+        class="sc-EHOje eplpxs"
+      >
+        <h4
+          class="sc-htpNat sc-iwsKbI llEGqR"
+        >
+          CONGRATS_TENANT
+        </h4>
+        <p
+          class="sc-dnqmqq kcuwGs"
+        />
+        <p
+          class="sc-dnqmqq kcuwGs"
+        />
+      </div>
+      <div
+        class="sc-EHOje eplpxs"
+      >
+        <h4
+          class="sc-htpNat sc-iwsKbI llEGqR"
+        >
+          CONGRATS_CONFIRMATION_CODE
+        </h4>
+        <p
+          class="sc-dnqmqq kcuwGs"
+        >
+          SSL10139
+        </p>
+      </div>
+      <div
+        class="sc-bZQynM jvFkBP"
+      >
+        <button
+          class="sc-bxivhb gTRcZN"
+        >
+          CONGRATS_DOWNLOAD
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

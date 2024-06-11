@@ -1,0 +1,533 @@
+{
+  "Found": true,
+  "ElapsedTime": "00:00:00.0280000",
+  "Document": {
+    "Common.ActualAddress": {
+      "Common.Line1": "17 Slingsby Place",
+      "Common.Line2": "17 Slingsby Place, WC2E 9AB, London",
+      "Common.Locallity": "London",
+      "Common.PostalAddresses": [
+        {
+          "Common.Language": "en",
+          "Common.Line1": "17 Slingsby Place",
+          "Common.Locallity": "London"
+        }
+      ],
+      "Common.Country": "UK",
+      "Common.PostCode": "WC2E 9AB"
+    },
+    "Common.Aspects": [
+      "isLetting",
+      "hasAir-Conditioning",
+      "hasCeiling-Suspended",
+      "hasLift",
+      "hasReception",
+      "hasShowers"
+    ],
+    "Common.Availability": {
+      "Common.AvailabilityKind": "AvailableFromKnownDate",
+      "Common.AvailabilityDate": "2019-03-31"
+    },
+    "Common.AvailableFrom": "2019-03-31T00:00:00Z",
+    "Common.Brochures": [
+      {
+        "Common.Uri": "/resources/fileassets/GB-Plus-473580/0ab37aae/17%20Slingsby%20Place%2005.2019%20CBRE.pdf",
+        "Common.UriExternal": false,
+        "Common.CultureCode": "en-GB"
+      }
+    ],
+    "Common.Charges": [
+      {
+        "Common.ChargeKind": "BusinessRates",
+        "Common.CurrencyCode": "GBP",
+        "Common.Interval": "Annually",
+        "Common.Amount": 27.0,
+        "Common.AmountKind": "Value",
+        "Common.Year": 2020,
+        "Common.PerUnit": "sqft",
+        "Common.TaxModifer": "None"
+      },
+      {
+        "Common.ChargeKind": "ServiceCharge",
+        "Common.CurrencyCode": "GBP",
+        "Common.Interval": "Annually",
+        "Common.Amount": 10.0,
+        "Common.AmountKind": "Value",
+        "Common.Year": 2019,
+        "Common.PerUnit": "sqft",
+        "Common.TaxModifer": "None"
+      },
+      {
+        "Common.ChargeKind": "Rent",
+        "Common.CurrencyCode": "GBP",
+        "Common.Interval": "Annually",
+        "Common.Amount": 77.5,
+        "Common.AmountKind": "Value",
+        "Common.PerUnit": "sqft",
+        "Common.TaxModifer": "None"
+      }
+    ],
+    "Common.ContactGroup": {
+      "Common.Address": {
+        "Common.Line1": "Henrietta House",
+        "Common.Line2": "8 Henrietta Place",
+        "Common.Locallity": "London",
+        "Common.PostalAddresses": [
+          {
+            "Common.Language": "en",
+            "Common.Line1": "Henrietta House",
+            "Common.Line2": "8 Henrietta Place",
+            "Common.Locallity": "London"
+          }
+        ],
+        "Common.Country": "UK",
+        "Common.PostCode": "W1G 0NB"
+      },
+      "Common.GroupType": "AreaOffice",
+      "Common.Contacts": [
+        {
+          "Common.EmailAddress": "Simon.Lee@cbre.com",
+          "Common.TelephoneNumber": "+44 207 420 3067",
+          "Common.AgentName": "Simon Lee"
+        },
+        {
+          "Common.EmailAddress": "Lucy.Dowling@cbre.com",
+          "Common.TelephoneNumber": "+44 203 214 1861",
+          "Common.AgentName": "Lucy Dowling"
+        },
+        {
+          "Common.EmailAddress": "Harry.Tentori@cbre.com",
+          "Common.TelephoneNumber": "+44 203 257 6395",
+          "Common.AgentName": "Harry Tentori"
+        }
+      ]
+    },
+    "Common.Coordinate": { "lat": 51.512432, "lon": -0.126467 },
+    "Common.Created": "2018-10-05T12:06:18Z",
+    "Common.FloorsAndUnits": [
+      {
+        "Common.SubdivisionName": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "6th" }
+        ],
+        "Common.Areas": [
+          {
+            "Common.Units": "sqft",
+            "Common.Area": 3100.0,
+            "Common.MinArea": 0.0,
+            "Common.MaxArea": 0.0
+          }
+        ],
+        "Common.Unit.Status": "UnderOffer",
+        "Common.Unit.Use": "Office",
+        "Common.AvailableFrom": "2019-03-31T00:00:00",
+        "Common.Availability": {
+          "Common.AvailabilityKind": "AvailableFromKnownDate",
+          "Common.AvailabilityDate": "2019-03-31"
+        }
+      },
+      {
+        "Common.SubdivisionName": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Part 3rd" }
+        ],
+        "Common.Areas": [
+          {
+            "Common.Units": "sqft",
+            "Common.Area": 2732.0,
+            "Common.MinArea": 0.0,
+            "Common.MaxArea": 0.0
+          }
+        ],
+        "Common.Unit.Status": "Pending",
+        "Common.Unit.Use": "Office",
+        "Common.AvailableFrom": "2019-03-31T00:00:00",
+        "Common.Availability": {
+          "Common.AvailabilityKind": "AvailableFromKnownDate",
+          "Common.AvailabilityDate": "2019-03-31"
+        }
+      },
+      {
+        "Common.SubdivisionName": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "3rd Courtyard" }
+        ],
+        "Common.Areas": [
+          {
+            "Common.Units": "sqft",
+            "Common.Area": 1785.0,
+            "Common.MinArea": 0.0,
+            "Common.MaxArea": 0.0
+          }
+        ],
+        "Common.Unit.Status": "UnderOffer",
+        "Common.Unit.Use": "Office",
+        "Common.AvailableFrom": "2019-03-31T00:00:00",
+        "Common.Availability": {
+          "Common.AvailabilityKind": "AvailableFromKnownDate",
+          "Common.AvailabilityDate": "2019-03-31"
+        }
+      },
+      {
+        "Common.SubdivisionName": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "2nd Courtyard" }
+        ],
+        "Common.Areas": [
+          {
+            "Common.Units": "sqft",
+            "Common.Area": 3569.0,
+            "Common.MinArea": 0.0,
+            "Common.MaxArea": 0.0
+          }
+        ],
+        "Common.Unit.Status": "UnderOffer",
+        "Common.Unit.Use": "Office",
+        "Common.AvailableFrom": "2019-03-31T00:00:00",
+        "Common.Availability": {
+          "Common.AvailabilityKind": "AvailableFromKnownDate",
+          "Common.AvailabilityDate": "2019-03-31"
+        }
+      }
+    ],
+    "Common.GeoLocation": {
+      "geometry": { "type": "Point", "coordinates": [51.512432, -0.126467] },
+      "Common.Exact": true
+    },
+    "Common.Highlights": [
+      {
+        "Common.Highlight": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Air Conditioning" }
+        ]
+      },
+      {
+        "Common.Highlight": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Suspended Ceiling" }
+        ]
+      },
+      {
+        "Common.Highlight": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Lifts" }
+        ]
+      },
+      {
+        "Common.Highlight": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Manned Reception" }
+        ]
+      },
+      {
+        "Common.Highlight": [
+          { "Common.CultureCode": "en-GB", "Common.Text": "Shower(s)" }
+        ]
+      }
+    ],
+    "Common.HomeSite": "uk-comm",
+    "Common.LastUpdated": "2019-08-30T10:19:05.0320964Z",
+    "Common.LeaseTypes": ["New"],
+    "Common.LongDescription": [
+      {
+        "Common.CultureCode": "en-GB",
+        "Common.Text": "17 Slingby Place offers a newly refurbished office floor with good views across the West End. This 6th floor office is accessed via the vibrant St Martins Courtyard. The space is offered with a large kitchen and fully accessible raised floor."
+      }
+    ],
+    "Common.MinimumSize": [{ "Common.Size": 1785.0, "Common.Units": "sqft" }],
+    "Common.NumberOfBedrooms": 0,
+    "Common.Photos": [
+      {
+        "Common.ImageCaption": "1",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 305,
+            "Common.Image.Width": 528,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1.png",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 369,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 739,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 924,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+          }
+        ]
+      },
+      {
+        "Common.ImageCaption": "2",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 305,
+            "Common.Image.Width": 528,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/911e076e/2.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/911e076e/2.jpg"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 369,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/911e076e/2_Photo_2_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/911e076e/2.jpg"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 739,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/911e076e/2_Photo_2_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/911e076e/2.jpg"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 924,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/911e076e/2_Photo_2_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/911e076e/2.jpg"
+          }
+        ]
+      },
+      {
+        "Common.ImageCaption": "3",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 305,
+            "Common.Image.Width": 528,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/b62c0dc5/3.png",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/b62c0dc5/3.png"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 369,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/b62c0dc5/3_Photo_3_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/b62c0dc5/3.png"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 739,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/b62c0dc5/3_Photo_3_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/b62c0dc5/3.png"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 924,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/b62c0dc5/3_Photo_3_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/b62c0dc5/3.png"
+          }
+        ]
+      },
+      {
+        "Common.ImageCaption": "4",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 1920,
+            "Common.Image.Width": 2880,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/902ae816/4.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/902ae816/4.jpg"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 426,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/902ae816/4_Photo_4_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/902ae816/4.jpg"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 853,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/902ae816/4_Photo_4_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/902ae816/4.jpg"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 1066,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/902ae816/4_Photo_4_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/902ae816/4.jpg"
+          }
+        ]
+      },
+      {
+        "Common.ImageCaption": "5",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 1920,
+            "Common.Image.Width": 2880,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/6befa847/5.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/6befa847/5.jpg"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 426,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/6befa847/5_Photo_5_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/6befa847/5.jpg"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 853,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/6befa847/5_Photo_5_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/6befa847/5.jpg"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 1066,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/6befa847/5_Photo_5_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/6befa847/5.jpg"
+          }
+        ]
+      },
+      {
+        "Common.ImageCaption": "6",
+        "Common.ImageResources": [
+          {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 1920,
+            "Common.Image.Width": 2880,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/faec935d/6.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/faec935d/6.jpg"
+          },
+          {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 426,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/faec935d/6_Photo_6_small.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/faec935d/6.jpg"
+          },
+          {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 853,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/faec935d/6_Photo_6_medium.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/faec935d/6.jpg"
+          },
+          {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 1066,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/faec935d/6_Photo_6_large.jpg",
+            "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/faec935d/6.jpg"
+          }
+        ]
+      }
+    ],
+    "Common.PrimaryKey": "GB-Plus-473580",
+    "Common.PropertySubType": "Unknown",
+    "Common.PropertyTypes": ["Office"],
+    "Common.Sizes": [
+      {
+        "Common.SizeKind": "MinimumSize",
+        "Common.Dimensions": [
+          { "Common.DimensionsUnits": "sqft", "Common.Amount": 1785.0 }
+        ]
+      },
+      {
+        "Common.SizeKind": "TotalSize",
+        "Common.Dimensions": [
+          { "Common.DimensionsUnits": "sqft", "Common.Amount": 11186.0 }
+        ]
+      }
+    ],
+    "Common.SourceLastupdated": "2019-08-30T11:18:02",
+    "Common.Strapline": [
+      {
+        "Common.CultureCode": "en-GB",
+        "Common.Text": "Newly Refurbished 6th Floor Office Space Available"
+      }
+    ],
+    "Common.TotalSize": [{ "Common.Size": 11186.0, "Common.Units": "sqft" }],
+    "Common.UsageType": "Office",
+    "UnitedKingdom.UseClass": ["A"],
+    "UnitedKingdom.VATPayable": false,
+    "Dynamic.NewHome": false,
+    "Dynamic.UnderOffer": false,
+    "Dynamic.LetUnderOffer": false,
+    "Dynamic.Furnished": "unfurnished",
+    "Dynamic.HasSwimmingPool": false,
+    "Dynamic.HasGym": false,
+    "Dynamic.HasDoorkeeper": false,
+    "Dynamic.IsPenthouse": false,
+    "Dynamic.HasBalcony": false,
+    "Dynamic.HasParking": false,
+    "Dynamic.HasLift": true,
+    "Dynamic.HasGarden": false,
+    "Dynamic.DevelopmentOpportunity": false,
+    "Dynamic.HasHotDesks": false,
+    "Dynamic.HasFixedDesks": false,
+    "Dynamic.HasServicedOffices": false,
+    "Dynamic.Has24HourAccess": false,
+    "Dynamic.HasBreakoutSpace": false,
+    "Dynamic.HasRoofTerrace": false,
+    "Dynamic.HasWheelchairAccess": false,
+    "Dynamic.HasTeaCoffee": false,
+    "Dynamic.HasFreeMeetingRooms": false,
+    "Dynamic.HasCleaning": false,
+    "Dynamic.HasShowers": true,
+    "Dynamic.HasReception": true,
+    "Dynamic.HasBicycleRack": false,
+    "Dynamic.HasChildrensPlayArea": false,
+    "Dynamic.HasTerrace": false,
+    "Dynamic.LettingCharge": 6.46,
+    "Dynamic.NetCharge": null,
+    "Dynamic.SalePrice": null,
+    "Dynamic.MinArea": 1785.0,
+    "Dynamic.TotalArea": 11186.0,
+    "Dynamic.PrimaryImage": {
+      "Common.ImageCaption": "1",
+      "Common.ImageResources": [
+        {
+          "Common.Breakpoint": "original",
+          "Common.Image.Height": 305,
+          "Common.Image.Width": 528,
+          "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1.png",
+          "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+        },
+        {
+          "Common.Breakpoint": "small",
+          "Common.Image.Height": 369,
+          "Common.Image.Width": 640,
+          "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_small.jpg",
+          "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+        },
+        {
+          "Common.Breakpoint": "medium",
+          "Common.Image.Height": 739,
+          "Common.Image.Width": 1280,
+          "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_medium.jpg",
+          "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+        },
+        {
+          "Common.Breakpoint": "large",
+          "Common.Image.Height": 924,
+          "Common.Image.Width": 1600,
+          "Common.Resource.Uri": "/resources/fileassets/GB-Plus-473580/10267eaf/1_Photo_1_large.jpg",
+          "Source.Uri": "https://wwwlistingssearchcbreeun.blob.core.windows.net/fileassets/GB-Plus-473580/10267eaf/1.png"
+        }
+      ]
+    },
+    "Dynamic.MaxArea": null,
+    "Dynamic.FlexCharge": null,
+    "Dynamic.MinDesks": 1785.0,
+    "Dynamic.TotalDesks": 11186.0,
+    "Common.LastProcessed": "2019-08-30T10:21:39.8115229Z",
+    "Dynamic.MinimumSize": [{ "Common.Size": 1785.0, "Common.Units": "sqft" }],
+    "Dynamic.TotalSize": [{ "Common.Size": 11186.0, "Common.Units": "sqft" }]
+  }
+}

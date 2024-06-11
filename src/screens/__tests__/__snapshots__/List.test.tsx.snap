@@ -1,0 +1,1413 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows the building details 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay kIXbXz"
+  >
+    <div
+      class="sc-iRbamj hcvHvc"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="SpaceSpot Logo"
+          height="28px"
+          src="logo.svg"
+        />
+      </a>
+    </div>
+    <ul
+      class="sc-Rmtcm gdDPHr"
+    >
+      <li
+        class="sc-bRBYWo eQTZbY"
+      >
+        <button
+          class="sc-jhAzac sc-fBuWsC ljShwJ"
+          data-testid="signin"
+        >
+          <img
+            alt="sign in"
+            height="23px"
+            src="login.svg"
+          />
+          HEADER_SIGN_IN
+        </button>
+      </li>
+      <li
+        class="sc-bRBYWo eQTZbY"
+      >
+        <button
+          class="sc-jhAzac sc-dVhcbM kRSQUK"
+          data-testid="signup"
+        >
+          HEADER_SIGN_UP
+        </button>
+      </li>
+    </ul>
+  </div>
+  <div
+    class="sc-bbmXgH fyrvcD sc-bnXvFD cnBuIJ"
+  >
+    <div
+      class="sc-gGBfsJ kXygFN"
+    >
+      FILTERS_WHERE
+      <svg
+        class="sc-iELTvK juxmOo"
+        height="50"
+        viewBox="0 0 50 50"
+        width="50"
+      >
+        <title>
+          search
+        </title>
+        <path
+          d="M49.695 48.222L34.48 33.008c3.16-3.508 5.102-8.134 5.102-13.216C39.583 8.879 30.705 0 19.792 0S0 8.879 0 19.792c0 10.913 8.879 19.791 19.792 19.791 5.082 0 9.708-1.942 13.216-5.102l15.214 15.214a1.038 1.038 0 001.473 0 1.041 1.041 0 000-1.473zM19.792 37.5c-9.764 0-17.709-7.944-17.709-17.708 0-9.765 7.945-17.709 17.709-17.709 9.763 0 17.708 7.944 17.708 17.709 0 9.764-7.945 17.708-17.708 17.708z"
+          fill="#000"
+          fill-rule="nonzero"
+          stroke="#828286"
+          stroke-width="3"
+        />
+      </svg>
+    </div>
+    <div
+      class="sc-gGBfsJ cyAmCz"
+    >
+      FILTERS_DESKS
+    </div>
+    <div
+      class="MuiFormControl-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root sc-cmTdod cjWmBx MuiInputBase-formControl MuiInput-formControl"
+        data-testid="FilterSelect-radius"
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="demo-simple-select-label "
+          class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          role="button"
+          tabindex="0"
+        >
+          FILTERS_RADIUS
+        </div>
+        <input
+          type="hidden"
+          value="0"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root MuiTextField-root sc-lhVmIH YCbnW"
+      data-testid="date-picker-when"
+      format="dd/MM/yyyy"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input"
+          id="date-picker-inline"
+          readonly=""
+          type="text"
+          value="FILTERS_MOVE_IN_BY"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root sc-cmTdod cjWmBx MuiInputBase-formControl MuiInput-formControl"
+        data-testid="FilterSelect-radius"
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="demo-simple-select-label "
+          class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          role="button"
+          tabindex="0"
+        >
+          FILTERS_LENGTH
+        </div>
+        <input
+          type="hidden"
+          value="0"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root sc-cmTdod cjWmBx MuiInputBase-formControl MuiInput-formControl"
+        data-testid="FilterSelect-leaseType"
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="demo-simple-select-label "
+          class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          role="button"
+          tabindex="0"
+        >
+          FILTERS_LEASE_TYPE
+        </div>
+        <input
+          type="hidden"
+          value="NONE"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root sc-cmTdod cjWmBx MuiInputBase-formControl MuiInput-formControl"
+        data-testid="FilterSelect-maxRent"
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="demo-simple-select-label "
+          class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          role="button"
+          tabindex="0"
+        >
+          FILTERS_MAX_RENT
+        </div>
+        <input
+          type="hidden"
+          value="0"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dymIpo eGQcQY"
+  >
+    <div
+      class="sc-gFaPwZ fMTNfA"
+    >
+      <div
+        class="sc-gJWqzi jvueGV"
+      >
+        <h1
+          class="sc-rBLzX hawkfv"
+        >
+          LIST_SPACES
+        </h1>
+        <div
+          class="sc-bMvGRv kUMLNh"
+        >
+          <div
+            class="sc-CtfFt gQFwAQ"
+          >
+            PROPCARD_SORT_BY
+          </div>
+          <div
+            class="sc-laTMn hRudVf"
+          >
+            PROPCARD_MATCH
+          </div>
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="sc-hGoxap khHcJj"
+        data-auto="List-card-container"
+      >
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_22"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Space Head
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  14th PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    9,009€
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    58
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_640"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="sc-hwwEjo sc-kPVwWT kQpzwg"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="sc-hwwEjo sc-kfGgVZ bkwopp"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+                      />
+                    </svg>
+                  </div>
+                  <div
+                    class="image-gallery-swipe"
+                  >
+                    <div
+                      class="image-gallery-slides"
+                    >
+                      <div
+                        class="image-gallery-slide  center "
+                        role="button"
+                        style="transform: translate3d(0%, 0, 0);"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <img
+                            class="image-gallery-image"
+                            src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="image-gallery-slide  right "
+                        role="button"
+                        style="transform: translate3d(100%, 0, 0);"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <img
+                            class="image-gallery-image"
+                            src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="image-gallery-slide  left "
+                        role="button"
+                        style="transform: translate3d(-100%, 0, 0);"
+                        tabindex="-1"
+                      >
+                        <div>
+                          <img
+                            class="image-gallery-image"
+                            src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="image-gallery-bullets"
+                  >
+                    <div
+                      aria-label="Bullet Navigation"
+                      class="image-gallery-bullets-container"
+                      role="navigation"
+                    >
+                      <button
+                        aria-label="Go to Slide 1"
+                        aria-pressed="true"
+                        class="image-gallery-bullet active"
+                        type="button"
+                      />
+                      <button
+                        aria-label="Go to Slide 2"
+                        aria-pressed="false"
+                        class="image-gallery-bullet"
+                        type="button"
+                      />
+                      <button
+                        aria-label="Go to Slide 3"
+                        aria-pressed="false"
+                        class="image-gallery-bullet"
+                        type="button"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  CBRe castellana 200
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  1st PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    5,000€
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    33
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_23"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Praveen Space SpaceSpot-3
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  10th PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    50,000kr
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    33
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_888"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="building.svg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Space Headline Changed
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  9th PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    ￡9,898
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    15
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    Dec
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_88"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="building.svg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Space Headline SS_BUILDING_010
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  4th PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    ￡2,190
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    9
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_664"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Praveen Space SpaceSpot-4
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  11st PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    10,000kr
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    100
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_29"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY hcGwtM"
+              color="#6CB9D5"
+            >
+               PROPCARD_CHIP_FIXED 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  Space Headline
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                >
+                  15th PROPCARD_FLOOR
+                </h6>
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-eilVRo gUjtCQ"
+              >
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <span>
+                    10,000kr
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="people"
+                    src="people.svg"
+                  />
+                  <span>
+                    67
+                  </span>
+                </div>
+                <div
+                  class="sc-eerKOB fkAEMa"
+                >
+                  <img
+                    alt="calendar"
+                    src="calendar.svg"
+                  />
+                  <span>
+                    PROPCARD_AVAILABLE_NOW
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_30"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY inxlbE"
+              color="#EBBF59"
+            >
+               PROPCARD_CHIP_FLEX 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  UAT Building by SS - Flex space
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                />
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-emmjRN hadXae"
+              >
+                <div>
+                  <h5>
+                    5 PROPCARD_DESKS
+                  </h5>
+                  <div>
+                    PROPCARD_FROM 400kr
+                  </div>
+                </div>
+                <div>
+                  <h5>
+                     1 PROPCARD_SERVICED_OFFICES 
+                  </h5>
+                  <div>
+                    PROPCARD_FROM 600kr
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-RefOD blnBSG sc-cpmLhU dTKsoX"
+          id="space-SS_SPACE_32"
+        >
+          <div
+            class="sc-eXEjpC fSctdt"
+          >
+            <div
+              class="sc-ibxdXY inxlbE"
+              color="#EBBF59"
+            >
+               PROPCARD_CHIP_FLEX 
+            </div>
+          </div>
+          <div
+            class="sc-esjQYD efhTlZ sc-kIPQKe cUSlPT"
+          >
+            <div
+              aria-live="polite"
+              class="image-gallery"
+            >
+              <div
+                class="image-gallery-content bottom"
+              >
+                <div
+                  class="image-gallery-slide-wrapper bottom"
+                >
+                  <div
+                    class="image-gallery-slides"
+                  >
+                    <div
+                      class="image-gallery-slide  center "
+                      role="button"
+                      style="transform: translate3d(0%, 0, 0);"
+                      tabindex="-1"
+                    >
+                      <div>
+                        <img
+                          class="image-gallery-image"
+                          src="https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iQKALj jfjImU"
+          >
+            <div
+              class="sc-bwCtUz gBfRIM"
+            >
+              <div
+                class="sc-gwVKww jURmTx"
+              >
+                <h4
+                  class="sc-hXRMBi jeIXkp"
+                >
+                  flex headline
+                </h4>
+                <h6
+                  class="sc-eTuwsz cIMahU"
+                />
+              </div>
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root sc-iQNlJl ipgCjo"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"
+                />
+              </svg>
+            </div>
+            <div
+              class="sc-hrWEMg fOsrtz"
+            >
+              <div
+                class="sc-emmjRN hadXae"
+              >
+                <div>
+                  <h5>
+                    5 PROPCARD_DESKS
+                  </h5>
+                  <div>
+                    PROPCARD_FROM 400kr
+                  </div>
+                </div>
+                <div>
+                  <h5>
+                     1 PROPCARD_SERVICED_OFFICES 
+                  </h5>
+                  <div>
+                    PROPCARD_FROM 600kr
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-fhYwyz jVeHKV"
+    />
+  </div>
+  ,
+</DocumentFragment>
+`;

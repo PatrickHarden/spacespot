@@ -1,0 +1,3235 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<Enquiry
+  enquiry={
+    Object {
+      "enquireId": 162,
+      "enquireStatus": "PENDING_TO_ACCEPT",
+      "messages": Array [
+        Object {
+          "message": "dd",
+          "sentAt": "2020-02-20T17:24:15.755+0000",
+          "userId": "de2563f1-2e15-4a6a-9e39-9600a8ad4ec1",
+        },
+      ],
+      "negotiationId": 142,
+      "spaceId": "SS_SPACE_650",
+      "terms": Array [
+        Object {
+          "termId": 1,
+          "value": "12",
+        },
+        Object {
+          "termId": 2,
+          "value": "12.0",
+        },
+        Object {
+          "termId": 3,
+          "value": "Thu Feb 20 2020 18:24:05 GMT+0100 (hora estándar de Europa central)",
+        },
+        Object {
+          "termId": 4,
+          "value": "1",
+        },
+        Object {
+          "termId": 5,
+          "value": "",
+        },
+        Object {
+          "termId": 6,
+          "value": "",
+        },
+        Object {
+          "termId": 7,
+          "value": "",
+        },
+        Object {
+          "termId": 8,
+          "value": "123.0",
+        },
+        Object {
+          "termId": 9,
+          "value": "",
+        },
+      ],
+    }
+  }
+  isPending={true}
+>
+  <styled.div
+    isPending={true}
+    notClickable={true}
+    onClick={[Function]}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-kAzzGY",
+            "isStatic": false,
+            "lastClassName": "fmlbCn",
+            "rules": Array [
+              "
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: ",
+              [Function],
+              ";
+  box-shadow: 0px 1px 5px 2px rgba(64,64,66,0.2);
+  border-radius: 2px;
+  margin-bottom: 20px;
+  cursor: ",
+              [Function],
+              ";
+  position: relative;
+  z-index: 0;
+  ",
+              [Function],
+              "
+  @media ",
+              "(max-width: 1023px)",
+              " {
+    flex-direction: column;
+  }
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-kAzzGY",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      isPending={true}
+      notClickable={true}
+      onClick={[Function]}
+    >
+      <div
+        className="sc-kAzzGY fmlbCn"
+        onClick={[Function]}
+      >
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-chPdSV",
+                  "isStatic": false,
+                  "lastClassName": "fOSCVk",
+                  "rules": Array [
+                    "
+  flex: 0 0 auto;
+  width: 175px;
+  ",
+                    ".sc-cSHVUG",
+                    " {
+    display: none;
+  }
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    width: 100%;
+    height: 100px;
+    display: ",
+                    [Function],
+                    ";
+    box-sizing: border-box;
+    border-bottom: 1px solid #e7e7e7;
+    ",
+                    ".sc-cSHVUG",
+                    " {
+      padding: 20px;
+      display: block;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-chPdSV",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-chPdSV fOSCVk"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-jKJlTe",
+                        "isStatic": false,
+                        "lastClassName": "cCaicG",
+                        "rules": Array [
+                          "
+  height: 100%;
+  img {
+    width: 175px;
+    height: 100%;
+    object-fit: cover;
+    @media ",
+                          "(max-width: 1023px)",
+                          " {
+      padding: 10px;
+      width: 150px;
+      height: 80px;
+    }
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-jKJlTe",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-jKJlTe cCaicG"
+                  >
+                    <img
+                      alt="enquiry space"
+                      src="building.svg"
+                    />
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <ShowUnreadAndTime
+                isPending={true}
+              >
+                <styled.div>
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-cSHVUG",
+                          "isStatic": false,
+                          "lastClassName": "fsAcjJ",
+                          "rules": Array [
+                            "
+  padding: 30px 10px;
+  text-align: center;
+  @media ",
+                            "(max-width: 1023px)",
+                            " {
+    padding: 0;
+    margin: 0 auto;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-cSHVUG",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="sc-cSHVUG fsAcjJ"
+                    >
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-brqgnP",
+                                "isStatic": false,
+                                "lastClassName": "ifXxL",
+                                "rules": Array [
+                                  "
+  widht: 100%;
+  color: #ebbf59;
+  font-weight: 400;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-brqgnP",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-brqgnP ifXxL"
+                          >
+                            YOUR_ENQUIRES_PENDING
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-cvbbAY",
+                                "isStatic": false,
+                                "lastClassName": "eyRXOF",
+                                "rules": Array [
+                                  "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-cvbbAY",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-cvbbAY eyRXOF"
+                          >
+                            ONBOARDING_AVAILABILITY_NOW
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
+              </ShowUnreadAndTime>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kgoBCf",
+                  "isStatic": false,
+                  "lastClassName": "bClLlm",
+                  "rules": Array [
+                    "
+  flex: 0 0 auto;
+  width: 30%;
+  min-width: 270px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #e7e7e7;
+  padding: 0 10px;
+  margin: 10px 0;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    margin: 0;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e7e7e7;
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kgoBCf",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kgoBCf bClLlm"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-eNQAEJ",
+                        "isStatic": false,
+                        "lastClassName": "cbXSOV",
+                        "rules": Array [
+                          "
+  color: #000000;
+  font-size:18px;
+  font-weight:400
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-eNQAEJ",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-eNQAEJ cbXSOV"
+                  />
+                </StyledComponent>
+              </styled.div>
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-hMqMXs",
+                        "isStatic": false,
+                        "lastClassName": "hiPfQv",
+                        "rules": Array [
+                          "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 15px;
+  height: 18px;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-hMqMXs",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-hMqMXs hiPfQv"
+                  />
+                </StyledComponent>
+              </styled.div>
+              <FixedSpaceDetail>
+                <SpaceDetail
+                  availability={Date { NaN }}
+                  currencyCode="NOK"
+                  quantityLabel="YOUR_ENQUIRIES_SIZE"
+                  quantityValue="0 sq. m."
+                  rent={0}
+                >
+                  <styled.div>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "sc-bZQynM",
+                            "isStatic": false,
+                            "lastClassName": "jPUqB",
+                            "rules": Array [
+                              "
+  display: flex;
+  width: 100%;
+",
+                            ],
+                          },
+                          "displayName": "styled.div",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "sc-bZQynM",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="sc-bZQynM jPUqB"
+                      >
+                        <Data
+                          label="YOUR_ENQUIRIES_SIZE"
+                          value="0 sq. m."
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      0 sq. m.
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_SIZE
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                        <Data
+                          label="YOUR_ENQUIRIES_AVAILABILITY"
+                          value="ONBOARDING_AVAILABILITY_NOW"
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      ONBOARDING_AVAILABILITY_NOW
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_AVAILABILITY
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                        <Data
+                          label="YOUR_ENQUIRIES_MONTHLY_PAYMENT"
+                          value="0kr"
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      0kr
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_MONTHLY_PAYMENT
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                      </div>
+                    </StyledComponent>
+                  </styled.div>
+                </SpaceDetail>
+              </FixedSpaceDetail>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kGXeez",
+                  "isStatic": false,
+                  "lastClassName": "ksFKjH",
+                  "rules": Array [
+                    "
+  flex: 1 1 auto;
+  width: 25%;
+  min-width: 160px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+  margin: 10px 0;
+  border-right: 1px solid #e7e7e7;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    margin: 0;
+    padding: 15px 10px;
+    width: 70%;
+    border: none;
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kGXeez",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kGXeez ksFKjH"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-kEYyzF",
+                        "isStatic": false,
+                        "lastClassName": "fnQyD",
+                        "rules": Array [
+                          "
+  width: 100%;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 33px;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-kEYyzF",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-kEYyzF fnQyD"
+                  >
+                    YOUR_ENQUIRIES_LEASE_REQUEST
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-dxgOiQ",
+                        "isStatic": false,
+                        "lastClassName": "hKtbYZ",
+                        "rules": Array [
+                          "
+  display: flex;
+  width: 100%;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-dxgOiQ",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-dxgOiQ hKtbYZ"
+                  >
+                    <Data
+                      isThird={true}
+                      label="YOUR_ENQUIRIES_LENGTH"
+                      value="1 NEGOTIATE_MONTHS"
+                    >
+                      <styled.div
+                        isThird={true}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bxivhb",
+                                "isStatic": false,
+                                "lastClassName": "jIdEcL",
+                                "rules": Array [
+                                  "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                  [Function],
+                                  "
+  @media ",
+                                  "(max-width: 1023px)",
+                                  " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-bxivhb",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          isThird={true}
+                        >
+                          <div
+                            className="sc-bxivhb jIdEcL"
+                          >
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-ifAKCX",
+                                      "isStatic": false,
+                                      "lastClassName": "gtsZCP",
+                                      "rules": Array [
+                                        "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-ifAKCX",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-ifAKCX gtsZCP"
+                                >
+                                  1 NEGOTIATE_MONTHS
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-EHOje",
+                                      "isStatic": false,
+                                      "lastClassName": "kFzCTr",
+                                      "rules": Array [
+                                        "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-EHOje",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-EHOje kFzCTr"
+                                >
+                                  YOUR_ENQUIRIES_LENGTH
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </Data>
+                    <Data
+                      isThird={true}
+                      label="YOUR_ENQUIRIES_STARTS"
+                      value="02/20/2020"
+                    >
+                      <styled.div
+                        isThird={true}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bxivhb",
+                                "isStatic": false,
+                                "lastClassName": "jIdEcL",
+                                "rules": Array [
+                                  "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                  [Function],
+                                  "
+  @media ",
+                                  "(max-width: 1023px)",
+                                  " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-bxivhb",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          isThird={true}
+                        >
+                          <div
+                            className="sc-bxivhb jIdEcL"
+                          >
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-ifAKCX",
+                                      "isStatic": false,
+                                      "lastClassName": "gtsZCP",
+                                      "rules": Array [
+                                        "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-ifAKCX",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-ifAKCX gtsZCP"
+                                >
+                                  02/20/2020
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-EHOje",
+                                      "isStatic": false,
+                                      "lastClassName": "kFzCTr",
+                                      "rules": Array [
+                                        "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-EHOje",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-EHOje kFzCTr"
+                                >
+                                  YOUR_ENQUIRIES_STARTS
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </Data>
+                  </div>
+                </StyledComponent>
+              </styled.div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kpOJdX",
+                  "isStatic": false,
+                  "lastClassName": "kMyrGU",
+                  "rules": Array [
+                    "
+  flex: 0 1 auto;
+  width: 24%;
+  min-width: 80px;
+  margin: 10px 0;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    width: 100%;
+    ",
+                    ".sc-cSHVUG",
+                    " {
+      display: none;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kpOJdX",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kpOJdX kMyrGU"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-kkGfuU",
+                        "isStatic": false,
+                        "lastClassName": "gYuzpp",
+                        "rules": Array [
+                          "
+  padding-top: 60px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+  @media ",
+                          "(max-width: 1023px)",
+                          " {
+    box-sizing: border-box;
+    border-top: 1px solid #e7e7e7;
+    width: 100%;
+    padding-top: 20px;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-kkGfuU",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-kkGfuU gYuzpp"
+                  >
+                    <Styled(styled.button)
+                      data-testid="enquiry-decline"
+                      onClick={[Function]}
+                    >
+                      <StyledComponent
+                        data-testid="enquiry-decline"
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-iAyFgw",
+                              "isStatic": false,
+                              "lastClassName": "duPIFx",
+                              "rules": Array [
+                                "
+  font-size: 14px;
+  font-weight: 550;
+  border: 1px solid #6cb9d5;
+  color: #6cb9d5;
+  background-color: #ffffff;
+  border-radius: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 37px;
+  padding: 0 20px;
+",
+                                "
+  color: #6cb9d5;
+  box-sizing: border-box;
+  border: none;
+  padding: 0 10px;
+",
+                              ],
+                            },
+                            "displayName": "Styled(styled.button)",
+                            "foldedComponentIds": Array [
+                              "sc-bdVaJa",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "sc-iAyFgw",
+                            "target": "button",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        onClick={[Function]}
+                      >
+                        <button
+                          className="sc-bdVaJa sc-iAyFgw duPIFx"
+                          data-testid="enquiry-decline"
+                          onClick={[Function]}
+                        >
+                          YOUR_ENQUIRES_DECLINE
+                        </button>
+                      </StyledComponent>
+                    </Styled(styled.button)>
+                    <Styled(styled.button)
+                      data-testid="enquiry-accept"
+                      onClick={[Function]}
+                    >
+                      <StyledComponent
+                        data-testid="enquiry-accept"
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-hSdWYo",
+                              "isStatic": false,
+                              "lastClassName": "hEiYWs",
+                              "rules": Array [
+                                "
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 18px;
+  border: none;
+  background-color: #6cb9d5;
+  color: #ffffff;
+  border-radius: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 37px;
+  padding: 0 20px;
+",
+                                "
+  color: #fffff0;
+  margin-left: 10px;
+  padding: 0 10px;
+",
+                              ],
+                            },
+                            "displayName": "Styled(styled.button)",
+                            "foldedComponentIds": Array [
+                              "sc-bwzfXH",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "sc-hSdWYo",
+                            "target": "button",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        onClick={[Function]}
+                      >
+                        <button
+                          className="sc-bwzfXH sc-hSdWYo hEiYWs"
+                          data-testid="enquiry-accept"
+                          onClick={[Function]}
+                        >
+                          YOUR_ENQUIRES_ACCEPT
+                        </button>
+                      </StyledComponent>
+                    </Styled(styled.button)>
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <ShowUnreadAndTime
+                isPending={true}
+              >
+                <styled.div>
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-cSHVUG",
+                          "isStatic": false,
+                          "lastClassName": "fsAcjJ",
+                          "rules": Array [
+                            "
+  padding: 30px 10px;
+  text-align: center;
+  @media ",
+                            "(max-width: 1023px)",
+                            " {
+    padding: 0;
+    margin: 0 auto;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-cSHVUG",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="sc-cSHVUG fsAcjJ"
+                    >
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-brqgnP",
+                                "isStatic": false,
+                                "lastClassName": "ifXxL",
+                                "rules": Array [
+                                  "
+  widht: 100%;
+  color: #ebbf59;
+  font-weight: 400;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-brqgnP",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-brqgnP ifXxL"
+                          >
+                            YOUR_ENQUIRES_PENDING
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-cvbbAY",
+                                "isStatic": false,
+                                "lastClassName": "eyRXOF",
+                                "rules": Array [
+                                  "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-cvbbAY",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-cvbbAY eyRXOF"
+                          >
+                            ONBOARDING_AVAILABILITY_NOW
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
+              </ShowUnreadAndTime>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</Enquiry>
+`;
+
+exports[`renders without crashing 2`] = `
+<Enquiry
+  enquiry={
+    Object {
+      "enquireId": 162,
+      "enquireStatus": "PENDING_TO_ACCEPT",
+      "messages": Array [
+        Object {
+          "message": "dd",
+          "sentAt": "2020-02-20T17:24:15.755+0000",
+          "userId": "de2563f1-2e15-4a6a-9e39-9600a8ad4ec1",
+        },
+      ],
+      "negotiationId": 142,
+      "spaceId": "SS_SPACE_650",
+      "terms": Array [
+        Object {
+          "termId": 1,
+          "value": "12",
+        },
+        Object {
+          "termId": 2,
+          "value": "12.0",
+        },
+        Object {
+          "termId": 3,
+          "value": "Thu Feb 20 2020 18:24:05 GMT+0100 (hora estándar de Europa central)",
+        },
+        Object {
+          "termId": 4,
+          "value": "1",
+        },
+        Object {
+          "termId": 5,
+          "value": "",
+        },
+        Object {
+          "termId": 6,
+          "value": "",
+        },
+        Object {
+          "termId": 7,
+          "value": "",
+        },
+        Object {
+          "termId": 8,
+          "value": "123.0",
+        },
+        Object {
+          "termId": 9,
+          "value": "",
+        },
+      ],
+    }
+  }
+  isPending={true}
+>
+  <styled.div
+    isPending={true}
+    notClickable={true}
+    onClick={[Function]}
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-kAzzGY",
+            "isStatic": false,
+            "lastClassName": "fmlbCn",
+            "rules": Array [
+              "
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  background-color: ",
+              [Function],
+              ";
+  box-shadow: 0px 1px 5px 2px rgba(64,64,66,0.2);
+  border-radius: 2px;
+  margin-bottom: 20px;
+  cursor: ",
+              [Function],
+              ";
+  position: relative;
+  z-index: 0;
+  ",
+              [Function],
+              "
+  @media ",
+              "(max-width: 1023px)",
+              " {
+    flex-direction: column;
+  }
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-kAzzGY",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      isPending={true}
+      notClickable={true}
+      onClick={[Function]}
+    >
+      <div
+        className="sc-kAzzGY fmlbCn"
+        onClick={[Function]}
+      >
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-chPdSV",
+                  "isStatic": false,
+                  "lastClassName": "fOSCVk",
+                  "rules": Array [
+                    "
+  flex: 0 0 auto;
+  width: 175px;
+  ",
+                    ".sc-cSHVUG",
+                    " {
+    display: none;
+  }
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    width: 100%;
+    height: 100px;
+    display: ",
+                    [Function],
+                    ";
+    box-sizing: border-box;
+    border-bottom: 1px solid #e7e7e7;
+    ",
+                    ".sc-cSHVUG",
+                    " {
+      padding: 20px;
+      display: block;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-chPdSV",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-chPdSV fOSCVk"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-jKJlTe",
+                        "isStatic": false,
+                        "lastClassName": "cCaicG",
+                        "rules": Array [
+                          "
+  height: 100%;
+  img {
+    width: 175px;
+    height: 100%;
+    object-fit: cover;
+    @media ",
+                          "(max-width: 1023px)",
+                          " {
+      padding: 10px;
+      width: 150px;
+      height: 80px;
+    }
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-jKJlTe",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-jKJlTe cCaicG"
+                  >
+                    <img
+                      alt="enquiry space"
+                      src="building.svg"
+                    />
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <ShowUnreadAndTime
+                isPending={true}
+              >
+                <styled.div>
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-cSHVUG",
+                          "isStatic": false,
+                          "lastClassName": "fsAcjJ",
+                          "rules": Array [
+                            "
+  padding: 30px 10px;
+  text-align: center;
+  @media ",
+                            "(max-width: 1023px)",
+                            " {
+    padding: 0;
+    margin: 0 auto;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-cSHVUG",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="sc-cSHVUG fsAcjJ"
+                    >
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-brqgnP",
+                                "isStatic": false,
+                                "lastClassName": "ifXxL",
+                                "rules": Array [
+                                  "
+  widht: 100%;
+  color: #ebbf59;
+  font-weight: 400;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-brqgnP",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-brqgnP ifXxL"
+                          >
+                            YOUR_ENQUIRES_PENDING
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-cvbbAY",
+                                "isStatic": false,
+                                "lastClassName": "eyRXOF",
+                                "rules": Array [
+                                  "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-cvbbAY",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-cvbbAY eyRXOF"
+                          >
+                            ONBOARDING_AVAILABILITY_NOW
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
+              </ShowUnreadAndTime>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kgoBCf",
+                  "isStatic": false,
+                  "lastClassName": "bClLlm",
+                  "rules": Array [
+                    "
+  flex: 0 0 auto;
+  width: 30%;
+  min-width: 270px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #e7e7e7;
+  padding: 0 10px;
+  margin: 10px 0;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    margin: 0;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid #e7e7e7;
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kgoBCf",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kgoBCf bClLlm"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-eNQAEJ",
+                        "isStatic": false,
+                        "lastClassName": "cbXSOV",
+                        "rules": Array [
+                          "
+  color: #000000;
+  font-size:18px;
+  font-weight:400
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-eNQAEJ",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-eNQAEJ cbXSOV"
+                  />
+                </StyledComponent>
+              </styled.div>
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-hMqMXs",
+                        "isStatic": false,
+                        "lastClassName": "hiPfQv",
+                        "rules": Array [
+                          "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 15px;
+  height: 18px;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-hMqMXs",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-hMqMXs hiPfQv"
+                  />
+                </StyledComponent>
+              </styled.div>
+              <FixedSpaceDetail>
+                <SpaceDetail
+                  availability={Date { NaN }}
+                  currencyCode="NOK"
+                  quantityLabel="YOUR_ENQUIRIES_SIZE"
+                  quantityValue="0 sq. m."
+                  rent={0}
+                >
+                  <styled.div>
+                    <StyledComponent
+                      forwardedComponent={
+                        Object {
+                          "$$typeof": Symbol(react.forward_ref),
+                          "attrs": Array [],
+                          "componentStyle": ComponentStyle {
+                            "componentId": "sc-bZQynM",
+                            "isStatic": false,
+                            "lastClassName": "jPUqB",
+                            "rules": Array [
+                              "
+  display: flex;
+  width: 100%;
+",
+                            ],
+                          },
+                          "displayName": "styled.div",
+                          "foldedComponentIds": Array [],
+                          "render": [Function],
+                          "styledComponentId": "sc-bZQynM",
+                          "target": "div",
+                          "toString": [Function],
+                          "warnTooManyClasses": [Function],
+                          "withComponent": [Function],
+                        }
+                      }
+                      forwardedRef={null}
+                    >
+                      <div
+                        className="sc-bZQynM jPUqB"
+                      >
+                        <Data
+                          label="YOUR_ENQUIRIES_SIZE"
+                          value="0 sq. m."
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      0 sq. m.
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_SIZE
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                        <Data
+                          label="YOUR_ENQUIRIES_AVAILABILITY"
+                          value="ONBOARDING_AVAILABILITY_NOW"
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      ONBOARDING_AVAILABILITY_NOW
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_AVAILABILITY
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                        <Data
+                          label="YOUR_ENQUIRIES_MONTHLY_PAYMENT"
+                          value="0kr"
+                        >
+                          <styled.div>
+                            <StyledComponent
+                              forwardedComponent={
+                                Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "attrs": Array [],
+                                  "componentStyle": ComponentStyle {
+                                    "componentId": "sc-bxivhb",
+                                    "isStatic": false,
+                                    "lastClassName": "jIdEcL",
+                                    "rules": Array [
+                                      "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                      [Function],
+                                      "
+  @media ",
+                                      "(max-width: 1023px)",
+                                      " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                    ],
+                                  },
+                                  "displayName": "styled.div",
+                                  "foldedComponentIds": Array [],
+                                  "render": [Function],
+                                  "styledComponentId": "sc-bxivhb",
+                                  "target": "div",
+                                  "toString": [Function],
+                                  "warnTooManyClasses": [Function],
+                                  "withComponent": [Function],
+                                }
+                              }
+                              forwardedRef={null}
+                            >
+                              <div
+                                className="sc-bxivhb dnaMbC"
+                              >
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-ifAKCX",
+                                          "isStatic": false,
+                                          "lastClassName": "gtsZCP",
+                                          "rules": Array [
+                                            "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-ifAKCX",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-ifAKCX gtsZCP"
+                                    >
+                                      0kr
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                                <styled.div>
+                                  <StyledComponent
+                                    forwardedComponent={
+                                      Object {
+                                        "$$typeof": Symbol(react.forward_ref),
+                                        "attrs": Array [],
+                                        "componentStyle": ComponentStyle {
+                                          "componentId": "sc-EHOje",
+                                          "isStatic": false,
+                                          "lastClassName": "kFzCTr",
+                                          "rules": Array [
+                                            "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                          ],
+                                        },
+                                        "displayName": "styled.div",
+                                        "foldedComponentIds": Array [],
+                                        "render": [Function],
+                                        "styledComponentId": "sc-EHOje",
+                                        "target": "div",
+                                        "toString": [Function],
+                                        "warnTooManyClasses": [Function],
+                                        "withComponent": [Function],
+                                      }
+                                    }
+                                    forwardedRef={null}
+                                  >
+                                    <div
+                                      className="sc-EHOje kFzCTr"
+                                    >
+                                      YOUR_ENQUIRIES_MONTHLY_PAYMENT
+                                    </div>
+                                  </StyledComponent>
+                                </styled.div>
+                              </div>
+                            </StyledComponent>
+                          </styled.div>
+                        </Data>
+                      </div>
+                    </StyledComponent>
+                  </styled.div>
+                </SpaceDetail>
+              </FixedSpaceDetail>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kGXeez",
+                  "isStatic": false,
+                  "lastClassName": "ksFKjH",
+                  "rules": Array [
+                    "
+  flex: 1 1 auto;
+  width: 25%;
+  min-width: 160px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+  margin: 10px 0;
+  border-right: 1px solid #e7e7e7;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    margin: 0;
+    padding: 15px 10px;
+    width: 70%;
+    border: none;
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kGXeez",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kGXeez ksFKjH"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-kEYyzF",
+                        "isStatic": false,
+                        "lastClassName": "fnQyD",
+                        "rules": Array [
+                          "
+  width: 100%;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 33px;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-kEYyzF",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-kEYyzF fnQyD"
+                  >
+                    YOUR_ENQUIRIES_LEASE_REQUEST
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-dxgOiQ",
+                        "isStatic": false,
+                        "lastClassName": "hKtbYZ",
+                        "rules": Array [
+                          "
+  display: flex;
+  width: 100%;
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-dxgOiQ",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-dxgOiQ hKtbYZ"
+                  >
+                    <Data
+                      isThird={true}
+                      label="YOUR_ENQUIRIES_LENGTH"
+                      value="1 NEGOTIATE_MONTHS"
+                    >
+                      <styled.div
+                        isThird={true}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bxivhb",
+                                "isStatic": false,
+                                "lastClassName": "jIdEcL",
+                                "rules": Array [
+                                  "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                  [Function],
+                                  "
+  @media ",
+                                  "(max-width: 1023px)",
+                                  " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-bxivhb",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          isThird={true}
+                        >
+                          <div
+                            className="sc-bxivhb jIdEcL"
+                          >
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-ifAKCX",
+                                      "isStatic": false,
+                                      "lastClassName": "gtsZCP",
+                                      "rules": Array [
+                                        "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-ifAKCX",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-ifAKCX gtsZCP"
+                                >
+                                  1 NEGOTIATE_MONTHS
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-EHOje",
+                                      "isStatic": false,
+                                      "lastClassName": "kFzCTr",
+                                      "rules": Array [
+                                        "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-EHOje",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-EHOje kFzCTr"
+                                >
+                                  YOUR_ENQUIRIES_LENGTH
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </Data>
+                    <Data
+                      isThird={true}
+                      label="YOUR_ENQUIRIES_STARTS"
+                      value="02/20/2020"
+                    >
+                      <styled.div
+                        isThird={true}
+                      >
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bxivhb",
+                                "isStatic": false,
+                                "lastClassName": "jIdEcL",
+                                "rules": Array [
+                                  "
+  min-width: 70px;
+  margin-top: 5px;
+  margin-right: 20px;
+  ",
+                                  [Function],
+                                  "
+  @media ",
+                                  "(max-width: 1023px)",
+                                  " {
+    flex-grow: 0;
+    width: auto;
+  }
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-bxivhb",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          isThird={true}
+                        >
+                          <div
+                            className="sc-bxivhb jIdEcL"
+                          >
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-ifAKCX",
+                                      "isStatic": false,
+                                      "lastClassName": "gtsZCP",
+                                      "rules": Array [
+                                        "
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-ifAKCX",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-ifAKCX gtsZCP"
+                                >
+                                  02/20/2020
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                            <styled.div>
+                              <StyledComponent
+                                forwardedComponent={
+                                  Object {
+                                    "$$typeof": Symbol(react.forward_ref),
+                                    "attrs": Array [],
+                                    "componentStyle": ComponentStyle {
+                                      "componentId": "sc-EHOje",
+                                      "isStatic": false,
+                                      "lastClassName": "kFzCTr",
+                                      "rules": Array [
+                                        "
+  color: #828286;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 10px;
+  white-space: nowrap;
+",
+                                      ],
+                                    },
+                                    "displayName": "styled.div",
+                                    "foldedComponentIds": Array [],
+                                    "render": [Function],
+                                    "styledComponentId": "sc-EHOje",
+                                    "target": "div",
+                                    "toString": [Function],
+                                    "warnTooManyClasses": [Function],
+                                    "withComponent": [Function],
+                                  }
+                                }
+                                forwardedRef={null}
+                              >
+                                <div
+                                  className="sc-EHOje kFzCTr"
+                                >
+                                  YOUR_ENQUIRIES_STARTS
+                                </div>
+                              </StyledComponent>
+                            </styled.div>
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </Data>
+                  </div>
+                </StyledComponent>
+              </styled.div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-kpOJdX",
+                  "isStatic": false,
+                  "lastClassName": "kMyrGU",
+                  "rules": Array [
+                    "
+  flex: 0 1 auto;
+  width: 24%;
+  min-width: 80px;
+  margin: 10px 0;
+  @media ",
+                    "(max-width: 1023px)",
+                    " {
+    width: 100%;
+    ",
+                    ".sc-cSHVUG",
+                    " {
+      display: none;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-kpOJdX",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-kpOJdX kMyrGU"
+            >
+              <styled.div>
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-kkGfuU",
+                        "isStatic": false,
+                        "lastClassName": "gYuzpp",
+                        "rules": Array [
+                          "
+  padding-top: 60px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+  @media ",
+                          "(max-width: 1023px)",
+                          " {
+    box-sizing: border-box;
+    border-top: 1px solid #e7e7e7;
+    width: 100%;
+    padding-top: 20px;
+  }
+",
+                        ],
+                      },
+                      "displayName": "styled.div",
+                      "foldedComponentIds": Array [],
+                      "render": [Function],
+                      "styledComponentId": "sc-kkGfuU",
+                      "target": "div",
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                >
+                  <div
+                    className="sc-kkGfuU gYuzpp"
+                  >
+                    <Styled(styled.button)
+                      data-testid="enquiry-decline"
+                      onClick={[Function]}
+                    >
+                      <StyledComponent
+                        data-testid="enquiry-decline"
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-iAyFgw",
+                              "isStatic": false,
+                              "lastClassName": "duPIFx",
+                              "rules": Array [
+                                "
+  font-size: 14px;
+  font-weight: 550;
+  border: 1px solid #6cb9d5;
+  color: #6cb9d5;
+  background-color: #ffffff;
+  border-radius: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 37px;
+  padding: 0 20px;
+",
+                                "
+  color: #6cb9d5;
+  box-sizing: border-box;
+  border: none;
+  padding: 0 10px;
+",
+                              ],
+                            },
+                            "displayName": "Styled(styled.button)",
+                            "foldedComponentIds": Array [
+                              "sc-bdVaJa",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "sc-iAyFgw",
+                            "target": "button",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        onClick={[Function]}
+                      >
+                        <button
+                          className="sc-bdVaJa sc-iAyFgw duPIFx"
+                          data-testid="enquiry-decline"
+                          onClick={[Function]}
+                        >
+                          YOUR_ENQUIRES_DECLINE
+                        </button>
+                      </StyledComponent>
+                    </Styled(styled.button)>
+                    <Styled(styled.button)
+                      data-testid="enquiry-accept"
+                      onClick={[Function]}
+                    >
+                      <StyledComponent
+                        data-testid="enquiry-accept"
+                        forwardedComponent={
+                          Object {
+                            "$$typeof": Symbol(react.forward_ref),
+                            "attrs": Array [],
+                            "componentStyle": ComponentStyle {
+                              "componentId": "sc-hSdWYo",
+                              "isStatic": false,
+                              "lastClassName": "hEiYWs",
+                              "rules": Array [
+                                "
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 18px;
+  border: none;
+  background-color: #6cb9d5;
+  color: #ffffff;
+  border-radius: 2px;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 37px;
+  padding: 0 20px;
+",
+                                "
+  color: #fffff0;
+  margin-left: 10px;
+  padding: 0 10px;
+",
+                              ],
+                            },
+                            "displayName": "Styled(styled.button)",
+                            "foldedComponentIds": Array [
+                              "sc-bwzfXH",
+                            ],
+                            "render": [Function],
+                            "styledComponentId": "sc-hSdWYo",
+                            "target": "button",
+                            "toString": [Function],
+                            "warnTooManyClasses": [Function],
+                            "withComponent": [Function],
+                          }
+                        }
+                        forwardedRef={null}
+                        onClick={[Function]}
+                      >
+                        <button
+                          className="sc-bwzfXH sc-hSdWYo hEiYWs"
+                          data-testid="enquiry-accept"
+                          onClick={[Function]}
+                        >
+                          YOUR_ENQUIRES_ACCEPT
+                        </button>
+                      </StyledComponent>
+                    </Styled(styled.button)>
+                  </div>
+                </StyledComponent>
+              </styled.div>
+              <ShowUnreadAndTime
+                isPending={true}
+              >
+                <styled.div>
+                  <StyledComponent
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-cSHVUG",
+                          "isStatic": false,
+                          "lastClassName": "fsAcjJ",
+                          "rules": Array [
+                            "
+  padding: 30px 10px;
+  text-align: center;
+  @media ",
+                            "(max-width: 1023px)",
+                            " {
+    padding: 0;
+    margin: 0 auto;
+  }
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-cSHVUG",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      className="sc-cSHVUG fsAcjJ"
+                    >
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-brqgnP",
+                                "isStatic": false,
+                                "lastClassName": "ifXxL",
+                                "rules": Array [
+                                  "
+  widht: 100%;
+  color: #ebbf59;
+  font-weight: 400;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-brqgnP",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-brqgnP ifXxL"
+                          >
+                            YOUR_ENQUIRES_PENDING
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                      <styled.div>
+                        <StyledComponent
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-cvbbAY",
+                                "isStatic": false,
+                                "lastClassName": "eyRXOF",
+                                "rules": Array [
+                                  "
+  color: #828286;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+",
+                                ],
+                              },
+                              "displayName": "styled.div",
+                              "foldedComponentIds": Array [],
+                              "render": [Function],
+                              "styledComponentId": "sc-cvbbAY",
+                              "target": "div",
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                        >
+                          <div
+                            className="sc-cvbbAY eyRXOF"
+                          >
+                            ONBOARDING_AVAILABILITY_NOW
+                          </div>
+                        </StyledComponent>
+                      </styled.div>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
+              </ShowUnreadAndTime>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</Enquiry>
+`;

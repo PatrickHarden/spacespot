@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders LeaseAccepted both signed 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-EHOje bkRve"
+  >
+    <p
+      class="sc-bwzfXH FOrUh"
+    >
+      SUMMARY_SIGNING_BOTH_ACCEPTED
+    </p>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="mail"
+          src="check.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_YOU_SIGNED
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="clock"
+          src="check.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_TENANT_SIGNED
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders LeaseAccepted signed peer1 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-EHOje bkRve"
+  >
+    <p
+      class="sc-bwzfXH FOrUh"
+    >
+      SUMMARY_SIGNING_BOTH_ACCEPTED
+    </p>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="mail"
+          src="mail.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          <b>
+            SUMMARY_SIGNING_EMAIL_SENT_TO name1@email.com 
+          </b>
+          SUMMARY_SIGNING_EMAIL_SENT_WITH
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="clock"
+          src="check.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_TENANT_SIGNED
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders LeaseAccepted signed peer2 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-EHOje bkRve"
+  >
+    <p
+      class="sc-bwzfXH FOrUh"
+    >
+      SUMMARY_SIGNING_BOTH_ACCEPTED
+    </p>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="mail"
+          src="check.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_YOU_SIGNED
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="clock"
+          src="clock.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_TENANT_NOT_SIGNED
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Uses signer info 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-EHOje bkRve"
+  >
+    <p
+      class="sc-bwzfXH FOrUh"
+    >
+      SUMMARY_SIGNING_BOTH_ACCEPTED
+    </p>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="mail"
+          src="mail.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          <b>
+            SUMMARY_SIGNING_EMAIL_SENT_TO name1@email.com 
+          </b>
+          SUMMARY_SIGNING_EMAIL_SENT_WITH
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-htpNat diCilZ"
+    >
+      <div
+        class="sc-bxivhb hCSfZy"
+      >
+        <img
+          alt="clock"
+          src="clock.svg"
+          width="20px"
+        />
+      </div>
+      <div
+        class="sc-ifAKCX fhUSGU"
+      >
+        <p>
+          SUMMARY_SIGNING_TENANT_NOT_SIGNED
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

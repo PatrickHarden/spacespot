@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>icons/pinDark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/pinDark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spacespot" transform="translate(3.000000, 0.000000)" fill="#F35C2B" fill-rule="nonzero">
+            <path d="M8.36962374,21.4482957 C13.5685627,15.8973246 16.1680322,11.6314766 16.1680322,8.65075155 C16.1680322,4.14500442 12.7713921,0.956321839 8.36962374,0.956321839 C3.96785539,0.956321839 0.571215247,4.14500442 0.571215247,8.65075155 C0.571215247,11.6314766 3.17068474,15.8973246 8.36962374,21.4482957 Z" id="spot"></path>
+        </g>
+    </g>
+</svg>

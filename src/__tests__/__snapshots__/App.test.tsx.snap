@@ -1,0 +1,2776 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Auth loading 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-kSFxNF cNbxYD"
+  >
+    <p>
+      Authenticating...
+    </p>
+    <div
+      class="sc-eInJlc hLzgKX"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Check returns Redirect 1`] = `<DocumentFragment />`;
+
+exports[`Check returns component 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iqtXtF iLrGmc"
+  >
+    <div
+      class="sc-jtEaiv cYmMWF"
+    >
+      <picture>
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.webp 414w, home-bg-m.webp 1366w, home-bg-l.webp 1920w"
+          type="image/webp"
+        />
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.jpg 414w, home-bg-m.jpg 1366w, home-bg-l.jpg 1920w"
+          type="image/jpg"
+        />
+        <img
+          alt="bg"
+          class="sc-dfRKBO fYJEOH"
+          src="home-bg-l.jpg"
+        />
+      </picture>
+      <div
+        class="sc-jiTwWT cYNshE"
+      >
+        <div
+          class="sc-gPEVay jqJlQl"
+        >
+          <div
+            class="sc-iRbamj hcvHvc"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="SpaceSpot Logo"
+                height="28px"
+                src="logo.svg"
+              />
+            </a>
+          </div>
+          <ul
+            class="sc-Rmtcm gdDPHr"
+          >
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-fBuWsC ljShwJ"
+                data-testid="signin"
+              >
+                <img
+                  alt="sign in"
+                  height="23px"
+                  src="login.svg"
+                />
+                Log in
+              </button>
+            </li>
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-dVhcbM kRSQUK"
+                data-testid="signup"
+              >
+                Sign up
+              </button>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-huKLiJ eUaSSR"
+        >
+          <h2
+            class="sc-jFpLkX hjFAJp"
+          >
+            Let's go Spacespotting!
+          </h2>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-jTzLTM khyhXL sc-fguZLD sc-ewMkZo gsKTLc"
+            >
+              <label
+                for="desks"
+              >
+                # People
+              </label>
+              <input
+                class="sc-fjdhpX hiwieK"
+                id="desks"
+                min="1"
+                type="number"
+                value=""
+              />
+              <div
+                class="sc-jzJRlG ezwPoc"
+              />
+            </div>
+            <div
+              class="sc-bMVAic hrAfnM sc-bAeIUo sc-eCXBzT clrhL"
+            >
+              <label>
+                When
+              </label>
+              <div
+                class="MuiFormControl-root MuiTextField-root"
+              >
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+                    id="when"
+                    placeholder="dd/mm/yyyy"
+                    type="text"
+                    value=""
+                  />
+                  <div
+                    class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      >
+                        <img
+                          alt="open calendar"
+                          src="calendar.svg"
+                        />
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-481 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-482"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-eXsVQl ewpJbM"
+            >
+              Type
+            </div>
+            <div
+              class="sc-lffWgi iESWfk"
+            >
+              What’s this?
+            </div>
+          </div>
+          <div
+            class="sc-fGSyRc dqWSUF"
+          >
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Standard office
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Coworking
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Both
+            </button>
+          </div>
+          <div
+            class="sc-lmrgJh jYRlze"
+          >
+            <button
+              class="sc-dzQEYZ iOQxmG"
+              data-auto="wizard-search"
+            >
+              Search
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-kxLnmX eOJprD"
+    >
+      <div
+        class="sc-gggouf beRJOr"
+      >
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-spacespotting"
+        >
+          <h1
+            class="sc-eSePXt sc-juQqkt grmoUC"
+          >
+            Let's go Spacespotting!
+          </h1>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="spot"
+                src="spot-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                1.Spot
+              </h2>
+              <p>
+                Use our search to find your perfect space easily. And if you have any doubts we'll be here to help you.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="chat"
+                src="chat-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                2.Chat
+              </h2>
+              <p>
+                Arrange viewings, chat and negotiate an agreement with the landlord.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="sign"
+                src="sign-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                3.Sign
+              </h2>
+              <p>
+                Simply sign the lease online. Easy, fast and convenient.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-izUgoq iUomh"
+          data-auto="home-why"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Why SpaceSpot?
+          </h2>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="easy"
+                src="easy-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Incredibly easy
+              </h3>
+              <p>
+                It’s the no-nonsense approach to finding your perfect space. And if you need advice, our experts are here to help.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="online"
+                src="online-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Completely online
+              </h3>
+              <p>
+                You can use Spacespot to agree the terms of your lease and even sign documents, so you’ll only need to move when you decide to visit a space.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="free"
+                src="free-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                It's free!
+              </h3>
+              <p>
+                It costs you nothing because the landlords pay us for their listings. The price you negotiate will be the price you pay.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-ibnDSj lnvnyc"
+          data-auto="home-about"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH hYIJhP"
+          >
+            Who are we?
+          </h2>
+          <p>
+            Spacespot is the place for finding, negotiating and signing for your next office space. We are powered by the largest real estate services firm in the world: CBRE, so whatever your question on space, we will know the answer.
+          </p>
+          <p>
+            Whether you’re looking for conventional office space or coworking desks for your employees, we have it covered. And if you have any questions at any stage, our experts are here to help you. 
+          </p>
+          <a
+            href="/en-no/about-us"
+          >
+            <button
+              class="sc-bdVaJa sc-eZXMBi cxRGyS"
+            >
+              About us
+            </button>
+          </a>
+          <hr />
+        </div>
+        <div
+          class="sc-fAMDQA OXZrR"
+        >
+          <div
+            data-auto="home-types-office"
+          >
+            <img
+              alt="office"
+              src="office-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Office space
+            </h2>
+            <p>
+              If you are looking for a longer lease period, you might be better off with a traditional lease agreement. You will then have access to your own exclusive space through the length of the lease term. The term will most often require a minimum of a few years, depending on rent and customization of the space. But then the space is yours and you may personalize it with your company branding.
+            </p>
+            <a
+              href="/en-no/office-space"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-offices"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+          <div
+            data-auto="home-types-coworking"
+          >
+            <img
+              alt="coworking"
+              src="coworking-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Coworking space
+            </h2>
+            <p>
+              If you require more flexibility, one of the different coworking options might be a good alternative. Coworking covers both renting single desks, and also exclusive private offices. The main difference is that you don’t sign a lease agreement, but enjoy a monthly rolling membership. You can then easily flex the size or number of desks you need.
+            </p>
+            <a
+              href="/en-no/coworking"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-coworking"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-data-auto"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Not sure what you need?
+          </h2>
+          <div
+            class="sc-lgsldV ituzDR"
+          >
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Do I need standard office or coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Standard office spaces are recommended for stable headcount - when you want to own your own space, fit it out your own way and you want longer lease terms. Coworking spaces are right for you when you need flexibility in terms and required space. You can modify the terms to match your need if your headcount changes or when other requirements arise. 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Hot desk, fixed desk or serviced office?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        With hot desks you choose where you sit among the available seats. Fixed desk space means that your desk is your own, always the same, allowing you to add any decorations you wish. Serviced office is a private office you can lease as your own space and fill it with people up to the maximum capacity.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    How much office space do I need?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        <span>
+                          The most common range is 10-20 sq.m per employee. The lower end of that range will allow you to accommodate mostly an open bench seating layout, while the higher end will make space for common areas, meeting rooms and private offices.
+                          <br />
+                          If you need further help our advisors are here to help. 
+                          <a
+                            href="mailto:oslo@spacespot.com"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            Contact us
+                          </a>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    What’s usually included in a coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Coworking space rates usually include fully equipped common areas. Internet connection will be included, but some providers may place a cap on the amount of internet usage you have available.
+                        <br />
+                        Other services are usually available on a pay-as-you-need basis: private meeting rooms, business services, catering…
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-cRULEh kQZdOl"
+          >
+            <p>
+              Can’t find what you are looking for?
+            </p>
+            <a
+              class="sc-bCMXmc irQDzt"
+              href="mailto: oslo@spacespot.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Contact us
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-sVRsr cyQgEe"
+          data-auto="landlord-contact"
+        >
+          <div>
+            <div>
+              <h2
+                class="sc-VigVT sc-bpubUI kbKRXc"
+              >
+                Do you own a space?
+              </h2>
+              <h3>
+                List it for free and manage all your properties online.
+              </h3>
+              <a
+                class="sc-jkPxnQ kjJjVX"
+                href="mailto: oslo@spacespot.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Contact us
+              </a>
+            </div>
+          </div>
+          <img
+            alt="womanbg"
+            src="woman-using-mobile.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-hAnkBK fXitUK"
+        data-auto="footer"
+      >
+        <div
+          class="sc-DNdyV vdvHb"
+        >
+          <div
+            class="sc-dPPMrM jDAbrG"
+          >
+            <div
+              class="sc-cNnxps dWPnbh"
+            >
+              <a
+                href="/"
+              >
+                <img
+                  alt="SpaceSpot Logo"
+                  height="28px"
+                  src="logo.svg"
+                />
+              </a>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="mailto:oslo@spacespot.com"
+                >
+                  Contact
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/privacy"
+                >
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/terms"
+                >
+                  Terms of service
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/cookie-policy"
+                >
+                  Cookie policy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/about-us"
+                >
+                  About us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/list"
+                >
+                  Search office spaces
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="sc-jWxkHr bSTohJ"
+          >
+            <div
+              class="sc-ileJJU eKEdxy"
+            >
+              <div
+                class="sc-eqPNPO flILMU sc-jotlie dKboAG"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline sc-eMRERa iYWrBZ"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-labelledby=" lang-dd"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                    id="lang-dd"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <div
+                      class="sc-fdQOMr kpffjf"
+                    >
+                      <img
+                        alt="uk"
+                        src="uk.svg"
+                      />
+                      <div
+                        class="sc-fAJaQT fQtaga"
+                      >
+                        English (UK)
+                      </div>
+                    </div>
+                  </div>
+                  <input
+                    type="hidden"
+                    value="en-UK"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="https://www.facebook.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Facebook"
+                    height="30px"
+                    src="facebook.svg"
+                    width="17px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Instagram"
+                    height="30px"
+                    src="instagram.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/Spacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="LinkedIn"
+                    height="30px"
+                    src="linkedin.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+            </ul>
+            <div
+              class="sc-imDfJI gRAUUT"
+            >
+              © 2020 Spacespot.com All rights reserved.
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-imDfJI sc-geAPOV hHCnzB"
+        >
+          © 2020 Spacespot.com All rights reserved.
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders with default language 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iqtXtF iLrGmc"
+  >
+    <div
+      class="sc-jtEaiv cYmMWF"
+    >
+      <picture>
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.webp 414w, home-bg-m.webp 1366w, home-bg-l.webp 1920w"
+          type="image/webp"
+        />
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.jpg 414w, home-bg-m.jpg 1366w, home-bg-l.jpg 1920w"
+          type="image/jpg"
+        />
+        <img
+          alt="bg"
+          class="sc-dfRKBO fYJEOH"
+          src="home-bg-l.jpg"
+        />
+      </picture>
+      <div
+        class="sc-jiTwWT cYNshE"
+      >
+        <div
+          class="sc-gPEVay jqJlQl"
+        >
+          <div
+            class="sc-iRbamj hcvHvc"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="SpaceSpot Logo"
+                height="28px"
+                src="logo.svg"
+              />
+            </a>
+          </div>
+          <ul
+            class="sc-Rmtcm gdDPHr"
+          >
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-fBuWsC ljShwJ"
+                data-testid="signin"
+              >
+                <img
+                  alt="sign in"
+                  height="23px"
+                  src="login.svg"
+                />
+                Log in
+              </button>
+            </li>
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-dVhcbM kRSQUK"
+                data-testid="signup"
+              >
+                Sign up
+              </button>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-huKLiJ eUaSSR"
+        >
+          <h2
+            class="sc-jFpLkX hjFAJp"
+          >
+            Let's go Spacespotting!
+          </h2>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-jTzLTM khyhXL sc-fguZLD sc-ewMkZo gsKTLc"
+            >
+              <label
+                for="desks"
+              >
+                # People
+              </label>
+              <input
+                class="sc-fjdhpX hiwieK"
+                id="desks"
+                min="1"
+                type="number"
+                value=""
+              />
+              <div
+                class="sc-jzJRlG ezwPoc"
+              />
+            </div>
+            <div
+              class="sc-bMVAic hrAfnM sc-bAeIUo sc-eCXBzT clrhL"
+            >
+              <label>
+                When
+              </label>
+              <div
+                class="MuiFormControl-root MuiTextField-root"
+              >
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+                    id="when"
+                    placeholder="dd/mm/yyyy"
+                    type="text"
+                    value=""
+                  />
+                  <div
+                    class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      >
+                        <img
+                          alt="open calendar"
+                          src="calendar.svg"
+                        />
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-278 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-279"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-eXsVQl ewpJbM"
+            >
+              Type
+            </div>
+            <div
+              class="sc-lffWgi iESWfk"
+            >
+              What’s this?
+            </div>
+          </div>
+          <div
+            class="sc-fGSyRc dqWSUF"
+          >
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Standard office
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Coworking
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Both
+            </button>
+          </div>
+          <div
+            class="sc-lmrgJh jYRlze"
+          >
+            <button
+              class="sc-dzQEYZ iOQxmG"
+              data-auto="wizard-search"
+            >
+              Search
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-kxLnmX eOJprD"
+    >
+      <div
+        class="sc-gggouf beRJOr"
+      >
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-spacespotting"
+        >
+          <h1
+            class="sc-eSePXt sc-juQqkt grmoUC"
+          >
+            Let's go Spacespotting!
+          </h1>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="spot"
+                src="spot-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                1.Spot
+              </h2>
+              <p>
+                Use our search to find your perfect space easily. And if you have any doubts we'll be here to help you.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="chat"
+                src="chat-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                2.Chat
+              </h2>
+              <p>
+                Arrange viewings, chat and negotiate an agreement with the landlord.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="sign"
+                src="sign-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                3.Sign
+              </h2>
+              <p>
+                Simply sign the lease online. Easy, fast and convenient.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-izUgoq iUomh"
+          data-auto="home-why"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Why SpaceSpot?
+          </h2>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="easy"
+                src="easy-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Incredibly easy
+              </h3>
+              <p>
+                It’s the no-nonsense approach to finding your perfect space. And if you need advice, our experts are here to help.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="online"
+                src="online-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Completely online
+              </h3>
+              <p>
+                You can use Spacespot to agree the terms of your lease and even sign documents, so you’ll only need to move when you decide to visit a space.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="free"
+                src="free-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                It's free!
+              </h3>
+              <p>
+                It costs you nothing because the landlords pay us for their listings. The price you negotiate will be the price you pay.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-ibnDSj lnvnyc"
+          data-auto="home-about"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH hYIJhP"
+          >
+            Who are we?
+          </h2>
+          <p>
+            Spacespot is the place for finding, negotiating and signing for your next office space. We are powered by the largest real estate services firm in the world: CBRE, so whatever your question on space, we will know the answer.
+          </p>
+          <p>
+            Whether you’re looking for conventional office space or coworking desks for your employees, we have it covered. And if you have any questions at any stage, our experts are here to help you. 
+          </p>
+          <a
+            href="/en-no/about-us"
+          >
+            <button
+              class="sc-bdVaJa sc-eZXMBi cxRGyS"
+            >
+              About us
+            </button>
+          </a>
+          <hr />
+        </div>
+        <div
+          class="sc-fAMDQA OXZrR"
+        >
+          <div
+            data-auto="home-types-office"
+          >
+            <img
+              alt="office"
+              src="office-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Office space
+            </h2>
+            <p>
+              If you are looking for a longer lease period, you might be better off with a traditional lease agreement. You will then have access to your own exclusive space through the length of the lease term. The term will most often require a minimum of a few years, depending on rent and customization of the space. But then the space is yours and you may personalize it with your company branding.
+            </p>
+            <a
+              href="/en-no/office-space"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-offices"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+          <div
+            data-auto="home-types-coworking"
+          >
+            <img
+              alt="coworking"
+              src="coworking-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Coworking space
+            </h2>
+            <p>
+              If you require more flexibility, one of the different coworking options might be a good alternative. Coworking covers both renting single desks, and also exclusive private offices. The main difference is that you don’t sign a lease agreement, but enjoy a monthly rolling membership. You can then easily flex the size or number of desks you need.
+            </p>
+            <a
+              href="/en-no/coworking"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-coworking"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-data-auto"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Not sure what you need?
+          </h2>
+          <div
+            class="sc-lgsldV ituzDR"
+          >
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Do I need standard office or coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Standard office spaces are recommended for stable headcount - when you want to own your own space, fit it out your own way and you want longer lease terms. Coworking spaces are right for you when you need flexibility in terms and required space. You can modify the terms to match your need if your headcount changes or when other requirements arise. 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Hot desk, fixed desk or serviced office?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        With hot desks you choose where you sit among the available seats. Fixed desk space means that your desk is your own, always the same, allowing you to add any decorations you wish. Serviced office is a private office you can lease as your own space and fill it with people up to the maximum capacity.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    How much office space do I need?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        <span>
+                          The most common range is 10-20 sq.m per employee. The lower end of that range will allow you to accommodate mostly an open bench seating layout, while the higher end will make space for common areas, meeting rooms and private offices.
+                          <br />
+                          If you need further help our advisors are here to help. 
+                          <a
+                            href="mailto:oslo@spacespot.com"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            Contact us
+                          </a>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    What’s usually included in a coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Coworking space rates usually include fully equipped common areas. Internet connection will be included, but some providers may place a cap on the amount of internet usage you have available.
+                        <br />
+                        Other services are usually available on a pay-as-you-need basis: private meeting rooms, business services, catering…
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-cRULEh kQZdOl"
+          >
+            <p>
+              Can’t find what you are looking for?
+            </p>
+            <a
+              class="sc-bCMXmc irQDzt"
+              href="mailto: oslo@spacespot.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Contact us
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-sVRsr cyQgEe"
+          data-auto="landlord-contact"
+        >
+          <div>
+            <div>
+              <h2
+                class="sc-VigVT sc-bpubUI kbKRXc"
+              >
+                Do you own a space?
+              </h2>
+              <h3>
+                List it for free and manage all your properties online.
+              </h3>
+              <a
+                class="sc-jkPxnQ kjJjVX"
+                href="mailto: oslo@spacespot.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Contact us
+              </a>
+            </div>
+          </div>
+          <img
+            alt="womanbg"
+            src="woman-using-mobile.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-hAnkBK fXitUK"
+        data-auto="footer"
+      >
+        <div
+          class="sc-DNdyV vdvHb"
+        >
+          <div
+            class="sc-dPPMrM jDAbrG"
+          >
+            <div
+              class="sc-cNnxps dWPnbh"
+            >
+              <a
+                href="/"
+              >
+                <img
+                  alt="SpaceSpot Logo"
+                  height="28px"
+                  src="logo.svg"
+                />
+              </a>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="mailto:oslo@spacespot.com"
+                >
+                  Contact
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/privacy"
+                >
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/terms"
+                >
+                  Terms of service
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/cookie-policy"
+                >
+                  Cookie policy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/about-us"
+                >
+                  About us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/list"
+                >
+                  Search office spaces
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="sc-jWxkHr bSTohJ"
+          >
+            <div
+              class="sc-ileJJU eKEdxy"
+            >
+              <div
+                class="sc-eqPNPO flILMU sc-jotlie dKboAG"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline sc-eMRERa iYWrBZ"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-labelledby=" lang-dd"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                    id="lang-dd"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <div
+                      class="sc-fdQOMr kpffjf"
+                    >
+                      <img
+                        alt="uk"
+                        src="uk.svg"
+                      />
+                      <div
+                        class="sc-fAJaQT fQtaga"
+                      >
+                        English (UK)
+                      </div>
+                    </div>
+                  </div>
+                  <input
+                    type="hidden"
+                    value="en-UK"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="https://www.facebook.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Facebook"
+                    height="30px"
+                    src="facebook.svg"
+                    width="17px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Instagram"
+                    height="30px"
+                    src="instagram.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/Spacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="LinkedIn"
+                    height="30px"
+                    src="linkedin.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+            </ul>
+            <div
+              class="sc-imDfJI gRAUUT"
+            >
+              © 2020 Spacespot.com All rights reserved.
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-imDfJI sc-geAPOV hHCnzB"
+        >
+          © 2020 Spacespot.com All rights reserved.
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders without crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-iqtXtF iLrGmc"
+  >
+    <div
+      class="sc-jtEaiv cYmMWF"
+    >
+      <picture>
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.webp 414w, home-bg-m.webp 1366w, home-bg-l.webp 1920w"
+          type="image/webp"
+        />
+        <source
+          sizes="100vw"
+          srcset="home-bg-s.jpg 414w, home-bg-m.jpg 1366w, home-bg-l.jpg 1920w"
+          type="image/jpg"
+        />
+        <img
+          alt="bg"
+          class="sc-dfRKBO fYJEOH"
+          src="home-bg-l.jpg"
+        />
+      </picture>
+      <div
+        class="sc-jiTwWT cYNshE"
+      >
+        <div
+          class="sc-gPEVay jqJlQl"
+        >
+          <div
+            class="sc-iRbamj hcvHvc"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="SpaceSpot Logo"
+                height="28px"
+                src="logo.svg"
+              />
+            </a>
+          </div>
+          <ul
+            class="sc-Rmtcm gdDPHr"
+          >
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-fBuWsC ljShwJ"
+                data-testid="signin"
+              >
+                <img
+                  alt="sign in"
+                  height="23px"
+                  src="login.svg"
+                />
+                Log in
+              </button>
+            </li>
+            <li
+              class="sc-bRBYWo eQTZbY"
+            >
+              <button
+                class="sc-jhAzac sc-dVhcbM kRSQUK"
+                data-testid="signup"
+              >
+                Sign up
+              </button>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-huKLiJ eUaSSR"
+        >
+          <h2
+            class="sc-jFpLkX hjFAJp"
+          >
+            Let's go Spacespotting!
+          </h2>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-jTzLTM khyhXL sc-fguZLD sc-ewMkZo gsKTLc"
+            >
+              <label
+                for="desks"
+              >
+                # People
+              </label>
+              <input
+                class="sc-fjdhpX hiwieK"
+                id="desks"
+                min="1"
+                type="number"
+                value=""
+              />
+              <div
+                class="sc-jzJRlG ezwPoc"
+              />
+            </div>
+            <div
+              class="sc-bMVAic hrAfnM sc-bAeIUo sc-eCXBzT clrhL"
+            >
+              <label>
+                When
+              </label>
+              <div
+                class="MuiFormControl-root MuiTextField-root"
+              >
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+                    id="when"
+                    placeholder="dd/mm/yyyy"
+                    type="text"
+                    value=""
+                  />
+                  <div
+                    class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      >
+                        <img
+                          alt="open calendar"
+                          src="calendar.svg"
+                        />
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-75 MuiOutlinedInput-notchedOutline"
+                    style="padding-left: 8px;"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legend-76"
+                      style="width: 0.01px;"
+                    >
+                      <span>
+                        ​
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-dCVVYJ hmLDBj"
+          >
+            <div
+              class="sc-eXsVQl ewpJbM"
+            >
+              Type
+            </div>
+            <div
+              class="sc-lffWgi iESWfk"
+            >
+              What’s this?
+            </div>
+          </div>
+          <div
+            class="sc-fGSyRc dqWSUF"
+          >
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Standard office
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Coworking
+            </button>
+            <button
+              class="sc-hfLElm kWrrBl"
+            >
+              Both
+            </button>
+          </div>
+          <div
+            class="sc-lmrgJh jYRlze"
+          >
+            <button
+              class="sc-dzQEYZ iOQxmG"
+              data-auto="wizard-search"
+            >
+              Search
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-kxLnmX eOJprD"
+    >
+      <div
+        class="sc-gggouf beRJOr"
+      >
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-spacespotting"
+        >
+          <h1
+            class="sc-eSePXt sc-juQqkt grmoUC"
+          >
+            Let's go Spacespotting!
+          </h1>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="spot"
+                src="spot-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                1.Spot
+              </h2>
+              <p>
+                Use our search to find your perfect space easily. And if you have any doubts we'll be here to help you.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="chat"
+                src="chat-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                2.Chat
+              </h2>
+              <p>
+                Arrange viewings, chat and negotiate an agreement with the landlord.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="sign"
+                src="sign-illustration.svg"
+              />
+              <h2
+                class="sc-VigVT sc-bkCOcH hYIJhP"
+              >
+                3.Sign
+              </h2>
+              <p>
+                Simply sign the lease online. Easy, fast and convenient.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-izUgoq iUomh"
+          data-auto="home-why"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Why SpaceSpot?
+          </h2>
+          <div
+            class="sc-lXiCt bhSycf"
+          >
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="easy"
+                src="easy-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Incredibly easy
+              </h3>
+              <p>
+                It’s the no-nonsense approach to finding your perfect space. And if you need advice, our experts are here to help.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="online"
+                src="online-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                Completely online
+              </h3>
+              <p>
+                You can use Spacespot to agree the terms of your lease and even sign documents, so you’ll only need to move when you decide to visit a space.
+              </p>
+            </div>
+            <div
+              class="sc-dcOKER kwPCRF"
+            >
+              <img
+                alt="free"
+                src="free-icon.svg"
+              />
+              <h3
+                class="sc-kiXyGy guUpIm"
+              >
+                It's free!
+              </h3>
+              <p>
+                It costs you nothing because the landlords pay us for their listings. The price you negotiate will be the price you pay.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-ibnDSj lnvnyc"
+          data-auto="home-about"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH hYIJhP"
+          >
+            Who are we?
+          </h2>
+          <p>
+            Spacespot is the place for finding, negotiating and signing for your next office space. We are powered by the largest real estate services firm in the world: CBRE, so whatever your question on space, we will know the answer.
+          </p>
+          <p>
+            Whether you’re looking for conventional office space or coworking desks for your employees, we have it covered. And if you have any questions at any stage, our experts are here to help you. 
+          </p>
+          <a
+            href="/en-no/about-us"
+          >
+            <button
+              class="sc-bdVaJa sc-eZXMBi cxRGyS"
+            >
+              About us
+            </button>
+          </a>
+          <hr />
+        </div>
+        <div
+          class="sc-fAMDQA OXZrR"
+        >
+          <div
+            data-auto="home-types-office"
+          >
+            <img
+              alt="office"
+              src="office-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Office space
+            </h2>
+            <p>
+              If you are looking for a longer lease period, you might be better off with a traditional lease agreement. You will then have access to your own exclusive space through the length of the lease term. The term will most often require a minimum of a few years, depending on rent and customization of the space. But then the space is yours and you may personalize it with your company branding.
+            </p>
+            <a
+              href="/en-no/office-space"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-offices"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+          <div
+            data-auto="home-types-coworking"
+          >
+            <img
+              alt="coworking"
+              src="coworking-space.jpg"
+            />
+            <h2
+              class="sc-VigVT sc-bkCOcH hYIJhP"
+            >
+              Coworking space
+            </h2>
+            <p>
+              If you require more flexibility, one of the different coworking options might be a good alternative. Coworking covers both renting single desks, and also exclusive private offices. The main difference is that you don’t sign a lease agreement, but enjoy a monthly rolling membership. You can then easily flex the size or number of desks you need.
+            </p>
+            <a
+              href="/en-no/coworking"
+            >
+              <button
+                class="sc-bdVaJa sc-eZXMBi cxRGyS"
+                data-auto="home-button-coworking"
+              >
+                Learn more
+              </button>
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-cyQzhP emTVQB"
+          data-auto="home-data-auto"
+        >
+          <h2
+            class="sc-VigVT sc-bkCOcH sc-ekQYnd iXTCtk"
+          >
+            Not sure what you need?
+          </h2>
+          <div
+            class="sc-lgsldV ituzDR"
+          >
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Do I need standard office or coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Standard office spaces are recommended for stable headcount - when you want to own your own space, fit it out your own way and you want longer lease terms. Coworking spaces are right for you when you need flexibility in terms and required space. You can modify the terms to match your need if your headcount changes or when other requirements arise. 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    Hot desk, fixed desk or serviced office?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        With hot desks you choose where you sit among the available seats. Fixed desk space means that your desk is your own, always the same, allowing you to add any decorations you wish. Serviced office is a private office you can lease as your own space and fill it with people up to the maximum capacity.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    How much office space do I need?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        <span>
+                          The most common range is 10-20 sq.m per employee. The lower end of that range will allow you to accommodate mostly an open bench seating layout, while the higher end will make space for common areas, meeting rooms and private offices.
+                          <br />
+                          If you need further help our advisors are here to help. 
+                          <a
+                            href="mailto:oslo@spacespot.com"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            Contact us
+                          </a>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiPaper-root MuiPaper-elevation1 MuiExpansionPanel-root sc-OqFzE ceHDPg MuiExpansionPanel-rounded MuiPaper-rounded"
+            >
+              <div
+                aria-disabled="false"
+                aria-expanded="false"
+                class="MuiButtonBase-root MuiExpansionPanelSummary-root"
+                role="button"
+                tabindex="0"
+              >
+                <div
+                  class="MuiExpansionPanelSummary-content"
+                >
+                  <div
+                    class="sc-Ehqfj jGXYlc"
+                  >
+                    What’s usually included in a coworking space?
+                  </div>
+                </div>
+                <div
+                  aria-disabled="false"
+                  aria-hidden="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiExpansionPanelSummary-expandIcon MuiIconButton-edgeEnd"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="expand"
+                      src="down.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+              <div
+                class="MuiCollapse-container MuiCollapse-hidden"
+                style="min-height: 0px;"
+              >
+                <div
+                  class="MuiCollapse-wrapper"
+                >
+                  <div
+                    class="MuiCollapse-wrapperInner"
+                  >
+                    <div
+                      role="region"
+                    >
+                      <div
+                        class="MuiExpansionPanelDetails-root"
+                      >
+                        Coworking space rates usually include fully equipped common areas. Internet connection will be included, but some providers may place a cap on the amount of internet usage you have available.
+                        <br />
+                        Other services are usually available on a pay-as-you-need basis: private meeting rooms, business services, catering…
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-cRULEh kQZdOl"
+          >
+            <p>
+              Can’t find what you are looking for?
+            </p>
+            <a
+              class="sc-bCMXmc irQDzt"
+              href="mailto: oslo@spacespot.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              Contact us
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-sVRsr cyQgEe"
+          data-auto="landlord-contact"
+        >
+          <div>
+            <div>
+              <h2
+                class="sc-VigVT sc-bpubUI kbKRXc"
+              >
+                Do you own a space?
+              </h2>
+              <h3>
+                List it for free and manage all your properties online.
+              </h3>
+              <a
+                class="sc-jkPxnQ kjJjVX"
+                href="mailto: oslo@spacespot.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Contact us
+              </a>
+            </div>
+          </div>
+          <img
+            alt="womanbg"
+            src="woman-using-mobile.png"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-hAnkBK fXitUK"
+        data-auto="footer"
+      >
+        <div
+          class="sc-DNdyV vdvHb"
+        >
+          <div
+            class="sc-dPPMrM jDAbrG"
+          >
+            <div
+              class="sc-cNnxps dWPnbh"
+            >
+              <a
+                href="/"
+              >
+                <img
+                  alt="SpaceSpot Logo"
+                  height="28px"
+                  src="logo.svg"
+                />
+              </a>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="mailto:oslo@spacespot.com"
+                >
+                  Contact
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/privacy"
+                >
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/terms"
+                >
+                  Terms of service
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/cookie-policy"
+                >
+                  Cookie policy
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/about-us"
+                >
+                  About us
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/en-no/list"
+                >
+                  Search office spaces
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div
+            class="sc-jWxkHr bSTohJ"
+          >
+            <div
+              class="sc-ileJJU eKEdxy"
+            >
+              <div
+                class="sc-eqPNPO flILMU sc-jotlie dKboAG"
+              >
+                <div
+                  class="MuiInputBase-root MuiInput-root MuiInput-underline sc-eMRERa iYWrBZ"
+                >
+                  <div
+                    aria-haspopup="listbox"
+                    aria-labelledby=" lang-dd"
+                    class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                    id="lang-dd"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <div
+                      class="sc-fdQOMr kpffjf"
+                    >
+                      <img
+                        alt="uk"
+                        src="uk.svg"
+                      />
+                      <div
+                        class="sc-fAJaQT fQtaga"
+                      >
+                        English (UK)
+                      </div>
+                    </div>
+                  </div>
+                  <input
+                    type="hidden"
+                    value="en-UK"
+                  />
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiSelect-icon"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <a
+                  href="https://www.facebook.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Facebook"
+                    height="30px"
+                    src="facebook.svg"
+                    width="17px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.instagram.com/myspacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="Instagram"
+                    height="30px"
+                    src="instagram.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/Spacespot"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                  <img
+                    alt="LinkedIn"
+                    height="30px"
+                    src="linkedin.svg"
+                    width="30px"
+                  />
+                </a>
+              </li>
+            </ul>
+            <div
+              class="sc-imDfJI gRAUUT"
+            >
+              © 2020 Spacespot.com All rights reserved.
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-imDfJI sc-geAPOV hHCnzB"
+        >
+          © 2020 Spacespot.com All rights reserved.
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

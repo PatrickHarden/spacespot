@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<IconSeparator
+  icon={<Building />}
+  label="ONBOARDING_BUILDING_AND_AMMENITIES"
+/>
+`;

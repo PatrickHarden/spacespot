@@ -1,0 +1,2482 @@
+{
+   "Found": true,
+   "DocumentCount": 9,
+   "Documents": [
+      [
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Calle Marqués de Paradas, 0, 41001 Sevilla, Spain",
+                     "Common.Locallity": "Sevilla"
+                  }
+               ],
+               "Common.Country": "ES",
+               "Common.PostCode": "41001"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-02-21",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 14
+               }
+            },
+            "Common.AvailableFrom": "2020-02-21",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "bcb86ea5-b504-4abc-b165-864dfc99220e",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "EUR",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 9009,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "EUR",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 15656,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 37.391354,
+               "lon": -6.0037513
+            },
+            "Common.FitOutOptions": [
+               {
+                  "Common.Identifier": "fitout",
+                  "Common.SpaceID": "SS_SPACE_22",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Medium"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Desc Fitout"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "EUR",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 3425,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               }
+            ],
+            "Common.FloorNumber": 14,
+            "Common.FloorPlans": [],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "High Lights"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-20T13:03:45.3851823Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Space Desc"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_21",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "SS_SPACE_1.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 167,
+                        "Common.Image.Width": 301,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 355,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 710,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 887,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_22",
+            "Common.PropertySubType": "RetailLand",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 868
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 2320
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-02-20T13:03:45.003271Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Space Head"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 8072.58,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 9343.078264426336,
+            "Dynamic.TotalArea": 24972.282918743207,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "SS_SPACE_1.jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 167,
+                     "Common.Image.Width": 301,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 355,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 710,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 887,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_22/5f871249/SS_SPACE_1.jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 9343.078264426336,
+            "Dynamic.TotalDesks": 24972.282918743207,
+            "Common.LastProcessed": "2020-02-20T13:05:15.583624Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 868,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 868,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 2320,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 2320,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Paseo de la Castellana, 196-204, 28046 Madrid, Spain",
+                     "Common.Locallity": "Madrid"
+                  }
+               ],
+               "Common.Country": "ES",
+               "Common.PostCode": "28046"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-02-12",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 3
+               }
+            },
+            "Common.AvailableFrom": "2020-02-12",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "e656598b-dd9d-4a89-932f-255d9cacacf6",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "EUR",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 5000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "EUR",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 600,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 40.462543,
+               "lon": -3.6886625
+            },
+            "Common.FitOutOptions": [],
+            "Common.FloorNumber": 1,
+            "Common.FloorPlans": [
+               {
+                  "Common.ImageCaption": "GIMNASIO (6).jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Image.Height": 1080,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/e6204e25/GIMNASIO%20(6).jpg",
+                        "Common.Image.Width": 1920
+                     }
+                  ]
+               }
+            ],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Highlights (optional)\n"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-11T10:41:51.2460075Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Description (optional)\n"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_639",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "SALON_COCINA (9).jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 1080,
+                        "Common.Image.Width": 1920,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 360,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 720,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 900,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                     }
+                  ]
+               },
+               {
+                  "Common.ImageCaption": "PISCINA (7).jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 1080,
+                        "Common.Image.Width": 1920,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 360,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7)_Photo_2_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 720,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7)_Photo_2_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 900,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7)_Photo_2_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/1e8b504e/PISCINA%20(7).jpg"
+                     }
+                  ]
+               },
+               {
+                  "Common.ImageCaption": "DORMITORIOPPAL (10).jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 1080,
+                        "Common.Image.Width": 1920,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 360,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10)_Photo_3_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 720,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10)_Photo_3_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 900,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10)_Photo_3_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/0d9e9045/DORMITORIOPPAL%20(10).jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_640",
+            "Common.PropertySubType": "OfficeAndRetail",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 500
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 1050
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-02-11T10:41:50.782194Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "CBRe castellana 200"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 4480.29,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 5381.957525591208,
+            "Dynamic.TotalArea": 11302.110803741536,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "SALON_COCINA (9).jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 1080,
+                     "Common.Image.Width": 1920,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 360,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 720,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 900,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9)_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_640/540f2bbf/SALON_COCINA%20(9).jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 5381.957525591208,
+            "Dynamic.TotalDesks": 11302.110803741536,
+            "Common.LastProcessed": "2020-02-11T10:43:23.6944792Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 1050,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 1050,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Pease de Castallina, 12, 28036 Madrid, España",
+                     "Common.Locallity": "Madrid"
+                  }
+               ],
+               "Common.Country": "Norway",
+               "Common.PostCode": "28036"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-03-31",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 19
+               }
+            },
+            "Common.AvailableFrom": "2020-03-31",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "c700793a-1963-4b2b-996f-1939f853cc10",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 50000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 10,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 40.475227,
+               "lon": -3.6768017
+            },
+            "Common.FitOutOptions": [],
+            "Common.FloorNumber": 10,
+            "Common.FloorPlans": [
+               {
+                  "Common.ImageCaption": "SS_SPACE_31_2.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Image.Height": 167,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/a2e678d7/SS_SPACE_31_2.jpg",
+                        "Common.Image.Width": 301
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-03-03T13:42:15.9732977Z",
+            "Common.ParentProperty": "SS_BUILDING_28474",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "SS_SPACE_1.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 167,
+                        "Common.Image.Width": 301,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 355,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 710,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 887,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_23",
+            "Common.PropertySubType": "RetailLand",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 500
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 1050
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-03-03T13:42:15.470683Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Praveen Space SpaceSpot-3"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 4981.07,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 5381.957525591208,
+            "Dynamic.TotalArea": 11302.110803741536,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "SS_SPACE_1.jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 167,
+                     "Common.Image.Width": 301,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 355,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 710,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 887,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_23/5f871249/SS_SPACE_1.jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 5381.957525591208,
+            "Dynamic.TotalDesks": 11302.110803741536,
+            "Common.LastProcessed": "2020-03-03T13:44:09.4993843Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 1050,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 1050,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "es-ES",
+                     "Common.Line1": "Calle Bambú, 12, 28036 Madrid, España",
+                     "Common.Locallity": "Madrid"
+                  }
+               ],
+               "Common.Country": "Norway",
+               "Common.PostCode": "28036"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-12-29",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 7
+               }
+            },
+            "Common.AvailableFrom": "2020-12-29",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "2e2e81fd-6da4-4bba-b2da-526b08e62a84",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "GBP",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 9898,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "sqft",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "GBP",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 6564,
+                  "Common.AmountKind": "Value",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 40.475227,
+               "lon": -3.6768017
+            },
+            "Common.FitOutOptions": [
+               {
+                  "Common.Identifier": "fitout",
+                  "Common.SpaceID": "SS_SPACE_888",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "fitout name"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "fitout desc"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "GBP",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 6464,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               }
+            ],
+            "Common.FloorNumber": 9,
+            "Common.FloorPlans": [],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "Highlights data changed"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-12T09:24:23.5073279Z",
+            "Common.ParentProperty": "SS_BUILDING_007",
+            "Common.Photos": [],
+            "Common.PrimaryKey": "SS_SPACE_888",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 224
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 446
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-02-12T09:24:22.896450900Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "es-ES",
+                  "Common.Text": "Space Headline Changed"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Walkthrough": "http://sfws",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 9898,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 2411.1169714648613,
+            "Dynamic.TotalArea": 4800.706112827357,
+            "Dynamic.PrimaryImage": null,
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 2411.1169714648613,
+            "Dynamic.TotalDesks": 4800.706112827357,
+            "Common.LastProcessed": "2020-02-12T09:26:04.2196848Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 224,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 224,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 446,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 446,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "es-ES",
+                     "Common.Line1": "Calle Bambú, 12, 28036 Madrid, España",
+                     "Common.Locallity": "Madrid"
+                  }
+               ],
+               "Common.Country": "Norway",
+               "Common.PostCode": "28036"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-10-29",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 6
+               }
+            },
+            "Common.AvailableFrom": "2020-10-29",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "2e2e81fd-6da4-4bba-b2da-526b08e62a84",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "GBP",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 2190,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "sqft",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "GBP",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 2290,
+                  "Common.AmountKind": "Value",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 40.475227,
+               "lon": -3.6768017
+            },
+            "Common.FitOutOptions": [
+               {
+                  "Common.Identifier": "fitout",
+                  "Common.SpaceID": "SS_SPACE_88",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "fitout name"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "fitout desc"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "GBP",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 2452,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               }
+            ],
+            "Common.FloorNumber": 4,
+            "Common.FloorPlans": [],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "es-ES",
+                        "Common.Text": "Highlights data"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-20T10:44:59.2693756Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "es-ES",
+                  "Common.Text": "Here is small fixed space detail for SS_BUILDING_010"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_0004",
+            "Common.Photos": [],
+            "Common.PrimaryKey": "SS_SPACE_88",
+            "Common.PropertySubType": "OfficeLand",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 129
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 274
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-02-20T10:44:36.464474Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "es-ES",
+                  "Common.Text": "Space Headline SS_BUILDING_010"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Walkthrough": "http://sf",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 2190,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 1388.5450416025317,
+            "Dynamic.TotalArea": 2949.312724023982,
+            "Dynamic.PrimaryImage": null,
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 1388.5450416025317,
+            "Dynamic.TotalDesks": 2949.312724023982,
+            "Common.LastProcessed": "2020-02-20T10:46:05.4580914Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 129,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 129,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 274,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 274,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Pease de Castallina, 12, 28036 Madrid, España",
+                     "Common.Locallity": "Madrid"
+                  }
+               ],
+               "Common.Country": "Norway",
+               "Common.PostCode": "28036"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-03-31",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 10
+               }
+            },
+            "Common.AvailableFrom": "2020-03-31",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "c700793a-1963-4b2b-996f-1939f853cc10",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 10000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 11000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 40.475227,
+               "lon": -3.6768017
+            },
+            "Common.FitOutOptions": [
+               {
+                  "Common.Identifier": "1",
+                  "Common.SpaceID": "SS_SPACE_664",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 1"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 1 Desc"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 9999.99,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               },
+               {
+                  "Common.Identifier": "2",
+                  "Common.SpaceID": "SS_SPACE_664",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 2"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 2 Desc"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 99999.999,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               },
+               {
+                  "Common.Identifier": "3",
+                  "Common.SpaceID": "SS_SPACE_664",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 3"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Customer Fitout 3q"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 3333,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               }
+            ],
+            "Common.FloorNumber": 11,
+            "Common.FloorPlans": [
+               {
+                  "Common.ImageCaption": "SS_SPACE_FloorPlan_1.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Image.Height": 195,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/3c4eff99/SS_SPACE_FloorPlan_1.jpg",
+                        "Common.Image.Width": 258
+                     }
+                  ]
+               }
+            ],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Praveen Space SpaceSpot-4"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-03-13T12:17:50.8735335Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Praveen Space SpaceSpot-4"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_28474",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "SS_SPACE_1.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 167,
+                        "Common.Image.Width": 301,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 355,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 710,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 887,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_664",
+            "Common.PropertySubType": "RetailLand",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 1500
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 3050
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-03-13T12:17:50.272463Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Praveen Space SpaceSpot-4"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 996.21,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 16145.872576773625,
+            "Dynamic.TotalArea": 32829.94090610637,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "SS_SPACE_1.jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 167,
+                     "Common.Image.Width": 301,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 355,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 710,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 887,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_664/5f871249/SS_SPACE_1.jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 16145.872576773625,
+            "Dynamic.TotalDesks": 32829.94090610637,
+            "Common.LastProcessed": "2020-03-13T12:19:16.3639572Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 1500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 1500,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 3050,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 3050,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Amsterdam, Netherlands",
+                     "Common.Locallity": "Amsterdam"
+                  }
+               ],
+               "Common.Country": "NL",
+               "Common.PostCode": "12345"
+            },
+            "Common.Availability": {
+               "Common.AvailabilityKind": "AvailableFromKnownDate",
+               "Common.AvailabilityDate": "2020-02-27",
+               "Common.MinLeaseTerm": {
+                  "Common.TermDuration": 5
+               }
+            },
+            "Common.AvailableFrom": "2020-02-27",
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "ee5e700a-b7de-4e01-aab9-2b5ee9d47821",
+            "Common.Charges": [
+               {
+                  "Common.ChargeKind": "Rent",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 10000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "PriceIsNegotiable"
+               },
+               {
+                  "Common.ChargeKind": "ServiceCharge",
+                  "Common.CurrencyCode": "NOK",
+                  "Common.Interval": "Monthly",
+                  "Common.Amount": 12000,
+                  "Common.AmountKind": "Value",
+                  "Common.PerUnit": "Whole",
+                  "Common.TaxModifer": "PlusVAT",
+                  "Common.OnApplication": false,
+                  "Common.ChargeModifer": "Fixed"
+               }
+            ],
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 52.366695,
+               "lon": 4.89454
+            },
+            "Common.FitOutOptions": [
+               {
+                  "Common.Identifier": "fitout",
+                  "Common.SpaceID": "SS_SPACE_29",
+                  "Common.Name": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Fitout headline"
+                     }
+                  ],
+                  "Common.Description": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Fitout description"
+                     }
+                  ],
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "PropertyAccommodation",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Monthly",
+                        "Common.Amount": 200,
+                        "Common.AmountKind": "Value",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": true,
+                        "Common.ChargeModifer": "Fixed"
+                     }
+                  ]
+               }
+            ],
+            "Common.FlooredURL": "https://google.com",
+            "Common.FloorNumber": 15,
+            "Common.FloorPlans": [],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Space Highlights"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-27T06:25:46.4366002Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Space desc"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_28",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "398857109.png",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 1520,
+                        "Common.Image.Width": 720,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109.png",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 480,
+                        "Common.Image.Width": 227,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 960,
+                        "Common.Image.Width": 454,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 1200,
+                        "Common.Image.Width": 568,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_29",
+            "Common.PropertySubType": "OfficeLand",
+            "Common.Sizes": [
+               {
+                  "Common.SizeKind": "MinimumSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 1000
+                     }
+                  ]
+               },
+               {
+                  "Common.SizeKind": "TotalSize",
+                  "Common.Dimensions": [
+                     {
+                        "Common.DimensionsUnits": "sqm",
+                        "Common.Amount": 2200
+                     }
+                  ]
+               }
+            ],
+            "Common.SourceLastupdated": "2020-02-27T06:25:45.927568Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "Space Headline"
+               }
+            ],
+            "Common.UsageType": "Office",
+            "Common.Walkthrough": "https://google.com",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": 996.21,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": 10763.915051182415,
+            "Dynamic.TotalArea": 23680.613112601317,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "398857109.png",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 1520,
+                     "Common.Image.Width": 720,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109.png",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 480,
+                     "Common.Image.Width": 227,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 960,
+                     "Common.Image.Width": 454,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 1200,
+                     "Common.Image.Width": 568,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_29/9e778550/398857109_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_29/9e778550/398857109.png"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": 10763.915051182415,
+            "Dynamic.TotalDesks": 23680.613112601317,
+            "Common.LastProcessed": "2020-02-27T06:27:16.6022713Z",
+            "Dynamic.MinimumSize": [
+               {
+                  "Common.Size": 1000,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.MinimumSize": [
+               {
+                  "Common.Size": 1000,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Dynamic.TotalSize": [
+               {
+                  "Common.Size": 2200,
+                  "Common.Units": "sqm"
+               }
+            ],
+            "Common.TotalSize": [
+               {
+                  "Common.Size": 2200,
+                  "Common.Units": "sqm"
+               }
+            ]
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Amsterdam, Netherlands",
+                     "Common.Locallity": "Amsterdam"
+                  }
+               ],
+               "Common.Country": "NL",
+               "Common.PostCode": "12345"
+            },
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "ee5e700a-b7de-4e01-aab9-2b5ee9d47821",
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 52.366695,
+               "lon": 4.89454
+            },
+            "Common.FloorPlans": [],
+            "Common.FloorsAndUnits": [
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "HotDesk"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 4
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "HotDesk",
+                  "Common.AvailableFrom": "2020-02-28",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-28",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 4
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 400,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               },
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "FixedDesk"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 5
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "FixedDesk",
+                  "Common.AvailableFrom": "2020-02-28",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-28",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 5
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 500,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               },
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "ServicedOffice"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 6
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "ServicedOffice",
+                  "Common.AvailableFrom": "2020-02-28",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-28",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 6
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 600,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               }
+            ],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "Highlights"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-27T10:40:56.1540577Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "desc"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_28",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "download3.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 194,
+                        "Common.Image.Width": 259,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 479,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 958,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 1198,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_30",
+            "Common.SourceLastupdated": "2020-02-27T10:40:55.431779Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "UAT Building by SS - Flex space"
+               }
+            ],
+            "Common.UsageType": "FlexOffice",
+            "Common.Walkthrough": "https://google.com",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": null,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": "0",
+            "Dynamic.TotalArea": null,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "download3.jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 194,
+                     "Common.Image.Width": 259,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 479,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 958,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 1198,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_30/a6320a21/download3_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_30/a6320a21/download3.jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": "0",
+            "Dynamic.TotalDesks": null,
+            "Common.LastProcessed": "2020-02-27T10:42:14.2706132Z"
+         },
+         {
+            "Common.ActualAddress": {
+               "Common.PostalAddresses": [
+                  {
+                     "Common.Language": "en-US",
+                     "Common.Line1": "Amsterdam, Netherlands",
+                     "Common.Locallity": "Amsterdam"
+                  }
+               ],
+               "Common.Country": "NL",
+               "Common.PostCode": "12345"
+            },
+            "Common.Brochures": [],
+            "Common.BuildingOperatorID": "ee5e700a-b7de-4e01-aab9-2b5ee9d47821",
+            "Common.ContactGroup": {
+               "Common.GroupType": "AreaOffice"
+            },
+            "Common.Coordinate": {
+               "lat": 52.366695,
+               "lon": 4.89454
+            },
+            "Common.FloorPlans": [],
+            "Common.FloorsAndUnits": [
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "HotDesk"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 4
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "HotDesk",
+                  "Common.AvailableFrom": "2020-02-29",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-29",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 4
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 400,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               },
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "FixedDesk"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 5
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "FixedDesk",
+                  "Common.AvailableFrom": "2020-02-28",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-28",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 5
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 500,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               },
+               {
+                  "Common.SubdivisionName": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "ServicedOffice"
+                     }
+                  ],
+                  "Common.Areas": [
+                     {
+                        "Common.Units": "pp",
+                        "Common.Area": 1,
+                        "Common.MinArea": 1,
+                        "Common.MaxArea": 6
+                     }
+                  ],
+                  "Common.Unit.Status": "Available",
+                  "Common.Unit.Use": "ServicedOffice",
+                  "Common.AvailableFrom": "2020-02-28",
+                  "Common.Availability": {
+                     "Common.AvailabilityKind": "AvailableFromKnownDate",
+                     "Common.AvailabilityDate": "2020-02-28",
+                     "Common.MinLeaseTerm": {
+                        "Common.TermDuration": 6
+                     }
+                  },
+                  "Common.Charges": [
+                     {
+                        "Common.ChargeKind": "Rent",
+                        "Common.CurrencyCode": "NOK",
+                        "Common.Interval": "Daily",
+                        "Common.Amount": 600,
+                        "Common.AmountKind": "Value",
+                        "Common.PerUnit": "unit",
+                        "Common.TaxModifer": "PlusVAT",
+                        "Common.OnApplication": false,
+                        "Common.ChargeModifer": "PriceIsNegotiable"
+                     }
+                  ]
+               }
+            ],
+            "Common.Highlights": [
+               {
+                  "Common.Highlight": [
+                     {
+                        "Common.CultureCode": "en-US",
+                        "Common.Text": "flex highlights"
+                     }
+                  ]
+               }
+            ],
+            "Common.HomeSite": "no-comm",
+            "Common.IsParent": false,
+            "Common.LastUpdated": "2020-02-27T10:53:31.6975532Z",
+            "Common.LongDescription": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "flex desc"
+               }
+            ],
+            "Common.ParentProperty": "SS_BUILDING_28",
+            "Common.Photos": [
+               {
+                  "Common.ImageCaption": "download3.jpg",
+                  "Common.ImageResources": [
+                     {
+                        "Common.Breakpoint": "original",
+                        "Common.Image.Height": 194,
+                        "Common.Image.Width": 259,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "small",
+                        "Common.Image.Height": 479,
+                        "Common.Image.Width": 640,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_small.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "medium",
+                        "Common.Image.Height": 958,
+                        "Common.Image.Width": 1280,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_medium.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                     },
+                     {
+                        "Common.Breakpoint": "large",
+                        "Common.Image.Height": 1198,
+                        "Common.Image.Width": 1600,
+                        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_large.jpg",
+                        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                     }
+                  ]
+               }
+            ],
+            "Common.PrimaryKey": "SS_SPACE_32",
+            "Common.SourceLastupdated": "2020-02-27T10:53:31.287163Z",
+            "Common.Strapline": [
+               {
+                  "Common.CultureCode": "en-US",
+                  "Common.Text": "flex headline"
+               }
+            ],
+            "Common.UsageType": "FlexOffice",
+            "Common.Walkthrough": "https://google.com",
+            "Common.Website": "https://www.spacespot.com",
+            "Dynamic.HasHotDesks": false,
+            "Dynamic.HasFixedDesks": false,
+            "Dynamic.HasServicedOffices": false,
+            "Dynamic.NewHome": false,
+            "Dynamic.UnderOffer": false,
+            "Dynamic.LetUnderOffer": false,
+            "Dynamic.Furnished": "unfurnished",
+            "Dynamic.HasSwimmingPool": false,
+            "Dynamic.HasGym": false,
+            "Dynamic.HasDoorkeeper": false,
+            "Dynamic.IsPenthouse": false,
+            "Dynamic.HasBalcony": false,
+            "Dynamic.HasParking": false,
+            "Dynamic.HasLift": false,
+            "Dynamic.HasGarden": false,
+            "Dynamic.DevelopmentOpportunity": false,
+            "Dynamic.Has24HourAccess": false,
+            "Dynamic.HasBreakoutSpace": false,
+            "Dynamic.HasRoofTerrace": false,
+            "Dynamic.HasWheelchairAccess": false,
+            "Dynamic.HasTeaCoffee": false,
+            "Dynamic.HasFreeMeetingRooms": false,
+            "Dynamic.HasCleaning": false,
+            "Dynamic.HasShowers": false,
+            "Dynamic.HasReception": false,
+            "Dynamic.HasBicycleRack": false,
+            "Dynamic.HasTerrace": false,
+            "Dynamic.HasAccessControl": false,
+            "Dynamic.HasFloorsRaised": false,
+            "Dynamic.HasStorageArchives": false,
+            "Dynamic.HasWheelchairAccessToilets": false,
+            "Dynamic.HasBarCafeteria": false,
+            "Dynamic.HasBusinessLounge": false,
+            "Dynamic.HasCoworkingArea": false,
+            "Dynamic.HasGenerator": false,
+            "Dynamic.HasElevators": false,
+            "Dynamic.HasDayCare": false,
+            "Dynamic.HasSecurity-24hours/7days": false,
+            "Dynamic.HasFoodService-Cafeteria": false,
+            "Dynamic.LettingCharge": null,
+            "Dynamic.FlexCharge": null,
+            "Dynamic.NetCharge": null,
+            "Dynamic.SalePrice": null,
+            "Dynamic.MinArea": "0",
+            "Dynamic.TotalArea": null,
+            "Dynamic.PrimaryImage": {
+               "Common.ImageCaption": "download3.jpg",
+               "Common.ImageResources": [
+                  {
+                     "Common.Breakpoint": "original",
+                     "Common.Image.Height": 194,
+                     "Common.Image.Width": 259,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "small",
+                     "Common.Image.Height": 479,
+                     "Common.Image.Width": 640,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_small.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "medium",
+                     "Common.Image.Height": 958,
+                     "Common.Image.Width": 1280,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_medium.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                  },
+                  {
+                     "Common.Breakpoint": "large",
+                     "Common.Image.Height": 1198,
+                     "Common.Image.Width": 1600,
+                     "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_32/a6320a21/download3_Photo_1_large.jpg",
+                     "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_32/a6320a21/download3.jpg"
+                  }
+               ]
+            },
+            "Dynamic.MaxArea": null,
+            "Dynamic.MinDesks": "0",
+            "Dynamic.TotalDesks": null,
+            "Common.LastProcessed": "2020-02-27T10:55:10.3725466Z"
+         }
+      ]
+   ],
+   "Aggregations": [
+      []
+   ],
+   "Took": "00:00:00.1489614"
+}

@@ -1,0 +1,268 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders initial state 1`] = `
+<Provider
+  store={
+    Object {
+      "dispatch": [Function],
+      "getAction": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "isActionDispatched": [Function],
+      "isActionTypeDispatched": [Function],
+      "subscribe": [Function],
+    }
+  }
+>
+  <BuildingList>
+    <styled.h4>
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bdVaJa",
+              "isStatic": false,
+              "lastClassName": "iNjYGZ",
+              "rules": Array [
+                "
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+",
+              ],
+            },
+            "displayName": "styled.h4",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "sc-bdVaJa",
+            "target": "h4",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <h4
+          className="sc-bdVaJa iNjYGZ"
+        >
+          ONBOARDING_EXISTING_SUBHEADER
+        </h4>
+      </StyledComponent>
+    </styled.h4>
+  </BuildingList>
+</Provider>
+`;
+
+exports[`renders without crashing  1`] = `
+<Provider
+  store={
+    Object {
+      "dispatch": [Function],
+      "getAction": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "isActionDispatched": [Function],
+      "isActionTypeDispatched": [Function],
+      "subscribe": [Function],
+    }
+  }
+>
+  <BuildingList>
+    <styled.h4>
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bdVaJa",
+              "isStatic": false,
+              "lastClassName": "iNjYGZ",
+              "rules": Array [
+                "
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+",
+              ],
+            },
+            "displayName": "styled.h4",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "sc-bdVaJa",
+            "target": "h4",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+      >
+        <h4
+          className="sc-bdVaJa iNjYGZ"
+        >
+          ONBOARDING_EXISTING_SUBHEADER
+        </h4>
+      </StyledComponent>
+    </styled.h4>
+    <styled.div
+      key="GB-Plus-473580"
+      onClick={[Function]}
+    >
+      <StyledComponent
+        forwardedComponent={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "iSqFJV",
+              "rules": Array [
+                "
+  box-sizing: border-box;
+  border: 1px solid #dddddd;
+  border-radius: 2px;
+  border-color:#dddddd
+  background-color: #f4f4f4;
+  padding: 0 0 20px 0;
+  color: #000000;
+  font-weight: 300;
+  line-height: 21px;
+  text-align: center;
+  margin-top: 20px;
+  min-width: 350px;
+  max-width: 407px;
+  cursor: pointer;
+  :hover {
+    box-sizing: border-box;
+    border: 1px solid #6CB9D5;
+    box-shadow: 0 1px 4px 0 #6CB9D5;
+  }
+",
+              ],
+            },
+            "displayName": "styled.div",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        onClick={[Function]}
+      >
+        <div
+          className="sc-bwzfXH iSqFJV"
+          onClick={[Function]}
+        >
+          <styled.h2>
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-htpNat",
+                    "isStatic": false,
+                    "lastClassName": "diEYjS",
+                    "rules": Array [
+                      "
+  color: black;
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: 500;
+  text-align: left;
+  margin: 10.5px 10.5px 0 10.5px;
+",
+                    ],
+                  },
+                  "displayName": "styled.h2",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "sc-htpNat",
+                  "target": "h2",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <h2
+                className="sc-htpNat diEYjS"
+              >
+                Newly Refurbished 6th Floor Office Space Available
+              </h2>
+            </StyledComponent>
+          </styled.h2>
+          <styled.h3>
+            <StyledComponent
+              forwardedComponent={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bxivhb",
+                    "isStatic": false,
+                    "lastClassName": "deSBxm",
+                    "rules": Array [
+                      "
+  color: #828286;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 400;
+  text-align: left;
+  margin: 10.5px 10.5px 0 10.5px;
+",
+                    ],
+                  },
+                  "displayName": "styled.h3",
+                  "foldedComponentIds": Array [],
+                  "render": [Function],
+                  "styledComponentId": "sc-bxivhb",
+                  "target": "h3",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+            >
+              <h3
+                className="sc-bxivhb deSBxm"
+              >
+                <HTMLContent
+                  html=""
+                >
+                  <div
+                    dangerouslySetInnerHTML={
+                      Object {
+                        "__html": "",
+                      }
+                    }
+                  />
+                </HTMLContent>
+              </h3>
+            </StyledComponent>
+          </styled.h3>
+        </div>
+      </StyledComponent>
+    </styled.div>
+  </BuildingList>
+</Provider>
+`;

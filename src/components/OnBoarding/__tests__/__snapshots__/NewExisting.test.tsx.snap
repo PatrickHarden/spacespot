@@ -1,0 +1,755 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing  1`] = `
+<NewExisting
+  hasBuildings={true}
+  onClick={[MockFunction]}
+  selected={true}
+>
+  <styled.div>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bxivhb",
+            "isStatic": false,
+            "lastClassName": "heZAUk",
+            "rules": Array [
+              "
+  padding: 0%;
+  margin-bottom: 50px;
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-bxivhb",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="sc-bxivhb heZAUk"
+      >
+        <styled.h4>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "ezOBiL",
+                  "rules": Array [
+                    "
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+",
+                  ],
+                },
+                "displayName": "styled.h4",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": "h4",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <h4
+              className="sc-htpNat ezOBiL"
+            >
+              ONBOARDING_NEW_EXISTING
+            </h4>
+          </StyledComponent>
+        </styled.h4>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-ifAKCX",
+                  "isStatic": false,
+                  "lastClassName": "jeKXEu",
+                  "rules": Array [
+                    "
+  display: flex;
+  flex: 1;
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-ifAKCX",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-ifAKCX jeKXEu"
+            >
+              <Styled(Styled(Component))
+                disabled={false}
+                onClick={[Function]}
+                selected={false}
+                testId="existing-building"
+              >
+                <StyledComponent
+                  disabled={false}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-EHOje",
+                        "isStatic": false,
+                        "lastClassName": "gATSaV",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+                          [Function],
+                          ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+                          [Function],
+                          ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+                          [Function],
+                          ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+                          "
+  text-align: center;
+  padding: 28px 10px;
+  margin-right: 20px;
+  overflow: visible;
+  :hover { ",
+                          [Function],
+                          "
+",
+                        ],
+                      },
+                      "displayName": "Styled(Styled(Component))",
+                      "foldedComponentIds": Array [
+                        "sc-bwzfXH",
+                      ],
+                      "render": [Function],
+                      "styledComponentId": "sc-EHOje",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  onClick={[Function]}
+                  selected={false}
+                  testId="existing-building"
+                >
+                  <Component
+                    className="sc-bwzfXH sc-EHOje jPutGp"
+                    disabled={false}
+                    onClick={[Function]}
+                    selected={false}
+                    testId="existing-building"
+                  >
+                    <button
+                      className="sc-bwzfXH sc-EHOje jPutGp"
+                      data-testid="existing-building"
+                      disabled={false}
+                      onClick={[Function]}
+                    >
+                      ONBOARDING_EXISTING
+                    </button>
+                  </Component>
+                </StyledComponent>
+              </Styled(Styled(Component))>
+              <Styled(Styled(Component))
+                onClick={[Function]}
+                selected={true}
+                testId="new-building"
+              >
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-EHOje",
+                        "isStatic": false,
+                        "lastClassName": "gATSaV",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+                          [Function],
+                          ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+                          [Function],
+                          ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+                          [Function],
+                          ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+                          "
+  text-align: center;
+  padding: 28px 10px;
+  margin-right: 20px;
+  overflow: visible;
+  :hover { ",
+                          [Function],
+                          "
+",
+                        ],
+                      },
+                      "displayName": "Styled(Styled(Component))",
+                      "foldedComponentIds": Array [
+                        "sc-bwzfXH",
+                      ],
+                      "render": [Function],
+                      "styledComponentId": "sc-EHOje",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  onClick={[Function]}
+                  selected={true}
+                  testId="new-building"
+                >
+                  <Component
+                    className="sc-bwzfXH sc-EHOje gATSaV"
+                    onClick={[Function]}
+                    selected={true}
+                    testId="new-building"
+                  >
+                    <button
+                      className="sc-bwzfXH sc-EHOje gATSaV"
+                      data-testid="new-building"
+                      onClick={[Function]}
+                    >
+                      <Styled(CheckCircleIcon)
+                        fontSize="default"
+                        htmlColor="#6CB9D5"
+                      >
+                        <StyledComponent
+                          fontSize="default"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "compare": null,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bdVaJa",
+                                "isStatic": false,
+                                "lastClassName": "bYrkLc",
+                                "rules": Array [
+                                  "
+  position: absolute;
+  background-color: #ffffff;
+  top: -11px;
+  right: -11px;
+  &.MuiSvgIcon-root {
+    font-size: 1.5rem;
+  }
+",
+                                ],
+                              },
+                              "displayName": "Styled(CheckCircleIcon)",
+                              "foldedComponentIds": Array [],
+                              "muiName": "SvgIcon",
+                              "render": [Function],
+                              "styledComponentId": "sc-bdVaJa",
+                              "target": Object {
+                                "$$typeof": Symbol(react.memo),
+                                "compare": null,
+                                "displayName": "CheckCircleIcon",
+                                "muiName": "SvgIcon",
+                                "type": Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "render": [Function],
+                                },
+                              },
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          htmlColor="#6CB9D5"
+                        >
+                          <ForwardRef
+                            className="sc-bdVaJa bYrkLc"
+                            fontSize="default"
+                            htmlColor="#6CB9D5"
+                          >
+                            <WithStyles(ForwardRef(SvgIcon))
+                              className="sc-bdVaJa bYrkLc"
+                              fontSize="default"
+                              htmlColor="#6CB9D5"
+                            >
+                              <ForwardRef(SvgIcon)
+                                className="sc-bdVaJa bYrkLc"
+                                classes={
+                                  Object {
+                                    "colorAction": "MuiSvgIcon-colorAction",
+                                    "colorDisabled": "MuiSvgIcon-colorDisabled",
+                                    "colorError": "MuiSvgIcon-colorError",
+                                    "colorPrimary": "MuiSvgIcon-colorPrimary",
+                                    "colorSecondary": "MuiSvgIcon-colorSecondary",
+                                    "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                                    "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                                    "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                                    "root": "MuiSvgIcon-root",
+                                  }
+                                }
+                                fontSize="default"
+                                htmlColor="#6CB9D5"
+                              >
+                                <svg
+                                  aria-hidden="true"
+                                  className="MuiSvgIcon-root sc-bdVaJa bYrkLc"
+                                  color="#6CB9D5"
+                                  focusable="false"
+                                  role="presentation"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                  />
+                                </svg>
+                              </ForwardRef(SvgIcon)>
+                            </WithStyles(ForwardRef(SvgIcon))>
+                          </ForwardRef>
+                        </StyledComponent>
+                      </Styled(CheckCircleIcon)>
+                      ONBOARDING_NEW_BUILDING
+                    </button>
+                  </Component>
+                </StyledComponent>
+              </Styled(Styled(Component))>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</NewExisting>
+`;
+
+exports[`renders without crashing without buildings  1`] = `
+<NewExisting
+  hasBuildings={false}
+  onClick={[MockFunction]}
+  selected={true}
+>
+  <styled.div>
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "sc-bxivhb",
+            "isStatic": false,
+            "lastClassName": "heZAUk",
+            "rules": Array [
+              "
+  padding: 0%;
+  margin-bottom: 50px;
+",
+            ],
+          },
+          "displayName": "styled.div",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "sc-bxivhb",
+          "target": "div",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+    >
+      <div
+        className="sc-bxivhb heZAUk"
+      >
+        <styled.h4>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "ezOBiL",
+                  "rules": Array [
+                    "
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+",
+                  ],
+                },
+                "displayName": "styled.h4",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": "h4",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <h4
+              className="sc-htpNat ezOBiL"
+            >
+              ONBOARDING_NEW_EXISTING
+            </h4>
+          </StyledComponent>
+        </styled.h4>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-ifAKCX",
+                  "isStatic": false,
+                  "lastClassName": "jeKXEu",
+                  "rules": Array [
+                    "
+  display: flex;
+  flex: 1;
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-ifAKCX",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-ifAKCX jeKXEu"
+            >
+              <Styled(Styled(Component))
+                disabled={true}
+                onClick={[Function]}
+                selected={false}
+                testId="existing-building"
+              >
+                <StyledComponent
+                  disabled={true}
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-EHOje",
+                        "isStatic": false,
+                        "lastClassName": "gATSaV",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+                          [Function],
+                          ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+                          [Function],
+                          ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+                          [Function],
+                          ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+                          "
+  text-align: center;
+  padding: 28px 10px;
+  margin-right: 20px;
+  overflow: visible;
+  :hover { ",
+                          [Function],
+                          "
+",
+                        ],
+                      },
+                      "displayName": "Styled(Styled(Component))",
+                      "foldedComponentIds": Array [
+                        "sc-bwzfXH",
+                      ],
+                      "render": [Function],
+                      "styledComponentId": "sc-EHOje",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  onClick={[Function]}
+                  selected={false}
+                  testId="existing-building"
+                >
+                  <Component
+                    className="sc-bwzfXH sc-EHOje iRNIDo"
+                    disabled={true}
+                    onClick={[Function]}
+                    selected={false}
+                    testId="existing-building"
+                  >
+                    <button
+                      className="sc-bwzfXH sc-EHOje iRNIDo"
+                      data-testid="existing-building"
+                      disabled={true}
+                      onClick={[Function]}
+                    >
+                      ONBOARDING_EXISTING
+                    </button>
+                  </Component>
+                </StyledComponent>
+              </Styled(Styled(Component))>
+              <Styled(Styled(Component))
+                onClick={[Function]}
+                selected={true}
+                testId="new-building"
+              >
+                <StyledComponent
+                  forwardedComponent={
+                    Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "attrs": Array [],
+                      "componentStyle": ComponentStyle {
+                        "componentId": "sc-EHOje",
+                        "isStatic": false,
+                        "lastClassName": "gATSaV",
+                        "rules": Array [
+                          "
+  box-sizing: border-box;
+  outline: none;
+  border: ",
+                          [Function],
+                          ";
+  border-radius: 2px;
+  position: relative;
+  background-color: ",
+                          [Function],
+                          ";
+  min-width: 120px;
+  color: #000000;
+  opacity: ",
+                          [Function],
+                          ";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+",
+                          "
+  text-align: center;
+  padding: 28px 10px;
+  margin-right: 20px;
+  overflow: visible;
+  :hover { ",
+                          [Function],
+                          "
+",
+                        ],
+                      },
+                      "displayName": "Styled(Styled(Component))",
+                      "foldedComponentIds": Array [
+                        "sc-bwzfXH",
+                      ],
+                      "render": [Function],
+                      "styledComponentId": "sc-EHOje",
+                      "target": [Function],
+                      "toString": [Function],
+                      "warnTooManyClasses": [Function],
+                      "withComponent": [Function],
+                    }
+                  }
+                  forwardedRef={null}
+                  onClick={[Function]}
+                  selected={true}
+                  testId="new-building"
+                >
+                  <Component
+                    className="sc-bwzfXH sc-EHOje gATSaV"
+                    onClick={[Function]}
+                    selected={true}
+                    testId="new-building"
+                  >
+                    <button
+                      className="sc-bwzfXH sc-EHOje gATSaV"
+                      data-testid="new-building"
+                      onClick={[Function]}
+                    >
+                      <Styled(CheckCircleIcon)
+                        fontSize="default"
+                        htmlColor="#6CB9D5"
+                      >
+                        <StyledComponent
+                          fontSize="default"
+                          forwardedComponent={
+                            Object {
+                              "$$typeof": Symbol(react.forward_ref),
+                              "attrs": Array [],
+                              "compare": null,
+                              "componentStyle": ComponentStyle {
+                                "componentId": "sc-bdVaJa",
+                                "isStatic": false,
+                                "lastClassName": "bYrkLc",
+                                "rules": Array [
+                                  "
+  position: absolute;
+  background-color: #ffffff;
+  top: -11px;
+  right: -11px;
+  &.MuiSvgIcon-root {
+    font-size: 1.5rem;
+  }
+",
+                                ],
+                              },
+                              "displayName": "Styled(CheckCircleIcon)",
+                              "foldedComponentIds": Array [],
+                              "muiName": "SvgIcon",
+                              "render": [Function],
+                              "styledComponentId": "sc-bdVaJa",
+                              "target": Object {
+                                "$$typeof": Symbol(react.memo),
+                                "compare": null,
+                                "displayName": "CheckCircleIcon",
+                                "muiName": "SvgIcon",
+                                "type": Object {
+                                  "$$typeof": Symbol(react.forward_ref),
+                                  "render": [Function],
+                                },
+                              },
+                              "toString": [Function],
+                              "warnTooManyClasses": [Function],
+                              "withComponent": [Function],
+                            }
+                          }
+                          forwardedRef={null}
+                          htmlColor="#6CB9D5"
+                        >
+                          <ForwardRef
+                            className="sc-bdVaJa bYrkLc"
+                            fontSize="default"
+                            htmlColor="#6CB9D5"
+                          >
+                            <WithStyles(ForwardRef(SvgIcon))
+                              className="sc-bdVaJa bYrkLc"
+                              fontSize="default"
+                              htmlColor="#6CB9D5"
+                            >
+                              <ForwardRef(SvgIcon)
+                                className="sc-bdVaJa bYrkLc"
+                                classes={
+                                  Object {
+                                    "colorAction": "MuiSvgIcon-colorAction",
+                                    "colorDisabled": "MuiSvgIcon-colorDisabled",
+                                    "colorError": "MuiSvgIcon-colorError",
+                                    "colorPrimary": "MuiSvgIcon-colorPrimary",
+                                    "colorSecondary": "MuiSvgIcon-colorSecondary",
+                                    "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                                    "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                                    "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                                    "root": "MuiSvgIcon-root",
+                                  }
+                                }
+                                fontSize="default"
+                                htmlColor="#6CB9D5"
+                              >
+                                <svg
+                                  aria-hidden="true"
+                                  className="MuiSvgIcon-root sc-bdVaJa bYrkLc"
+                                  color="#6CB9D5"
+                                  focusable="false"
+                                  role="presentation"
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                                  />
+                                </svg>
+                              </ForwardRef(SvgIcon)>
+                            </WithStyles(ForwardRef(SvgIcon))>
+                          </ForwardRef>
+                        </StyledComponent>
+                      </Styled(CheckCircleIcon)>
+                      ONBOARDING_NEW_BUILDING
+                    </button>
+                  </Component>
+                </StyledComponent>
+              </Styled(Styled(Component))>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </StyledComponent>
+  </styled.div>
+</NewExisting>
+`;

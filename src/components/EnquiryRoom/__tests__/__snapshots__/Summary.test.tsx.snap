@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AcceptLease 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay lTBaR"
+  >
+    <div
+      class="sc-iRbamj iFILhB"
+    >
+      <h2
+        class="sc-bdVaJa sc-jDwBTQ bwwrBl"
+      >
+        SUMMARY_SIGNING_TITLE
+      </h2>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-gzVnrw fiHftt MuiStepper-alternativeLabel"
+    >
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel MuiStep-completed"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_DETAILS
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_ACCEPT
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_SIGN
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-eNQAEJ fXvMre"
+    >
+      <p
+        class="sc-kGXeez jxKohv"
+      >
+        SUMMARY_SIGNING_DETAILS_TITLE
+      </p>
+      <div
+        class="sc-kgoBCf bgqiHa"
+      >
+        <h4
+          class="sc-gZMcBi sc-kpOJdX jvBghf"
+        >
+          Name1
+        </h4>
+        <p
+          class="sc-dxgOiQ kurvRQ"
+        >
+          name1@email.com
+        </p>
+        <p
+          class="sc-ckVGcZ hJIkeG"
+        >
+          companyA - 12345678
+        </p>
+        <button
+          class="sc-htpNat faIrTZ"
+        >
+          SUMMARY_CTA_CHANGE
+        </button>
+      </div>
+      <h4
+        class="sc-gZMcBi sc-jKJlTe jVleKf"
+      >
+        SUMMARY_SIGNING_DETAILS_MSG
+      </h4>
+      <div
+        class="sc-chPdSV gmriwr"
+      >
+        <button
+          class="sc-bwzfXH iJJCMy"
+        >
+          SUMMARY_CTA_ACCEPT_LEASE
+        </button>
+        <button
+          class="sc-htpNat faIrTZ"
+        >
+          SUMMARY_CTA_BACK
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-hMqMXs Ggbpg"
+    >
+      <p>
+        SUMMARY_SIGNING_INFO
+      </p>
+      <button
+        class="sc-htpNat faIrTZ"
+      >
+        SUMMARY_PREVIEW_CTA_PREVIEW
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`LeasseAccepted 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay lTBaR"
+  >
+    <div
+      class="sc-iRbamj iFILhB"
+    >
+      <h2
+        class="sc-bdVaJa sc-jDwBTQ bwwrBl"
+      >
+        SUMMARY_SIGNING_TITLE
+      </h2>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-gzVnrw fiHftt MuiStepper-alternativeLabel"
+    >
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel MuiStep-completed"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_DETAILS
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel MuiStep-completed"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-completed"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_ACCEPT
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_SIGN
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-jAaTju xnpbv"
+    >
+      <p
+        class="sc-cvbbAY jOkMuS"
+      >
+        SUMMARY_SIGNING_BOTH_ACCEPTED
+      </p>
+      <div
+        class="sc-jWBwVP GnwRS"
+      >
+        <div
+          class="sc-brqgnP fqZgQH"
+        >
+          <img
+            alt="mail"
+            src="mail.svg"
+            width="20px"
+          />
+        </div>
+        <div
+          class="sc-cMljjf cRVIxR"
+        >
+          <p>
+            <b>
+              SUMMARY_SIGNING_EMAIL_SENT_TO name1@email.com 
+            </b>
+            SUMMARY_SIGNING_EMAIL_SENT_WITH
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-jWBwVP GnwRS"
+      >
+        <div
+          class="sc-brqgnP fqZgQH"
+        >
+          <img
+            alt="clock"
+            src="clock.svg"
+            width="20px"
+          />
+        </div>
+        <div
+          class="sc-cMljjf cRVIxR"
+        >
+          <p>
+            SUMMARY_SIGNING_TENANT_NOT_SIGNED
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`PreviewStart 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay lTBaR"
+  >
+    <div
+      class="sc-iRbamj iFILhB"
+    >
+      <h2
+        class="sc-bdVaJa sc-jDwBTQ bwwrBl"
+      >
+        SUMMARY_TITLE
+      </h2>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-Rmtcm fhFHiZ"
+        >
+          SUMMARY_RENT
+        </div>
+        <div
+          class="sc-bRBYWo ccGlDv"
+        >
+          40,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-Rmtcm fhFHiZ"
+        >
+          SUMMARY_SERVICE_CHARGES
+        </div>
+        <div
+          class="sc-bRBYWo ccGlDv"
+        >
+          2,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik sc-csuQGl hsnnsg"
+      >
+        <div
+          class="sc-hzDkRC jJGQND"
+        >
+          SUMMARY_MONTHLY_TOTAL
+        </div>
+        <div
+          class="sc-jhAzac jFtJsD"
+        >
+          42,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-fBuWsC ieiHfg"
+        >
+          SUMMARY_LEASE_TOTAL_MONTHS
+        </div>
+        <div
+          class="sc-fMiknA iWBgNv"
+        >
+          546,000kr
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-eqIVtm jXMBeZ"
+    >
+      <p>
+        SUMMARY_PREVIEW_MSG
+      </p>
+      <button
+        class="sc-bwzfXH iJJCMy"
+      >
+        SUMMARY_PREVIEW_CTA_PREVIEW
+      </button>
+    </div>
+    <div
+      class="sc-jlyJG iccxz"
+    >
+      <div
+        class="sc-fAjcbJ bfAfLQ"
+      >
+        <button
+          class="sc-bwzfXH iJJCMy"
+        >
+          SUMMARY_CTA_CONTINUE
+        </button>
+        <button
+          class="sc-htpNat faIrTZ"
+        >
+          SUMMARY_CTA_BACK_NEGOTIATION
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`SignInfo 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay lTBaR"
+  >
+    <div
+      class="sc-iRbamj iFILhB"
+    >
+      <h2
+        class="sc-bdVaJa sc-jDwBTQ bwwrBl"
+      >
+        SUMMARY_SIGNING_TITLE
+      </h2>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-gzVnrw fiHftt MuiStepper-alternativeLabel"
+    >
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                1
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_DETAILS
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                2
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_ACCEPT
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="MuiStep-root MuiStep-horizontal sc-EHOje gPAwbu MuiStep-alternativeLabel"
+      >
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+          />
+        </div>
+        <span
+          class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+        >
+          <span
+            class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiStepIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                r="12"
+              />
+              <text
+                class="MuiStepIcon-text"
+                text-anchor="middle"
+                x="12"
+                y="16"
+              >
+                3
+              </text>
+            </svg>
+          </span>
+          <span
+            class="MuiStepLabel-labelContainer"
+          >
+            <span
+              class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+            >
+              SUMMARY_SIGNING_SIGN
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="sc-cSHVUG cybOrQ"
+    >
+      <h2
+        class="sc-bdVaJa vdwpC"
+      >
+        SUMMARY_SIGNING_FORM_TITLE
+      </h2>
+      <div
+        class="sc-fjdhpX ljhZRb"
+      >
+        <h4
+          class="sc-gZMcBi sc-VigVT iLDlnX"
+        >
+          SUMMARY_SIGNING_FORM_PERSON
+        </h4>
+        <p
+          class="sc-jTzLTM fhHjMS"
+        >
+          SUMMARY_SIGNING_FORM_PERSON_DSC
+        </p>
+        <div
+          class="sc-htoDjs lafZUq"
+        >
+          <label
+            for="name"
+          >
+            SUMMARY_SIGNING_FORM_NAME
+          </label>
+          <input
+            class="sc-dnqmqq BObnT"
+            data-testid="name"
+            id="name"
+            min="0"
+            type="text"
+            value="Name1"
+          />
+          <div
+            class="sc-iwsKbI cKgKpl"
+          />
+        </div>
+        <div
+          class="sc-htoDjs lafZUq"
+        >
+          <label
+            for="emailId"
+          >
+            SUMMARY_SIGNING_FORM_EMAIL
+          </label>
+          <input
+            class="sc-dnqmqq BObnT"
+            data-testid="emailId"
+            id="emailId"
+            min="0"
+            type="text"
+            value="name1@email.com"
+          />
+          <div
+            class="sc-iwsKbI cKgKpl"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-fjdhpX ljhZRb"
+      >
+        <h4
+          class="sc-gZMcBi sc-VigVT iLDlnX"
+        >
+          SUMMARY_SIGNING_FORM_LEGAL
+        </h4>
+        <p
+          class="sc-jTzLTM fhHjMS"
+        >
+          SUMMARY_SIGNING_FORM_LEGAL_DSC
+        </p>
+        <div
+          class="sc-jzJRlG kQqWBM"
+        >
+          <div
+            class="sc-htoDjs lafZUq"
+          >
+            <label
+              for="companyName"
+            >
+              SUMMARY_SIGNING_FORM_LEGAL_NAME
+            </label>
+            <input
+              class="sc-dnqmqq BObnT"
+              data-testid="companyName"
+              id="companyName"
+              min="0"
+              type="text"
+              value="companyA"
+            />
+            <div
+              class="sc-iwsKbI cKgKpl"
+            />
+          </div>
+          <div
+            class="sc-htoDjs lafZUq"
+          >
+            <label
+              for="companyNumber"
+            >
+              SUMMARY_SIGNING_FORM_LEGAL_NUMBER
+            </label>
+            <input
+              class="sc-dnqmqq BObnT"
+              data-testid="companyNumber"
+              id="companyNumber"
+              min="0"
+              type="text"
+              value="12345678"
+            />
+            <div
+              class="sc-iwsKbI cKgKpl"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-gqjmRU fhlTdS"
+      >
+        <button
+          class="sc-bwzfXH iJJCMy"
+        >
+          SUMMARY_CTA_CONTINUE
+        </button>
+        <button
+          class="sc-htpNat faIrTZ"
+        >
+          SUMMARY_CTA_CANCEL
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-hMqMXs Ggbpg"
+    >
+      <p>
+        SUMMARY_SIGNING_INFO
+      </p>
+      <button
+        class="sc-htpNat faIrTZ"
+      >
+        SUMMARY_PREVIEW_CTA_PREVIEW
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TermsAgreed 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gPEVay lTBaR"
+  >
+    <div
+      class="sc-iRbamj iFILhB"
+    >
+      <h2
+        class="sc-bdVaJa sc-jDwBTQ bwwrBl"
+      >
+        SUMMARY_TITLE
+      </h2>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-Rmtcm fhFHiZ"
+        >
+          SUMMARY_RENT
+        </div>
+        <div
+          class="sc-bRBYWo ccGlDv"
+        >
+          40,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-Rmtcm fhFHiZ"
+        >
+          SUMMARY_SERVICE_CHARGES
+        </div>
+        <div
+          class="sc-bRBYWo ccGlDv"
+        >
+          2,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik sc-csuQGl hsnnsg"
+      >
+        <div
+          class="sc-hzDkRC jJGQND"
+        >
+          SUMMARY_MONTHLY_TOTAL
+        </div>
+        <div
+          class="sc-jhAzac jFtJsD"
+        >
+          42,000kr
+        </div>
+      </div>
+      <div
+        class="sc-gipzik jkINDI"
+      >
+        <div
+          class="sc-fBuWsC ieiHfg"
+        >
+          SUMMARY_LEASE_TOTAL_MONTHS
+        </div>
+        <div
+          class="sc-fMiknA iWBgNv"
+        >
+          546,000kr
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-jlyJG iccxz"
+    >
+      <div
+        class="sc-bxivhb hAiQHH"
+      >
+        SUMMARY_TEXT_LANDLORD_SUBMIT_TERMS
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,676 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Case AcceptLease 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-htpNat hbskFm MuiStepper-alternativeLabel"
+  >
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_DETAILS
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              2
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_ACCEPT
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_SIGN
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Case SignInfo 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-htpNat hbskFm MuiStepper-alternativeLabel"
+  >
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              1
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_DETAILS
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              2
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_ACCEPT
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel Mui-disabled"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_SIGN
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Case peer LeaseSignInitiated 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-htpNat hbskFm MuiStepper-alternativeLabel"
+  >
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_DETAILS
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-completed"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_ACCEPT
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_SIGN
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Case peer not LeaseAccepted 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-htpNat hbskFm MuiStepper-alternativeLabel"
+  >
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_DETAILS
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-completed"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_ACCEPT
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa sc-bwzfXH jYVzVW MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_SIGN
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation0 MuiStepper-root MuiStepper-horizontal sc-htpNat hbskFm MuiStepper-alternativeLabel"
+  >
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_DETAILS
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel MuiStep-completed"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-completed"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-completed"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 0a12 12 0 1 0 0 24 12 12 0 0 0 0-24zm-2 17l-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-completed MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_ACCEPT
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      class="MuiStep-root MuiStep-horizontal sc-bdVaJa DWZdo MuiStep-alternativeLabel"
+    >
+      <div
+        class="MuiStepConnector-root MuiStepConnector-horizontal MuiStepConnector-alternativeLabel MuiStepConnector-active"
+      >
+        <span
+          class="MuiStepConnector-line MuiStepConnector-lineHorizontal"
+        />
+      </div>
+      <span
+        class="MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel"
+      >
+        <span
+          class="MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiStepIcon-root MuiStepIcon-active"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <circle
+              cx="12"
+              cy="12"
+              r="12"
+            />
+            <text
+              class="MuiStepIcon-text"
+              text-anchor="middle"
+              x="12"
+              y="16"
+            >
+              3
+            </text>
+          </svg>
+        </span>
+        <span
+          class="MuiStepLabel-labelContainer"
+        >
+          <span
+            class="MuiTypography-root MuiStepLabel-label MuiStepLabel-alternativeLabel MuiStepLabel-active MuiTypography-body2 MuiTypography-displayBlock"
+          >
+            SUMMARY_SIGNING_SIGN
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

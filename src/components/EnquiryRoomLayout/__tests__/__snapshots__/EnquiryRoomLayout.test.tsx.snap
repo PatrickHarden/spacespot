@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<Fragment>
+  <Header
+    hide={false}
+  />
+  <styled.div
+    addMargin={true}
+  >
+    <Switch>
+      <Route
+        component={[Function]}
+        path="/enquiry/:enquiryId/space"
+      />
+      <Route
+        path="/enquiry/:enquiryId/chat"
+        render={[Function]}
+      />
+      <Route
+        component={[Function]}
+        path="/enquiry/:enquiryId/negotiate"
+      />
+      <Route
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-gMcBNU",
+              "isStatic": false,
+              "rules": Array [
+                "
+  min-height: 900px;
+",
+              ],
+            },
+            "displayName": "styled.div",
+            "foldedComponentIds": Array [],
+            "render": [Function],
+            "styledComponentId": "sc-gMcBNU",
+            "target": "div",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+      />
+    </Switch>
+  </styled.div>
+  <Toaster />
+</Fragment>
+`;

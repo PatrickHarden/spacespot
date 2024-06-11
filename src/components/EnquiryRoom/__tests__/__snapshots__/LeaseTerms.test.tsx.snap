@@ -1,0 +1,506 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders landlord view (PROPOSED status) 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bRBYWo gFRiVi"
+  >
+    <h2
+      class="sc-Rmtcm krzlQq"
+    >
+      NEGOTIATE_YOUR_TERMS_LANDLORD
+    </h2>
+    <div
+      class="sc-EHOje jZQcXK"
+    >
+      <svg
+        class="sc-gqjmRU cugBST"
+        height="54"
+        viewBox="-2 -2 58 58"
+        width="54"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="white"
+          fill-rule="evenodd"
+          opacity="1"
+          stroke="none"
+          stroke-width="1"
+        >
+          <g
+            fill="#ffcdc8"
+            fill-opacity="1"
+            fill-rule="nonzero"
+            stroke="#fe7062"
+            stroke-width="2"
+          >
+            <circle
+              cx="27"
+              cy="27"
+              r="27"
+            />
+          </g>
+          <g
+            fill="#fe7062"
+            fill-rule="nonzero"
+          >
+            <text
+              font-size="26"
+              font-weight="400"
+              id="name"
+              text-anchor="middle"
+            >
+              <tspan
+                x="27"
+                y="37"
+              >
+                IH
+              </tspan>
+            </text>
+          </g>
+        </g>
+      </svg>
+      <div
+        class="sc-bZQynM hnnyjN"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_AREA
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          3500sq.m.
+        </div>
+      </div>
+      <div
+        class="sc-gzVnrw cZMWQi"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_LENGTH
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          13 NEGOTIATE_MONTHS NEGOTIATE_FROM ONBOARDING_AVAILABILITY_NOW
+        </div>
+      </div>
+      <div
+        class="sc-htoDjs hXNBKs"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_MONTHLY NEGOTIATE_PAYMENT
+        </h2>
+        <div
+          class="sc-iwsKbI hiqfNw"
+        >
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              40000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_RENT
+            </div>
+          </div>
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              2000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_SERVICE_CHARGES
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dnqmqq gJJfia"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_DEPOSIT
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          2 NEGOTIATE_DEPOSIT_IN NEGOTIATE_DEPOSIT_GARANTEE
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gipzik bJCGzT"
+    >
+      <div>
+        <button
+          class="sc-brqgnP sc-jDwBTQ jokWaa"
+          data-testid="modify"
+        >
+          NEGOTIATE_MODIFY
+        </button>
+      </div>
+      <div>
+        <span
+          class="sc-csuQGl dcYdvi"
+        >
+          NEGOTIATE_STATUS_WAITING_CONFIRMATION
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders tenant view (ACCEPTED status) 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bRBYWo gFRiVi"
+  >
+    <div
+      class="sc-EHOje jXHpcx"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root sc-bwzfXH eHKxnV"
+        color="#6CB9D5"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+        />
+      </svg>
+      <svg
+        class="sc-gqjmRU cugBST"
+        height="54"
+        viewBox="-2 -2 58 58"
+        width="54"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="white"
+          fill-rule="evenodd"
+          opacity="1"
+          stroke="none"
+          stroke-width="1"
+        >
+          <g
+            fill="#ffcdc8"
+            fill-opacity="1"
+            fill-rule="nonzero"
+            stroke="#fe7062"
+            stroke-width="2"
+          >
+            <circle
+              cx="27"
+              cy="27"
+              r="27"
+            />
+          </g>
+          <g
+            fill="#fe7062"
+            fill-rule="nonzero"
+          >
+            <text
+              font-size="26"
+              font-weight="400"
+              id="name"
+              text-anchor="middle"
+            >
+              <tspan
+                x="27"
+                y="37"
+              >
+                IH
+              </tspan>
+            </text>
+          </g>
+        </g>
+      </svg>
+      <div
+        class="sc-bZQynM hnnyjN"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_AREA
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          3500sq.m.
+        </div>
+      </div>
+      <div
+        class="sc-gzVnrw cZMWQi"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_LENGTH
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          13 NEGOTIATE_MONTHS NEGOTIATE_FROM ONBOARDING_AVAILABILITY_NOW
+        </div>
+      </div>
+      <div
+        class="sc-htoDjs hXNBKs"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_MONTHLY NEGOTIATE_PAYMENT
+        </h2>
+        <div
+          class="sc-iwsKbI hiqfNw"
+        >
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              40000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_RENT
+            </div>
+          </div>
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              2000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_SERVICE_CHARGES
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dnqmqq gJJfia"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_DEPOSIT
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          2 NEGOTIATE_DEPOSIT_IN NEGOTIATE_DEPOSIT_GARANTEE
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gipzik bJCGzT"
+    >
+      <div>
+        <button
+          class="sc-jlyJG humxlj"
+          data-testid="decline"
+        >
+          NEGOTIATE_DECLINE
+        </button>
+      </div>
+      <div>
+        <span
+          class="sc-csuQGl iyLCjV"
+        >
+          NEGOTIATE_STATUS_ACCEPTED
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders tenant view (PROPOSED status) 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bRBYWo gFRiVi"
+  >
+    <h2
+      class="sc-Rmtcm krzlQq"
+    >
+      NEGOTIATE_YOUR_TERMS
+    </h2>
+    <div
+      class="sc-EHOje jZQcXK"
+    >
+      <svg
+        class="sc-gqjmRU cugBST"
+        height="54"
+        viewBox="-2 -2 58 58"
+        width="54"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          fill="white"
+          fill-rule="evenodd"
+          opacity="1"
+          stroke="none"
+          stroke-width="1"
+        >
+          <g
+            fill="#ffcdc8"
+            fill-opacity="1"
+            fill-rule="nonzero"
+            stroke="#fe7062"
+            stroke-width="2"
+          >
+            <circle
+              cx="27"
+              cy="27"
+              r="27"
+            />
+          </g>
+          <g
+            fill="#fe7062"
+            fill-rule="nonzero"
+          >
+            <text
+              font-size="26"
+              font-weight="400"
+              id="name"
+              text-anchor="middle"
+            >
+              <tspan
+                x="27"
+                y="37"
+              >
+                IH
+              </tspan>
+            </text>
+          </g>
+        </g>
+      </svg>
+      <div
+        class="sc-bZQynM hnnyjN"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_AREA
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          3500sq.m.
+        </div>
+      </div>
+      <div
+        class="sc-gzVnrw cZMWQi"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_LENGTH
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          13 NEGOTIATE_MONTHS NEGOTIATE_FROM ONBOARDING_AVAILABILITY_NOW
+        </div>
+      </div>
+      <div
+        class="sc-htoDjs hXNBKs"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_MONTHLY NEGOTIATE_PAYMENT
+        </h2>
+        <div
+          class="sc-iwsKbI hiqfNw"
+        >
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              40000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_RENT
+            </div>
+          </div>
+          <div
+            class="sc-gZMcBi fYhffy"
+          >
+            <div
+              class="sc-ifAKCX dXjDeY"
+            >
+              2000kr
+            </div>
+            <div
+              class="sc-bxivhb etrvNB"
+            >
+              NEGOTIATE_SERVICE_CHARGES
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dnqmqq gJJfia"
+      >
+        <h2
+          class="sc-htpNat hDHSmr"
+        >
+          NEGOTIATE_DEPOSIT
+        </h2>
+        <div
+          class="sc-ifAKCX dXjDeY"
+        >
+          2 NEGOTIATE_DEPOSIT_IN NEGOTIATE_DEPOSIT_GARANTEE
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-hzDkRC yEbsH"
+    >
+      <button
+        class="sc-cMljjf sc-iRbamj gfnDYA"
+        data-testid="accept"
+      >
+        NEGOTIATE_ACCEPT
+      </button>
+      <button
+        class="sc-brqgnP sc-gPEVay ehhnkY"
+        data-testid="decline"
+      >
+        NEGOTIATE_DECLINE
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

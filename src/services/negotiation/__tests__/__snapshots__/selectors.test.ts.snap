@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Negotiation selectors selector should return selected negotiation 1`] = `
+Object {
+  "additionalCosts": "20th September",
+  "area": "34",
+  "duration": "200 Sq Mtr",
+  "frequency": "$5600 per month",
+  "rent": "207",
+  "start": "29 Months",
+}
+`;
+
+exports[`Negotiation selectors selector should return the terms fields 1`] = `
+Object {
+  "1": "Area",
+  "2": "Rent",
+  "3": "Start",
+  "4": "Duration",
+  "5": "Frequency",
+  "6": "AdditionalCosts",
+  "7": "Deposit",
+  "8": "ServiceCharges",
+}
+`;

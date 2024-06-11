@@ -1,0 +1,281 @@
+{
+  "Common.ActualAddress": {
+    "Common.PostalAddresses": [
+      {
+        "Common.Language": "es-ES",
+        "Common.Line1": "Bryggegata 29, 0250 Oslo, Noruega",
+        "Common.Locallity": "Oslo"
+      }
+    ],
+    "Common.Country": "NO",
+    "Common.PostCode": "0250"
+  },
+  "Common.Brochures": [],
+  "Common.BuildingOperatorID": "920d0a43-7322-43b1-a22c-01437939c880",
+  "Common.ContactGroup": { "Common.GroupType": "AreaOffice" },
+  "Common.Coordinate": { "lat": 59.91078, "lon": 10.726055 },
+  "Common.FloorPlans": [
+    {
+      "Common.ImageCaption": "fplan1.jpg",
+      "Common.ImageResources": [
+        {
+          "Common.Image.Height": 197,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/6862dd87/fplan1.jpg",
+          "Common.Image.Width": 291
+        }
+      ]
+    }
+  ],
+  "Common.FloorsAndUnits": [
+    {
+      "Common.SubdivisionName": [
+        { "Common.CultureCode": "es-ES", "Common.Text": "HotDesk" }
+      ],
+      "Common.Areas": [
+        {
+          "Common.Units": "pp",
+          "Common.Area": 1,
+          "Common.MinArea": 1,
+          "Common.MaxArea": 50
+        }
+      ],
+      "Common.Unit.Status": "Available",
+      "Common.Unit.Use": "HotDesk",
+      "Common.AvailableFrom": "2020-02-19",
+      "Common.Availability": {
+        "Common.AvailabilityKind": "AvailableFromKnownDate",
+        "Common.AvailabilityDate": "2020-02-19",
+        "Common.MinLeaseTerm": { "Common.TermDuration": 0 }
+      },
+      "Common.Charges": [
+        {
+          "Common.ChargeKind": "Rent",
+          "Common.CurrencyCode": "NOK",
+          "Common.Interval": "Daily",
+          "Common.Amount": 0.0,
+          "Common.AmountKind": "Value",
+          "Common.PerUnit": "unit",
+          "Common.TaxModifer": "PlusVAT",
+          "Common.OnApplication": false,
+          "Common.ChargeModifer": "PriceIsNegotiable"
+        }
+      ]
+    },
+    {
+      "Common.SubdivisionName": [
+        { "Common.CultureCode": "es-ES", "Common.Text": "FixedDesk" }
+      ],
+      "Common.Areas": [
+        {
+          "Common.Units": "pp",
+          "Common.Area": 1,
+          "Common.MinArea": 1,
+          "Common.MaxArea": 50
+        }
+      ],
+      "Common.Unit.Status": "Available",
+      "Common.Unit.Use": "FixedDesk",
+      "Common.AvailableFrom": "2020-02-19",
+      "Common.Availability": {
+        "Common.AvailabilityKind": "AvailableFromKnownDate",
+        "Common.AvailabilityDate": "2020-02-19",
+        "Common.MinLeaseTerm": { "Common.TermDuration": 0 }
+      },
+      "Common.Charges": [
+        {
+          "Common.ChargeKind": "Rent",
+          "Common.CurrencyCode": "NOK",
+          "Common.Interval": "Daily",
+          "Common.Amount": 0.0,
+          "Common.AmountKind": "Value",
+          "Common.PerUnit": "unit",
+          "Common.TaxModifer": "PlusVAT",
+          "Common.OnApplication": false,
+          "Common.ChargeModifer": "PriceIsNegotiable"
+        }
+      ]
+    },
+    {
+      "Common.SubdivisionName": [
+        { "Common.CultureCode": "es-ES", "Common.Text": "ServicedOffice" }
+      ],
+      "Common.Areas": [
+        {
+          "Common.Units": "pp",
+          "Common.Area": 1,
+          "Common.MinArea": 1,
+          "Common.MaxArea": 50
+        }
+      ],
+      "Common.Unit.Status": "Available",
+      "Common.Unit.Use": "ServicedOffice",
+      "Common.AvailableFrom": "2020-02-19",
+      "Common.Identifier": "1",
+      "Common.Availability": {
+        "Common.AvailabilityKind": "AvailableFromKnownDate",
+        "Common.AvailabilityDate": "2020-02-19",
+        "Common.MinLeaseTerm": { "Common.TermDuration": 12 }
+      },
+      "Common.Charges": [
+        {
+          "Common.ChargeKind": "Rent",
+          "Common.CurrencyCode": "NOK",
+          "Common.Interval": "Daily",
+          "Common.Amount": 2.0,
+          "Common.AmountKind": "Value",
+          "Common.PerUnit": "unit",
+          "Common.TaxModifer": "PlusVAT",
+          "Common.OnApplication": false,
+          "Common.ChargeModifer": "PriceIsNegotiable"
+        }
+      ]
+    }
+  ],
+  "Common.Highlights": [
+    {
+      "Common.Highlight": [
+        {
+          "Common.CultureCode": "es-ES",
+          "Common.Text": "Bryggegata 29 1 2020-02-18T17:24:32.497Z"
+        }
+      ]
+    }
+  ],
+  "Common.HomeSite": "no-comm",
+  "Common.IsParent": false,
+  "Common.LastUpdated": "2020-02-18T17:25:08.8918759Z",
+  "Common.LongDescription": [
+    {
+      "Common.CultureCode": "es-ES",
+      "Common.Text": "Bryggegata 29 1 2020-02-18T17:24:32.497Z"
+    }
+  ],
+  "Common.ParentProperty": "SS_BUILDING_646",
+  "Common.Photos": [
+    {
+      "Common.ImageCaption": "photo1.jpg",
+      "Common.ImageResources": [
+        {
+          "Common.Breakpoint": "original",
+          "Common.Image.Height": 180,
+          "Common.Image.Width": 223,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+        },
+        {
+          "Common.Breakpoint": "small",
+          "Common.Image.Height": 516,
+          "Common.Image.Width": 640,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_small.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+        },
+        {
+          "Common.Breakpoint": "medium",
+          "Common.Image.Height": 1033,
+          "Common.Image.Width": 1280,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_medium.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+        },
+        {
+          "Common.Breakpoint": "large",
+          "Common.Image.Height": 1291,
+          "Common.Image.Width": 1600,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_large.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+        }
+      ]
+    }
+  ],
+  "Common.PrimaryKey": "SS_SPACE_648",
+  "Common.SourceLastupdated": "2020-02-18T17:25:08.680758Z",
+  "Common.Strapline": [
+    {
+      "Common.CultureCode": "es-ES",
+      "Common.Text": "Bryggegata 29 1 2020-02-18T17:24:32.497Z"
+    }
+  ],
+  "Common.UsageType": "FlexOffice",
+  "Common.Website": "https://www.spacespot.com",
+  "Dynamic.HasHotDesks": false,
+  "Dynamic.HasFixedDesks": false,
+  "Dynamic.HasServicedOffices": false,
+  "Dynamic.NewHome": false,
+  "Dynamic.UnderOffer": false,
+  "Dynamic.LetUnderOffer": false,
+  "Dynamic.Furnished": "unfurnished",
+  "Dynamic.HasSwimmingPool": false,
+  "Dynamic.HasGym": false,
+  "Dynamic.HasDoorkeeper": false,
+  "Dynamic.IsPenthouse": false,
+  "Dynamic.HasBalcony": false,
+  "Dynamic.HasParking": false,
+  "Dynamic.HasLift": false,
+  "Dynamic.HasGarden": false,
+  "Dynamic.DevelopmentOpportunity": false,
+  "Dynamic.Has24HourAccess": false,
+  "Dynamic.HasBreakoutSpace": false,
+  "Dynamic.HasRoofTerrace": false,
+  "Dynamic.HasWheelchairAccess": false,
+  "Dynamic.HasTeaCoffee": false,
+  "Dynamic.HasFreeMeetingRooms": false,
+  "Dynamic.HasCleaning": false,
+  "Dynamic.HasShowers": false,
+  "Dynamic.HasReception": false,
+  "Dynamic.HasBicycleRack": false,
+  "Dynamic.HasTerrace": false,
+  "Dynamic.HasAccessControl": false,
+  "Dynamic.HasFloorsRaised": false,
+  "Dynamic.HasStorageArchives": false,
+  "Dynamic.HasWheelchairAccessToilets": false,
+  "Dynamic.HasBarCafeteria": false,
+  "Dynamic.HasBusinessLounge": false,
+  "Dynamic.HasCoworkingArea": false,
+  "Dynamic.HasGenerator": false,
+  "Dynamic.HasElevators": false,
+  "Dynamic.HasDayCare": false,
+  "Dynamic.HasSecurity-24hours/7days": false,
+  "Dynamic.HasFoodService-Cafeteria": false,
+  "Dynamic.LettingCharge": null,
+  "Dynamic.FlexCharge": null,
+  "Dynamic.NetCharge": null,
+  "Dynamic.SalePrice": null,
+  "Dynamic.MinArea": "0",
+  "Dynamic.TotalArea": null,
+  "Dynamic.PrimaryImage": {
+    "Common.ImageCaption": "photo1.jpg",
+    "Common.ImageResources": [
+      {
+        "Common.Breakpoint": "original",
+        "Common.Image.Height": 180,
+        "Common.Image.Width": 223,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+      },
+      {
+        "Common.Breakpoint": "small",
+        "Common.Image.Height": 516,
+        "Common.Image.Width": 640,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_small.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+      },
+      {
+        "Common.Breakpoint": "medium",
+        "Common.Image.Height": 1033,
+        "Common.Image.Width": 1280,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_medium.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+      },
+      {
+        "Common.Breakpoint": "large",
+        "Common.Image.Height": 1291,
+        "Common.Image.Width": 1600,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_648/b904b44f/photo1_Photo_1_large.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg"
+      }
+    ]
+  },
+  "Dynamic.MaxArea": null,
+  "Dynamic.MinDesks": "1",
+  "Dynamic.TotalDesks": null,
+  "Common.LastProcessed": "2020-02-18T17:27:14.4413615Z"
+}

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing each type of space 1`] = `<Styled(Component) />`;
+
+exports[`renders without crashing each type of space 2`] = `
+<SpaceDetail
+  availability={2020-02-19T00:00:00.000Z}
+  currencyCode="NOK"
+  quantityLabel="YOUR_ENQUIRIES_HOT_DESKS"
+  quantityValue="50"
+  rent={0}
+/>
+`;
+
+exports[`renders without crashing each type of space 3`] = `
+<SpaceDetail
+  availability={2020-02-19T00:00:00.000Z}
+  currencyCode="NOK"
+  quantityLabel="YOUR_ENQUIRIES_FIXED_DESKS"
+  quantityValue="50"
+  rent={0}
+/>
+`;
+
+exports[`renders without crashing each type of space 4`] = `
+<SpaceDetail
+  availability={2020-02-19T00:00:00.000Z}
+  currencyCode="NOK"
+  quantityLabel="YOUR_ENQUIRIES_SERVICED_OFFICE"
+  quantityValue="50 DETAILS_SERVICED_OFFICES_PEOPLE"
+  rent={2}
+/>
+`;

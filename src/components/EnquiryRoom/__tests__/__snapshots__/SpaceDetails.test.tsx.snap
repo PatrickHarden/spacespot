@@ -1,0 +1,430 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crash 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cMhqgX fxvhcV"
+  >
+    <div
+      class="sc-bdVaJa coVgKN"
+    >
+      <div
+        aria-live="polite"
+        class="image-gallery"
+      >
+        <div
+          class="image-gallery-content right"
+        >
+          <div
+            class="image-gallery-slide-wrapper right"
+          >
+            <div
+              class="image-gallery-slides"
+            >
+              <div
+                class="image-gallery-slide  center "
+                role="button"
+                style="transform: translate3d(0%, 0, 0);"
+                tabindex="-1"
+              >
+                <div>
+                  <img
+                    class="image-gallery-image"
+                    src="building.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="image-gallery-thumbnails-wrapper right"
+          >
+            <div
+              class="image-gallery-thumbnails"
+            >
+              <div
+                aria-label="Thumbnail Navigation"
+                class="image-gallery-thumbnails-container"
+                style="transform: translate3d(0, 0px, 0);"
+              >
+                <button
+                  aria-label="Go to Slide 1"
+                  aria-pressed="true"
+                  class="image-gallery-thumbnail active"
+                  tabindex="0"
+                  type="button"
+                >
+                  <div
+                    class="image-gallery-thumbnail-inner"
+                  >
+                    <img
+                      class="image-gallery-thumbnail-image"
+                      src="building.svg"
+                    />
+                  </div>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bwzfXH bPITde"
+    >
+      <div
+        class="sc-EHOje eURbOX"
+      >
+        <div
+          class="sc-bZQynM flKQuj"
+        />
+        <div
+          class="sc-ifAKCX dUjEzj"
+        >
+          <a
+            href="#summary"
+          >
+            DETAILS_SUMMARY
+          </a>
+          ·
+          <a
+            href="#details"
+          >
+            DETAILS_DETAILS
+          </a>
+          ·
+          <a
+            href="#ammenities"
+          >
+            DETAILS_AMMENITIES
+          </a>
+          ·
+          <a
+            href="#photos"
+          >
+            DETAILS_PHOTOS
+          </a>
+          ·
+          <a
+            href="#location"
+          >
+            DETAILS_LOCATION
+          </a>
+        </div>
+        <div
+          class="sc-gzVnrw eAgMhc"
+        >
+          <div
+            class="sc-bxivhb lgYJdu"
+            style="visibility: hidden;"
+          >
+            <img
+              alt="size"
+              src="favorite.svg"
+            />
+            <span>
+              DETAILS_NAV_ADD_FAVORITE
+            </span>
+          </div>
+        </div>
+        <div
+          class="sc-gzVnrw eAgMhc"
+        >
+          <div
+            class="sc-bxivhb lgYJdu"
+            style="visibility: hidden;"
+          >
+            <img
+              alt="calendar"
+              src="share.svg"
+            />
+            <span>
+              DETAILS_NAV_SHARE
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-iuJeZd kxxkKF"
+    >
+      <div
+        class="sc-esOvli hqUlqr"
+      >
+        <div
+          class="sc-lhVmIH iUQYqa"
+        >
+          <h1
+            class="sc-btzYZH sc-bYSBpT knZOHX"
+            id="summary"
+          />
+          <div
+            class="sc-jtRfpW fxoqEV"
+          />
+          <div
+            class="sc-dqBHgY isQODI"
+          >
+            <a
+              href="#location"
+            >
+              <img
+                alt="spot"
+                src="spot.svg"
+              />
+            </a>
+            <a
+              href="#location"
+            >
+              <h5>
+                DETAILS_SEE_MAP
+              </h5>
+            </a>
+          </div>
+          <div
+            class="sc-kTUwUJ fLoQqh"
+          >
+            <div />
+          </div>
+          <h5
+            class="sc-gxMtzJ iaBTeL"
+          >
+            DETAILS_LICENSED_FOR
+          </h5>
+          <div
+            class="sc-dfVpRl fkiYrW"
+          >
+            DETAILS_OFFICE
+          </div>
+          <div
+            class="sc-jbKcbu dgrgHP"
+          >
+            <h2
+              class="sc-csuQGl sc-tilXH bfdqJg"
+              id="details"
+            >
+              DETAILS_DESKS
+            </h2>
+            <h2
+              class="sc-csuQGl sc-tilXH bfdqJg"
+              id="servicedOffices"
+            >
+              DETAILS_SERVICED_OFFICES
+            </h2>
+          </div>
+          <h2
+            class="sc-csuQGl sc-elJkPf kFrdkZ"
+            id="ammenities"
+          >
+            DETAILS_AMMENITIES
+          </h2>
+          <div
+            class="sc-jwKygS iwQXZP"
+            data-auto="details-ammenities"
+          >
+            <ul />
+          </div>
+          <h2
+            class="sc-csuQGl sc-elJkPf kFrdkZ"
+            id="photos"
+          >
+            DETAILS_PHOTOS
+          </h2>
+          <div
+            class="sc-feJyhm uuvPf"
+            data-auto="detail-photos"
+          />
+          <h2
+            class="sc-csuQGl sc-elJkPf kFrdkZ"
+            id="location"
+          >
+            DETAILS_LOCATION
+          </h2>
+          <div
+            class="sc-iELTvK fQcFYt"
+          >
+            <h2 />
+            <p />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-iQNlJl cklsVe"
+      data-auto="footer"
+    >
+      <div
+        class="sc-bsbRJL hABnEO"
+      >
+        <div
+          class="sc-gwVKww fYXqY"
+        >
+          <div
+            class="sc-eTuwsz gDnOCV"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="SpaceSpot Logo"
+                height="28px"
+                src="logo.svg"
+              />
+            </a>
+          </div>
+          <ul>
+            <li>
+              <a
+                href="mailto:oslo@spacespot.com"
+              >
+                FOOTER_CONTACT
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/privacy"
+              >
+                FOOTER_PRIVACY
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/terms"
+              >
+                FOOTER_TERMS_OF_SERVICE
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/cookie-policy"
+              >
+                FOOTER_COOKIE_POLICY
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/about-us"
+              >
+                FOOTER_ABOUT_US
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/list"
+              >
+                FOOTER_SEARCH
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-hXRMBi jlWtlW"
+        >
+          <div
+            class="sc-RefOD kaacNG"
+          >
+            <div
+              class="sc-ibxdXY dbyYuq sc-iQKALj jTMrqw"
+            >
+              <div
+                class="MuiInputBase-root MuiInput-root MuiInput-underline sc-eXEjpC vXBRT"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  aria-labelledby=" lang-dd"
+                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                  id="lang-dd"
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="sc-bwCtUz dQQDZX"
+                  >
+                    <img
+                      alt="uk"
+                      src="uk.svg"
+                    />
+                    <div
+                      class="sc-hrWEMg gJWJWc"
+                    >
+                      English (UK)
+                    </div>
+                  </div>
+                </div>
+                <input
+                  type="hidden"
+                  value="en-UK"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSelect-icon"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <ul>
+            <li>
+              <a
+                href="https://www.facebook.com/myspacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_FACEBOOK"
+                  height="30px"
+                  src="facebook.svg"
+                  width="17px"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/myspacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_INSTAGRAM"
+                  height="30px"
+                  src="instagram.svg"
+                  width="30px"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/company/Spacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_LINKEDIN"
+                  height="30px"
+                  src="linkedin.svg"
+                  width="30px"
+                />
+              </a>
+            </li>
+          </ul>
+          <div
+            class="sc-epnACN euNvsi"
+          >
+            FOOTER_RIGHTS_RESERVED
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-epnACN sc-hZSUBg fBNVLq"
+      >
+        FOOTER_RIGHTS_RESERVED
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

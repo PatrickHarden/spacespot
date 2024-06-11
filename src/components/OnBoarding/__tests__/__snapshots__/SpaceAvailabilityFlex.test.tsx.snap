@@ -1,0 +1,427 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crashing  1`] = `
+<DocumentFragment>
+  <h3
+    class="sc-EHOje gPIdwP"
+  >
+    ONBOARDING_SPACE_AVAILABILITY_FLEX_TITLE
+  </h3>
+  <div
+    class="sc-eNQAEJ bkVpIq"
+  >
+    <div
+      class="sc-hMqMXs kCoLBW"
+    >
+      <h4
+        class="sc-bZQynM sc-jKJlTe gLHKEV"
+      >
+        ONBOARDING_SPACE_FLEX_HOT_DESKS
+      </h4>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="hot-desks-desks"
+        >
+          ONBOARDING_SPACE_FLEX_DESKS
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="hot-desks-desks"
+          id="hot-desks-desks"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bxivhb fuvWwV sc-ifAKCX gRKhFU"
+      >
+        <label>
+          ONBOARDING_SPACE_FLEX_AVAILABILITY
+        </label>
+        <div
+          class="MuiFormControl-root MuiTextField-root"
+        >
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+              id="hot-desks-availableFrom"
+              type="text"
+              value="2020-01-01"
+            />
+            <div
+              class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt="open calendar"
+                    src="calendar.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <fieldset
+              aria-hidden="true"
+              class="PrivateNotchedOutline-root-60 MuiOutlinedInput-notchedOutline"
+              style="padding-left: 8px;"
+            >
+              <legend
+                class="PrivateNotchedOutline-legend-61"
+                style="width: 0.01px;"
+              >
+                <span>
+                  ​
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="hot-desks-minLease"
+        >
+          ONBOARDING_SPACE_FLEX_MINLEASE
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="hot-desks-min-lease"
+          id="hot-desks-minLease"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="hot-desks-price"
+        >
+          ONBOARDING_SPACE_FLEX_PRICE (Kr)
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="hot-desks-price"
+          id="hot-desks-price"
+          placeholder="ONBOARDING_PLACEHOLDER_FLEX_PRICE"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-hMqMXs kCoLBW"
+    >
+      <h4
+        class="sc-bZQynM sc-jKJlTe gLHKEV"
+      >
+        ONBOARDING_SPACE_FLEX_FIXED_DESKS
+      </h4>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="fixed-desks-desks"
+        >
+          ONBOARDING_SPACE_FLEX_DESKS
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="fixed-desks-desks"
+          id="fixed-desks-desks"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bxivhb fuvWwV sc-ifAKCX gRKhFU"
+      >
+        <label>
+          ONBOARDING_SPACE_FLEX_AVAILABILITY
+        </label>
+        <div
+          class="MuiFormControl-root MuiTextField-root"
+        >
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+              id="fixed-desks-availableFrom"
+              type="text"
+              value="2020-01-01"
+            />
+            <div
+              class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <img
+                    alt="open calendar"
+                    src="calendar.svg"
+                  />
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <fieldset
+              aria-hidden="true"
+              class="PrivateNotchedOutline-root-60 MuiOutlinedInput-notchedOutline"
+              style="padding-left: 8px;"
+            >
+              <legend
+                class="PrivateNotchedOutline-legend-61"
+                style="width: 0.01px;"
+              >
+                <span>
+                  ​
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="fixed-desks-minLease"
+        >
+          ONBOARDING_SPACE_FLEX_MINLEASE
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="fixed-desks-min-lease"
+          id="fixed-desks-minLease"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh"
+      >
+        <label
+          for="fixed-desks-price"
+        >
+          ONBOARDING_SPACE_FLEX_PRICE (Kr)
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          data-testid="fixed-desks-price"
+          id="fixed-desks-price"
+          placeholder="ONBOARDING_PLACEHOLDER_FLEX_PRICE"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+    </div>
+  </div>
+  <h3
+    class="sc-EHOje gPIdwP"
+  >
+    ONBOARDING_SPACE_FLEX_SERVICED_OFFICES
+  </h3>
+  <div
+    class="sc-kGXeez iKQQkx"
+  >
+    <div
+      class="sc-kpOJdX dPnLnX"
+    >
+      <div
+        class="sc-bdVaJa dlaMlh sc-jzJRlG sc-cSHVUG fLZezk"
+      >
+        <label
+          for="serviced-offices-desks"
+        >
+          ONBOARDING_SPACE_SO_PEOPLE
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          id="serviced-offices-desks"
+          min="1"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh sc-jzJRlG sc-cSHVUG fLZezk"
+      >
+        <label
+          for="serviced-offices-floor"
+        >
+          ONBOARDING_SPACE_SO_FLOOR
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          id="serviced-offices-floor"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-dxgOiQ bhiYeY"
+      >
+        <div
+          class="sc-bxivhb fuvWwV sc-ifAKCX gRKhFU"
+        >
+          <label>
+            ONBOARDING_SPACE_FLEX_AVAILABILITY
+          </label>
+          <div
+            class="MuiFormControl-root MuiTextField-root"
+          >
+            <div
+              class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+            >
+              <input
+                aria-invalid="false"
+                class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+                id="serviced-offices-from"
+                type="text"
+                value="2015-06-15"
+              />
+              <div
+                class="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+              >
+                <button
+                  class="MuiButtonBase-root MuiIconButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <img
+                      alt="open calendar"
+                      src="calendar.svg"
+                    />
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+              <fieldset
+                aria-hidden="true"
+                class="PrivateNotchedOutline-root-60 MuiOutlinedInput-notchedOutline"
+                style="padding-left: 8px;"
+              >
+                <legend
+                  class="PrivateNotchedOutline-legend-61"
+                  style="width: 0.01px;"
+                >
+                  <span>
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa dlaMlh sc-jzJRlG eKZRLG"
+        >
+          <label
+            for="serviced-offices-min-lease"
+          >
+            ONBOARDING_SPACE_FLEX_MINLEASE
+          </label>
+          <input
+            class="sc-bwzfXH jHsaxX"
+            id="serviced-offices-min-lease"
+            min="1"
+            type="number"
+            value=""
+          />
+          <div
+            class="sc-htpNat gctktF"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa dlaMlh sc-jzJRlG sc-cSHVUG fLZezk"
+      >
+        <label
+          for="serviced-offices-price"
+        >
+          ONBOARDING_SPACE_SO_PRICE (Kr)
+        </label>
+        <input
+          class="sc-bwzfXH jHsaxX"
+          id="serviced-offices-price"
+          min="0"
+          placeholder="ONBOARDING_SPACE_SO_PRICE_PLACEHOLDER"
+          type="number"
+          value=""
+        />
+        <div
+          class="sc-htpNat gctktF"
+        />
+      </div>
+      <div
+        class="sc-ckVGcZ bMnoqN"
+      >
+        <button
+          class="sc-gzVnrw ilVVTZ"
+        >
+          ONBOARDING_SPACE_SO_SAVE
+        </button>
+        <button
+          class="sc-gzVnrw sc-kAzzGY dqiIbv"
+        >
+          ONBOARDING_SPACE_SO_CANCEL
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,409 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard selectors selector get buildings data 1`] = `
+Array [
+  Object {
+    "address": "Bryggegata, Oslo, Noruega",
+    "aspects": Array [
+      "hasReception-Manned",
+      "hasGym",
+    ],
+    "availability": undefined,
+    "buildingId": "SS_BUILDING_325",
+    "city": "Oslo",
+    "country": "Norway",
+    "description": "building description",
+    "district": "",
+    "fixedDesks": 0,
+    "floor": 0,
+    "hotDesks": 0,
+    "key": "SS_BUILDING_325",
+    "latLng": Object {
+      "lat": 59.91041,
+      "lng": 0,
+    },
+    "location": undefined,
+    "name": "building headline",
+    "photo": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+    "postCode": "28004",
+    "rent": "",
+    "sevicedOffices": 0,
+    "size": 0,
+    "status": 2,
+    "subdistrict": Object {
+      "id": 0,
+      "name": "",
+    },
+    "type": "FIXED",
+    "uploadedDocs": Array [],
+    "uploadedImages": Array [
+      Object {
+        "Common.ImageCaption": "11 Strand 1_Photo_1_small.jpg",
+        "Common.ImageResources": Array [
+          Object {
+            "Common.Breakpoint": "original",
+            "Common.Image.Height": 426,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+            "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+          },
+          Object {
+            "Common.Breakpoint": "small",
+            "Common.Image.Height": 426,
+            "Common.Image.Width": 640,
+            "Common.Resource.Uri": "/resources/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small_Photo_1_small.jpg",
+            "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+          },
+          Object {
+            "Common.Breakpoint": "medium",
+            "Common.Image.Height": 852,
+            "Common.Image.Width": 1280,
+            "Common.Resource.Uri": "/resources/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small_Photo_1_medium.jpg",
+            "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+          },
+          Object {
+            "Common.Breakpoint": "large",
+            "Common.Image.Height": 1065,
+            "Common.Image.Width": 1600,
+            "Common.Resource.Uri": "/resources/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small_Photo_1_large.jpg",
+            "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_BUILDING_325/5cd79f56/11%20Strand%201_Photo_1_small.jpg",
+          },
+        ],
+      },
+    ],
+  },
+]
+`;
+
+exports[`Dashboard selectors selector get buildings data 2`] = `
+Object {
+  "Common.ActualAddress": Object {
+    "Common.Country": "Norway",
+    "Common.PostCode": "28004",
+    "Common.PostalAddresses": Array [
+      Object {
+        "Common.Language": "en-GB",
+        "Common.Line1": "Space headline",
+        "Common.Line2": "Bryggegata, Oslo, Noruega",
+        "Common.Locallity": "Oslo",
+      },
+    ],
+  },
+  "Common.Availability": Object {
+    "Common.AvailabilityDate": "2019-12-18",
+    "Common.AvailabilityKind": "AvailableFromKnownDate",
+  },
+  "Common.AvailableFrom": "2019-12-18",
+  "Common.Brochures": Array [],
+  "Common.BuildingOperatorID": "920d0a43-7322-43b1-a22c-01437939c880",
+  "Common.Charges": Array [
+    Object {
+      "Common.Amount": 21,
+      "Common.AmountKind": "Value",
+      "Common.ChargeKind": "Rent",
+      "Common.ChargeModifer": "Fixed",
+      "Common.CurrencyCode": "NOK",
+      "Common.Interval": "Monthly",
+      "Common.PerUnit": "sqm",
+      "Common.TaxModifer": "PlusVAT",
+    },
+    Object {
+      "Common.Amount": 1200,
+      "Common.AmountKind": "Value",
+      "Common.ChargeKind": "ServiceCharge",
+      "Common.ChargeModifer": "Fixed",
+      "Common.CurrencyCode": "NOK",
+      "Common.Interval": "Monthly",
+      "Common.PerUnit": "sqm",
+      "Common.TaxModifer": "PlusVAT",
+    },
+  ],
+  "Common.ContactGroup": Object {
+    "Common.GroupType": "AreaOffice",
+  },
+  "Common.Coordinate": Object {
+    "lat": 59.91041,
+    "lon": 0,
+  },
+  "Common.FitOutOptions": Array [
+    Object {
+      "Common.Charges": Array [
+        Object {
+          "Common.Amount": 12,
+          "Common.AmountKind": "Value",
+          "Common.ChargeKind": "PropertyAccommodation",
+          "Common.ChargeModifer": "Fixed",
+          "Common.CurrencyCode": "NOK",
+          "Common.Interval": "Monthly",
+          "Common.OnApplication": true,
+          "Common.TaxModifer": "PlusVAT",
+        },
+      ],
+      "Common.Description": Array [
+        Object {
+          "Common.CultureCode": "es-ES",
+          "Common.Text": "head desc fit1",
+        },
+      ],
+      "Common.Identifier": "fitout",
+      "Common.Name": Array [
+        Object {
+          "Common.CultureCode": "es-ES",
+          "Common.Text": "head fitout 1",
+        },
+      ],
+      "Common.SpaceID": "SS_SPACE_438",
+    },
+  ],
+  "Common.FloorPlans": Array [],
+  "Common.Highlights": Array [
+    Object {
+      "Common.Highlight": Array [
+        Object {
+          "Common.CultureCode": "en-GB",
+          "Common.Text": "Space headline",
+        },
+      ],
+    },
+  ],
+  "Common.HomeSite": "no-comm",
+  "Common.IsParent": false,
+  "Common.LastProcessed": "2019-12-17T11:41:18.1349463Z",
+  "Common.LastUpdated": "2019-12-17T11:39:19.8056303Z",
+  "Common.MinimumSize": Array [
+    Object {
+      "Common.Size": 500,
+      "Common.Units": "sqm",
+    },
+  ],
+  "Common.ParentProperty": "SS_BUILDING_325",
+  "Common.Photos": Array [
+    Object {
+      "Common.ImageCaption": "40 Villiers Street.External_Photo_1_small.jpg",
+      "Common.ImageResources": Array [
+        Object {
+          "Common.Breakpoint": "original",
+          "Common.Image.Height": 492,
+          "Common.Image.Width": 640,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+        },
+        Object {
+          "Common.Breakpoint": "small",
+          "Common.Image.Height": 492,
+          "Common.Image.Width": 640,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_small.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+        },
+        Object {
+          "Common.Breakpoint": "medium",
+          "Common.Image.Height": 984,
+          "Common.Image.Width": 1280,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_medium.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+        },
+        Object {
+          "Common.Breakpoint": "large",
+          "Common.Image.Height": 1230,
+          "Common.Image.Width": 1600,
+          "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_large.jpg",
+          "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+        },
+      ],
+    },
+  ],
+  "Common.PrimaryKey": "SS_SPACE_326",
+  "Common.Sizes": Array [
+    Object {
+      "Common.Dimensions": Array [
+        Object {
+          "Common.Amount": 500,
+          "Common.DimensionsUnits": "sqm",
+        },
+      ],
+      "Common.SizeKind": "MinimumSize",
+    },
+    Object {
+      "Common.Dimensions": Array [
+        Object {
+          "Common.Amount": 1000,
+          "Common.DimensionsUnits": "sqm",
+        },
+      ],
+      "Common.SizeKind": "TotalSize",
+    },
+  ],
+  "Common.SourceLastupdated": "2019-12-17T11:39:19.656606Z",
+  "Common.TotalSize": Array [
+    Object {
+      "Common.Size": 1000,
+      "Common.Units": "sqm",
+    },
+  ],
+  "Common.UsageType": "Office",
+  "Common.Walkthrough": "http://www.matterports.es",
+  "Common.Website": "https://www.spacespot.com",
+  "Dynamic.DevelopmentOpportunity": false,
+  "Dynamic.FlexCharge": null,
+  "Dynamic.Furnished": "unfurnished",
+  "Dynamic.Has24HourAccess": false,
+  "Dynamic.HasAccessControl": false,
+  "Dynamic.HasBalcony": false,
+  "Dynamic.HasBarCafeteria": false,
+  "Dynamic.HasBicycleRack": false,
+  "Dynamic.HasBreakoutSpace": false,
+  "Dynamic.HasBusinessLounge": false,
+  "Dynamic.HasCleaning": false,
+  "Dynamic.HasCoworkingArea": false,
+  "Dynamic.HasDoorkeeper": false,
+  "Dynamic.HasFixedDesks": false,
+  "Dynamic.HasFloorsRaised": false,
+  "Dynamic.HasFreeMeetingRooms": false,
+  "Dynamic.HasGarden": false,
+  "Dynamic.HasGym": false,
+  "Dynamic.HasHotDesks": false,
+  "Dynamic.HasLift": false,
+  "Dynamic.HasParking": false,
+  "Dynamic.HasReception": false,
+  "Dynamic.HasRoofTerrace": false,
+  "Dynamic.HasServicedOffices": false,
+  "Dynamic.HasShowers": false,
+  "Dynamic.HasStorageArchives": false,
+  "Dynamic.HasSwimmingPool": false,
+  "Dynamic.HasTeaCoffee": false,
+  "Dynamic.HasTerrace": false,
+  "Dynamic.HasWheelchairAccess": false,
+  "Dynamic.HasWheelchairAccessToilets": false,
+  "Dynamic.IsPenthouse": false,
+  "Dynamic.LetUnderOffer": false,
+  "Dynamic.LettingCharge": 0.19,
+  "Dynamic.MaxArea": null,
+  "Dynamic.MinArea": 5381.957525591208,
+  "Dynamic.MinDesks": 5381.957525591208,
+  "Dynamic.MinimumSize": Array [
+    Object {
+      "Common.Size": 500,
+      "Common.Units": "sqm",
+    },
+  ],
+  "Dynamic.NetCharge": null,
+  "Dynamic.NewHome": false,
+  "Dynamic.PrimaryImage": Object {
+    "Common.ImageCaption": "40 Villiers Street.External_Photo_1_small.jpg",
+    "Common.ImageResources": Array [
+      Object {
+        "Common.Breakpoint": "original",
+        "Common.Image.Height": 492,
+        "Common.Image.Width": 640,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+      },
+      Object {
+        "Common.Breakpoint": "small",
+        "Common.Image.Height": 492,
+        "Common.Image.Width": 640,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_small.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+      },
+      Object {
+        "Common.Breakpoint": "medium",
+        "Common.Image.Height": 984,
+        "Common.Image.Width": 1280,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_medium.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+      },
+      Object {
+        "Common.Breakpoint": "large",
+        "Common.Image.Height": 1230,
+        "Common.Image.Width": 1600,
+        "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_large.jpg",
+        "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+      },
+    ],
+  },
+  "Dynamic.SalePrice": null,
+  "Dynamic.TotalArea": 10763.915051182415,
+  "Dynamic.TotalDesks": 10763.915051182415,
+  "Dynamic.TotalSize": Array [
+    Object {
+      "Common.Size": 1000,
+      "Common.Units": "sqm",
+    },
+  ],
+  "Dynamic.UnderOffer": false,
+}
+`;
+
+exports[`Dashboard selectors selector get spaces data 1`] = `
+Object {
+  "SS_BUILDING_325": Array [
+    Object {
+      "address": "Bryggegata, Oslo, Noruega",
+      "aspects": undefined,
+      "availability": 2019-12-18T00:00:00.000Z,
+      "buildingId": "SS_SPACE_326",
+      "city": "Oslo",
+      "country": "Norway",
+      "description": "",
+      "district": "",
+      "fixedDesks": 0,
+      "floor": 0,
+      "hotDesks": 0,
+      "key": "SS_SPACE_326",
+      "latLng": Object {
+        "lat": 59.91041,
+        "lng": 0,
+      },
+      "location": undefined,
+      "name": "Space headline",
+      "photo": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+      "postCode": "28004",
+      "rent": "21kr",
+      "sevicedOffices": 0,
+      "size": 500,
+      "status": 2,
+      "subdistrict": Object {
+        "id": 0,
+        "name": "",
+      },
+      "type": "FIXED",
+      "uploadedDocs": Array [],
+      "uploadedImages": Array [
+        Object {
+          "Common.ImageCaption": "40 Villiers Street.External_Photo_1_small.jpg",
+          "Common.ImageResources": Array [
+            Object {
+              "Common.Breakpoint": "original",
+              "Common.Image.Height": 492,
+              "Common.Image.Width": 640,
+              "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+              "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+            },
+            Object {
+              "Common.Breakpoint": "small",
+              "Common.Image.Height": 492,
+              "Common.Image.Width": 640,
+              "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_small.jpg",
+              "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+            },
+            Object {
+              "Common.Breakpoint": "medium",
+              "Common.Image.Height": 984,
+              "Common.Image.Width": 1280,
+              "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_medium.jpg",
+              "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+            },
+            Object {
+              "Common.Breakpoint": "large",
+              "Common.Image.Height": 1230,
+              "Common.Image.Width": 1600,
+              "Common.Resource.Uri": "/resources/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small_Photo_1_large.jpg",
+              "Source.Uri": "https://uatlistingssearchcbreeuw.blob.core.windows.net/fileassets/SS_SPACE_326/97117227/40%20Villiers%20Street.External_Photo_1_small.jpg",
+            },
+          ],
+        },
+      ],
+    },
+  ],
+}
+`;

@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Space reducer delete doc 1`] = `
+Object {
+  "docs": Array [],
+}
+`;
+
+exports[`Space reducer delete doc 2`] = `
+Object {
+  "docs": Array [],
+}
+`;
+
+exports[`Space reducer delete doc error 1`] = `
+Object {
+  "error": "Delete Doc Error",
+}
+`;
+
+exports[`Space reducer get docs 1`] = `
+Object {
+  "docs": Array [],
+}
+`;
+
+exports[`Space reducer put doc 1`] = `
+Object {
+  "docs": Array [
+    Object {
+      "enquireId": 1,
+      "fileId": 1,
+      "fileName": "test",
+      "uploadAt": 2020-01-01T00:00:00.000Z,
+      "uploadedBy": "user1",
+    },
+    Object {},
+  ],
+}
+`;
+
+exports[`Space reducer put doc 2`] = `
+Object {
+  "docs": Array [
+    Object {},
+  ],
+}
+`;

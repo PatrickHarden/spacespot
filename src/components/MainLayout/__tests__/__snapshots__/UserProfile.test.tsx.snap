@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders without crashing 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Click
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Renders without crashing 2`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Click
+    </button>
+  </div>
+</DocumentFragment>
+`;

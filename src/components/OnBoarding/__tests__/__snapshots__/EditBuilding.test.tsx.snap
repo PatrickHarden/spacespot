@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads dashboard 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cvbbAY dBmUDY"
+  >
+    <div
+      class="sc-jWBwVP gcMrf"
+    >
+      Edit a building
+    </div>
+    <div
+      class="sc-brqgnP dosQox"
+    >
+      <div
+        class="sc-eHgmQL dvFuqY"
+      >
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders EditBuilding  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cvbbAY dBmUDY"
+  >
+    <div
+      class="sc-jWBwVP gcMrf"
+    >
+      Edit a building
+    </div>
+    <div
+      class="sc-brqgnP dosQox"
+    >
+      <div
+        class="sc-eHgmQL dvFuqY"
+      >
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders Spinner  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-cvbbAY dBmUDY"
+  >
+    <div
+      class="sc-jWBwVP gcMrf"
+    >
+      Edit a building
+    </div>
+    <div
+      class="sc-brqgnP dosQox"
+    >
+      <div
+        class="sc-eHgmQL dvFuqY"
+      >
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

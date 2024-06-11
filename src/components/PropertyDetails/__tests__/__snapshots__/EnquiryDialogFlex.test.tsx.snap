@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+"[36m<body[39m
+  [33mstyle[39m=[32m\\"padding-right: 0px; overflow: hidden;\\"[39m
+[36m>[39m
+  [36m<div[39m
+    [33maria-hidden[39m=[32m\\"true\\"[39m
+  [36m/>[39m
+  [36m<div[39m
+    [33mclass[39m=[32m\\"MuiDialog-root\\"[39m
+    [33mrole[39m=[32m\\"presentation\\"[39m
+    [33mstyle[39m=[32m\\"position: fixed; z-index: 1300; right: 0px; bottom: 0px; top: 0px; left: 0px;\\"[39m
+  [36m>[39m
+    [36m<div[39m
+      [33maria-hidden[39m=[32m\\"true\\"[39m
+      [33mclass[39m=[32m\\"MuiBackdrop-root\\"[39m
+      [33mstyle[39m=[32m\\"opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;\\"[39m
+    [36m/>[39m
+    [36m<div[39m
+      [33mdata-test[39m=[32m\\"sentinelStart\\"[39m
+      [33mtabindex[39m=[32m\\"0\\"[39m
+    [36m/>[39m
+    [36m<div[39m
+      [33mclass[39m=[32m\\"MuiDialog-container MuiDialog-scrollPaper\\"[39m
+      [33mrole[39m=[32m\\"none presentation\\"[39m
+      [33mstyle[39m=[32m\\"opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;\\"[39m
+      [33mtabindex[39m=[32m\\"-1\\"[39m
+    [36m>[39m
+      [36m<div[39m
+        [33mclass[39m=[32m\\"MuiPaper-root MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiPaper-rounded\\"[39m
+        [33mrole[39m=[32m\\"dialog\\"[39m
+      [36m>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m\\"MuiDialogTitle-root sc-dnqmqq eqURtQ\\"[39m
+        [36m>[39m
+          [36m<h2[39m
+            [33mclass[39m=[32m\\"MuiTypography-root MuiTypography-h6\\"[39m
+          [36m>[39m
+            [0mENQUIRY_DIALOG_TITLE[0m
+            [36m<svg[39m
+              [33maria-hidden[39m=[32m\\"true\\"[39m
+              [33mclass[39m=[32m\\"MuiSvgIcon-root\\"[39m
+              [33mfocusable[39m=[32m\\"false\\"[39m
+              [33mrole[39m=[32m\\"presentation\\"[39m
+              [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+            [36m>[39m
+              [36m<path[39m
+                [33md[39m=[32m\\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\\"[39m
+              [36m/>[39m
+            [36m</svg>[39m
+          [36m</h2>[39m
+        [36m</div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m\\"MuiDialogContent-root\\"[39m
+        [36m>[39m
+          [36m<p>[39m
+            [0mENQUIRY_DIALOG_REGISTERED[0m
+            [36m<button[39m
+              [33mclass[39m=[32m\\"sc-jKJlTe dawH\\"[39m
+            [36m>[39m
+              [0mENQUIRY_DIALOG_SIGNIN[0m
+            [36m</button>[39m
+          [36m</p>[39m
+          [36m<h2[39m
+            [33mclass[39m=[32m\\"sc-gZMcBi drEsAK\\"[39m
+          [36m>[39m
+            [0mENQUIRY_DIALOG_SUBTITLE_FLEX[0m
+          [36m</h2>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-jTzLTM gioBvP\\"[39m
+          [36m>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-jzJRlG idnbLP\\"[39m
+            [36m>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m\\"sc-gzVnrw hNBHHv\\"[39m
+              [36m>[39m
+                [36m<div[39m
+                  [33mclass[39m=[32m\\"MuiFormGroup-root\\"[39m
+                  [33mrole[39m=[32m\\"radiogroup\\"[39m
+                [36m>[39m
+                  [36m<label[39m
+                    [33mclass[39m=[32m\\"MuiFormControlLabel-root sc-bZQynM nMYUf\\"[39m
+                  [36m>[39m
+                    [36m<span[39m
+                      [33maria-disabled[39m=[32m\\"false\\"[39m
+                      [33mclass[39m=[32m\\"MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-100 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary\\"[39m
+                    [36m>[39m
+                      [36m<span[39m
+                        [33mclass[39m=[32m\\"MuiIconButton-label\\"[39m
+                      [36m>[39m
+                        [36m<input[39m
+                          [33mclass[39m=[32m\\"PrivateSwitchBase-input-103\\"[39m
+                          [33mname[39m=[32m\\"type\\"[39m
+                          [33mtype[39m=[32m\\"radio\\"[39m
+                          [33mvalue[39m=[32m\\"HotDesk\\"[39m
+                        [36m/>[39m
+                        [36m<div[39m
+                          [33mclass[39m=[32m\\"PrivateRadioButtonIcon-root-116\\"[39m
+                        [36m>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root PrivateRadioButtonIcon-layer-117\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                        [36m</div>[39m
+                      [36m</span>[39m
+                    [36m</span>[39m
+                    [36m<span[39m
+                      [33mclass[39m=[32m\\"MuiTypography-root MuiFormControlLabel-label MuiTypography-body1\\"[39m
+                    [36m>[39m
+                      [0mENQUIRY_DIALOG_FLEX_HOT_DESKS[0m
+                    [36m</span>[39m
+                  [36m</label>[39m
+                  [36m<label[39m
+                    [33mclass[39m=[32m\\"MuiFormControlLabel-root sc-bZQynM nMYUf\\"[39m
+                  [36m>[39m
+                    [36m<span[39m
+                      [33maria-disabled[39m=[32m\\"false\\"[39m
+                      [33mclass[39m=[32m\\"MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-100 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary\\"[39m
+                    [36m>[39m
+                      [36m<span[39m
+                        [33mclass[39m=[32m\\"MuiIconButton-label\\"[39m
+                      [36m>[39m
+                        [36m<input[39m
+                          [33mclass[39m=[32m\\"PrivateSwitchBase-input-103\\"[39m
+                          [33mname[39m=[32m\\"type\\"[39m
+                          [33mtype[39m=[32m\\"radio\\"[39m
+                          [33mvalue[39m=[32m\\"FixedDesk\\"[39m
+                        [36m/>[39m
+                        [36m<div[39m
+                          [33mclass[39m=[32m\\"PrivateRadioButtonIcon-root-116\\"[39m
+                        [36m>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root PrivateRadioButtonIcon-layer-117\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                        [36m</div>[39m
+                      [36m</span>[39m
+                    [36m</span>[39m
+                    [36m<span[39m
+                      [33mclass[39m=[32m\\"MuiTypography-root MuiFormControlLabel-label MuiTypography-body1\\"[39m
+                    [36m>[39m
+                      [0mENQUIRY_DIALOG_FLEX_FIXED_DESKS[0m
+                    [36m</span>[39m
+                  [36m</label>[39m
+                  [36m<label[39m
+                    [33mclass[39m=[32m\\"MuiFormControlLabel-root sc-bZQynM nMYUf\\"[39m
+                  [36m>[39m
+                    [36m<span[39m
+                      [33maria-disabled[39m=[32m\\"false\\"[39m
+                      [33mclass[39m=[32m\\"MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-100 MuiRadio-root MuiRadio-colorSecondary MuiIconButton-colorSecondary\\"[39m
+                    [36m>[39m
+                      [36m<span[39m
+                        [33mclass[39m=[32m\\"MuiIconButton-label\\"[39m
+                      [36m>[39m
+                        [36m<input[39m
+                          [33mclass[39m=[32m\\"PrivateSwitchBase-input-103\\"[39m
+                          [33mname[39m=[32m\\"type\\"[39m
+                          [33mtype[39m=[32m\\"radio\\"[39m
+                          [33mvalue[39m=[32m\\"ServicedOffice\\"[39m
+                        [36m/>[39m
+                        [36m<div[39m
+                          [33mclass[39m=[32m\\"PrivateRadioButtonIcon-root-116\\"[39m
+                        [36m>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                          [36m<svg[39m
+                            [33maria-hidden[39m=[32m\\"true\\"[39m
+                            [33mclass[39m=[32m\\"MuiSvgIcon-root PrivateRadioButtonIcon-layer-117\\"[39m
+                            [33mfocusable[39m=[32m\\"false\\"[39m
+                            [33mrole[39m=[32m\\"presentation\\"[39m
+                            [33mviewBox[39m=[32m\\"0 0 24 24\\"[39m
+                          [36m>[39m
+                            [36m<path[39m
+                              [33md[39m=[32m\\"M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z\\"[39m
+                            [36m/>[39m
+                          [36m</svg>[39m
+                        [36m</div>[39m
+                      [36m</span>[39m
+                    [36m</span>[39m
+                    [36m<span[39m
+                      [33mclass[39m=[32m\\"MuiTypography-root MuiFormControlLabel-label MuiTypography-body1\\"[39m
+                    [36m>[39m
+                      [0mENQUIRY_DIALOG_FLEX_SERVICED_OFFICE[0m
+                    [36m</span>[39m
+                  [36m</label>[39m
+                [36m</div>[39m
+              [36m</div>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+          [36m<h2[39m
+            [33mclass[39m=[32m\\"sc-gZMcBi sc-gqjmRU iuRbBQ\\"[39m
+          [36m>[39m
+            [0mENQUIRY_DIALOG_ADDITIONAL_INFO[0m
+          [36m</h2>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-bdVaJa dlaMlh sc-ckVGcZ fnmRDw\\"[39m
+          [36m>[39m
+            [36m<input[39m
+              [33mclass[39m=[32m\\"sc-bwzfXH jHsaxX\\"[39m
+              [33mid[39m=[32m\\"enquiry_your_name\\"[39m
+              [33mplaceholder[39m=[32m\\"ENQUIRY_DIALOG_NAME\\"[39m
+              [33mtype[39m=[32m\\"text\\"[39m
+              [33mvalue[39m=[32m\\"\\"[39m
+            [36m/>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-htpNat gctktF\\"[39m
+            [36m/>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-fjdhpX eblHdy\\"[39m
+          [36m>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-bdVaJa dlaMlh sc-ckVGcZ fnmRDw\\"[39m
+            [36m>[39m
+              [36m<input[39m
+                [33mclass[39m=[32m\\"sc-bwzfXH jHsaxX\\"[39m
+                [33mid[39m=[32m\\"enquiry_email\\"[39m
+                [33mplaceholder[39m=[32m\\"ENQUIRY_DIALOG_EMAIL\\"[39m
+                [33mtype[39m=[32m\\"text\\"[39m
+                [33mvalue[39m=[32m\\"\\"[39m
+              [36m/>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m\\"sc-htpNat gctktF\\"[39m
+              [36m/>[39m
+            [36m</div>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-bdVaJa dlaMlh sc-ckVGcZ fnmRDw\\"[39m
+            [36m>[39m
+              [36m<input[39m
+                [33mclass[39m=[32m\\"sc-bwzfXH jHsaxX\\"[39m
+                [33mid[39m=[32m\\"enquiry_email2\\"[39m
+                [33mplaceholder[39m=[32m\\"ENQUIRY_DIALOG_EMAIL2\\"[39m
+                [33mtype[39m=[32m\\"text\\"[39m
+                [33mvalue[39m=[32m\\"\\"[39m
+              [36m/>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m\\"sc-htpNat gctktF\\"[39m
+              [36m/>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-bdVaJa dlaMlh sc-ckVGcZ fnmRDw\\"[39m
+          [36m>[39m
+            [36m<input[39m
+              [33mclass[39m=[32m\\"sc-bwzfXH jHsaxX\\"[39m
+              [33mid[39m=[32m\\"enquiry_company_name\\"[39m
+              [33mplaceholder[39m=[32m\\"ENQUIRY_DIALOG_COMPANY\\"[39m
+              [33mtype[39m=[32m\\"text\\"[39m
+              [33mvalue[39m=[32m\\"\\"[39m
+            [36m/>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-htpNat gctktF\\"[39m
+            [36m/>[39m
+          [36m</div>[39m
+          [36m<label[39m
+            [33mclass[39m=[32m\\"sc-dxgOiQ gfVpUG\\"[39m
+          [36m>[39m
+            [0m [0m
+            [0mENQUIRY_DIALOG_PASSWORD[0m
+          [36m</label>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-bdVaJa dlaMlh sc-ckVGcZ fnmRDw\\"[39m
+          [36m>[39m
+            [36m<input[39m
+              [33mclass[39m=[32m\\"sc-bwzfXH jHsaxX\\"[39m
+              [33mid[39m=[32m\\"enquiry_password\\"[39m
+              [33mplaceholder[39m=[32m\\"password\\"[39m
+              [33mtype[39m=[32m\\"password\\"[39m
+              [33mvalue[39m=[32m\\"\\"[39m
+            [36m/>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m\\"sc-htpNat gctktF\\"[39m
+            [36m/>[39m
+          [36m</div>[39m
+          [36m<label[39m
+            [33mclass[39m=[32m\\"sc-dxgOiQ gfVpUG\\"[39m
+          [36m>[39m
+            [0m [0m
+            [0mENQUIRY_DIALOG_MESSAGE[0m
+          [36m</label>[39m
+          [0m [0m
+          [36m<textarea[39m
+            [33mclass[39m=[32m\\"sc-VigVT fzKNXL\\"[39m
+          [36m>[39m
+            [0mENQUIRY_DIALOG_DEAFULT_MESSAGE[0m
+          [36m</textarea>[39m
+        [36m</div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m\\"MuiDialogActions-root MuiDialogActions-spacing\\"[39m
+        [36m>[39m
+          [36m<p[39m
+            [33mclass[39m=[32m\\"sc-eNQAEJ hVnkXH\\"[39m
+          [36m>[39m
+            [0mENQUIRY_DIALOG_NOTICE[0m
+            [0m [0m
+            [0m [0m
+            [0mENQUIRY_DIALOG_NOTICE_AND[0m
+            [0m [0m
+          [36m</p>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m\\"sc-htoDjs ioLkuh\\"[39m
+          [36m>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m\\"sc-EHOje sc-iwsKbI gspjxH\\"[39m
+              [33mcolor[39m=[32m\\"primary\\"[39m
+              [33mdata-auto[39m=[32m\\"submit-enquiry-dialog-flex\\"[39m
+              [33mid[39m=[32m\\"dialogOK\\"[39m
+            [36m>[39m
+              [0mENQUIRY_DIALOG_BUTTON[0m
+            [36m</button>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</div>[39m
+    [36m<div[39m
+      [33mdata-test[39m=[32m\\"sentinelEnd\\"[39m
+      [33mtabindex[39m=[32m\\"0\\"[39m
+    [36m/>[39m
+  [36m</div>[39m
+[36m</body>[39m"
+`;

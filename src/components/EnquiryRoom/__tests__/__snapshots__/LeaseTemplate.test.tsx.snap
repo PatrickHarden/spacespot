@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders template link 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa fAeyvH"
+  >
+    <p>
+      <span>
+        SPECIAL_PROV_TEMPLATE_MSG: 
+      </span>
+      <button
+        class="sc-htpNat jyOkpE"
+        data-testid="download"
+      >
+        SPECIAL_PROV_TEMPLATE_STANDARD
+      </button>
+    </p>
+    <div>
+      <div
+        class=""
+        tabindex="0"
+      >
+        <input
+          accept="application/pdf"
+          autocomplete="off"
+          multiple=""
+          style="display: none;"
+          tabindex="-1"
+          type="file"
+        />
+        <button
+          class="sc-bwzfXH jNiJCK"
+          data-testid="upload"
+        >
+          <img
+            alt="upload"
+            src="upload.svg"
+          />
+          SPECIAL_PROV_TEMPLATE_UPLOAD
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

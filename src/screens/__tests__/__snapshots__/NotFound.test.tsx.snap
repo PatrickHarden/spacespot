@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-uJMKN koSzpN"
+  >
+    <div
+      class="sc-gPEVay kIXbXz"
+    >
+      <div
+        class="sc-iRbamj hcvHvc"
+      >
+        <a
+          href="/"
+        >
+          <img
+            alt="SpaceSpot Logo"
+            height="28px"
+            src="logo.svg"
+          />
+        </a>
+      </div>
+      <ul
+        class="sc-Rmtcm gdDPHr"
+      >
+        <li
+          class="sc-bRBYWo eQTZbY"
+        >
+          <button
+            class="sc-jhAzac sc-fBuWsC ljShwJ"
+            data-testid="signin"
+          >
+            <img
+              alt="sign in"
+              height="23px"
+              src="login.svg"
+            />
+            HEADER_SIGN_IN
+          </button>
+        </li>
+        <li
+          class="sc-bRBYWo eQTZbY"
+        >
+          <button
+            class="sc-jhAzac sc-dVhcbM kRSQUK"
+            data-testid="signup"
+          >
+            HEADER_SIGN_UP
+          </button>
+        </li>
+      </ul>
+    </div>
+    <div />
+    <div
+      class="sc-gGBfsJ dSbRtL"
+    >
+      <p
+        class="sc-jnlKLf ecZqgf"
+      >
+        404
+      </p>
+      <h1
+        class="sc-bbmXgH sc-fYxtnH hHGJkA"
+      >
+        E404_H1
+      </h1>
+      <div
+        class="sc-tilXH hPymZX"
+      >
+        <p>
+          E404_TEXT
+        </p>
+        
+
+      </div>
+    </div>
+    <div
+      class="sc-jbKcbu bSnRLO"
+      data-auto="footer"
+    >
+      <div
+        class="sc-dNLxif ggAycf"
+      >
+        <div
+          class="sc-frDJqD jSpeIg"
+        >
+          <div
+            class="sc-hmzhuo hZgdAi"
+          >
+            <a
+              href="/"
+            >
+              <img
+                alt="SpaceSpot Logo"
+                height="28px"
+                src="logo.svg"
+              />
+            </a>
+          </div>
+          <ul>
+            <li>
+              <a
+                href="mailto:oslo@spacespot.com"
+              >
+                FOOTER_CONTACT
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/privacy"
+              >
+                FOOTER_PRIVACY
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/terms"
+              >
+                FOOTER_TERMS_OF_SERVICE
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/cookie-policy"
+              >
+                FOOTER_COOKIE_POLICY
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/about-us"
+              >
+                FOOTER_ABOUT_US
+              </a>
+            </li>
+            <li>
+              <a
+                href="/en-no/list"
+              >
+                FOOTER_SEARCH
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-kvZOFW hYiypW"
+        >
+          <div
+            class="sc-TOsTZ huKCmY"
+          >
+            <div
+              class="sc-cHGsZl iolbvz sc-kgAjT iVcSFV"
+            >
+              <div
+                class="MuiInputBase-root MuiInput-root MuiInput-underline sc-kjoXOD dDDlXm"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  aria-labelledby=" lang-dd"
+                  class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                  id="lang-dd"
+                  role="button"
+                  tabindex="0"
+                >
+                  <div
+                    class="sc-cJSrbW kSIIvy"
+                  >
+                    <img
+                      alt="uk"
+                      src="uk.svg"
+                    />
+                    <div
+                      class="sc-ksYbfQ eKJPBD"
+                    >
+                      English (UK)
+                    </div>
+                  </div>
+                </div>
+                <input
+                  type="hidden"
+                  value="en-UK"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSelect-icon"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <ul>
+            <li>
+              <a
+                href="https://www.facebook.com/myspacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_FACEBOOK"
+                  height="30px"
+                  src="facebook.svg"
+                  width="17px"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/myspacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_INSTAGRAM"
+                  height="30px"
+                  src="instagram.svg"
+                  width="30px"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/company/Spacespot"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                <img
+                  alt="FOOTER_LINKEDIN"
+                  height="30px"
+                  src="linkedin.svg"
+                  width="30px"
+                />
+              </a>
+            </li>
+          </ul>
+          <div
+            class="sc-hqyNC dBlZdt"
+          >
+            FOOTER_RIGHTS_RESERVED
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-hqyNC sc-jqCOkK aoqy"
+      >
+        FOOTER_RIGHTS_RESERVED
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

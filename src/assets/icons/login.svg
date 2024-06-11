@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E314A9D0-D76E-40DE-89A7-52824FEC05F4</title>
+    <defs>
+        <circle id="path-1" cx="11.5" cy="11.5" r="11.5"></circle>
+    </defs>
+    <g id="Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Full-home-page-expanded-Copy-3" transform="translate(-1715.000000, -133.000000)">
+            <g id="Group-4" transform="translate(1715.000000, 133.000000)">
+                <g id="icons/login">
+                    <g id="Oval-+-Rectangle-Mask">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="0.92" mask="url(#mask-2)" cx="11.5" cy="9.2" r="3.22"></circle>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.92" mask="url(#mask-2)" x="4.14" y="13.8" width="14.72" height="20.7" rx="4.6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

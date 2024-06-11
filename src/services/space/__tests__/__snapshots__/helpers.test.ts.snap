@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Space helpers selector should return floorplans 1`] = `
+Array [
+  Object {
+    "original": "https://uat-search.cbrelistings.com/resources/fileassets/SS_SPACE_648/6862dd87/fplan1.jpg",
+    "thumbnail": "https://uat-search.cbrelistings.com/resources/fileassets/SS_SPACE_648/6862dd87/fplan1.jpg",
+  },
+]
+`;
+
+exports[`Space helpers selector should return getCharges of dashboard building 1`] = `
+Object {
+  "additionalCosts": 0,
+  "currencyCode": "NOK",
+  "rent": 21,
+  "serviceCharges": 1200,
+  "total": 1221,
+}
+`;
+
+exports[`Space helpers selector should return getCharges of space Document1 1`] = `
+Object {
+  "additionalCosts": 0,
+  "currencyCode": "EUR",
+  "rent": 0,
+  "serviceCharges": 0,
+  "total": 0,
+}
+`;
+
+exports[`Space helpers selector should return getCharges of space Document1 2`] = `
+Object {
+  "alt": "photo1.jpg",
+  "url": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg",
+}
+`;
+
+exports[`Space helpers selector should return getImages 1`] = `
+Array [
+  Object {
+    "original": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg",
+    "thumbnail": "https://uatlistingssearchcbreeun.blob.core.windows.net/fileassets/SS_SPACE_648/b904b44f/photo1.jpg",
+  },
+]
+`;

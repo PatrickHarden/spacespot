@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Onboarding helpers 1`] = `
+Object {
+  "availableFrom": "2020-01-01",
+  "charges": Array [
+    Object {
+      "currencyCode": "NOK",
+      "interval": "Monthly",
+      "negotiable": true,
+      "type": "Rent",
+      "unit": "Whole",
+      "value": 0,
+    },
+    Object {
+      "currencyCode": "NOK",
+      "interval": "Monthly",
+      "negotiable": true,
+      "type": "ServiceCharge",
+      "unit": "Whole",
+      "value": 0,
+    },
+  ],
+  "commonArea": Object {
+    "unit": "sqm",
+    "value": 0,
+  },
+  "exclusiveSize": Object {
+    "unit": "sqm",
+    "value": 0,
+  },
+  "fitOutOptions": Array [
+    Object {
+      "charges": Object {
+        "currencyCode": "NOK",
+        "interval": "Monthly",
+        "negotiable": false,
+        "onApplication": true,
+        "type": "PropertyAccommodation",
+        "value": 1000,
+      },
+      "description": "FitOut1",
+      "identifier": "fitout",
+      "name": "FitOut1",
+    },
+  ],
+  "floor": 0,
+  "minLease": 0,
+  "propertyType": undefined,
+}
+`;
+
+exports[`Onboarding helpers 2`] = `
+Object {
+  "availableSpace": Array [],
+}
+`;
+
+exports[`Onboarding helpers 3`] = `Array []`;
+
+exports[`Onboarding helpers 4`] = `Array []`;
+
+exports[`Onboarding helpers 5`] = `
+Array [
+  Object {
+    "caption": undefined,
+    "resource": Array [
+      Object {
+        "height": 100,
+        "uri": "https://uat.commerciallistings.cbre.co.ukhttps://www.spacespot.com",
+        "width": 100,
+      },
+    ],
+  },
+  Object {
+    "caption": undefined,
+    "resource": Array [
+      Object {
+        "height": 100,
+        "uri": "https://uat.commerciallistings.cbre.co.ukhttps://www.spacespot.com",
+        "width": 100,
+      },
+    ],
+  },
+  Object {
+    "caption": undefined,
+    "resource": Array [
+      Object {
+        "height": 100,
+        "uri": "https://uat.commerciallistings.cbre.co.ukhttps://www.spacespot.com",
+        "width": 100,
+      },
+    ],
+  },
+]
+`;

@@ -1,0 +1,1042 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders items (pdf) 1`] = `
+<Styled(Component)
+  accept="application/pdf"
+  isImage={false}
+  items={
+    Array [
+      Object {
+        "key": 0,
+        "name": "file2",
+        "type": "image/png",
+        "uri": "./",
+      },
+    ]
+  }
+  setItems={[MockFunction]}
+  setUploaded={[Function]}
+>
+  <StyledComponent
+    accept="application/pdf"
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-ifAKCX",
+          "isStatic": false,
+          "lastClassName": "dHcTOt",
+          "rules": Array [
+            "
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-ifAKCX",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    isImage={false}
+    items={
+      Array [
+        Object {
+          "key": 0,
+          "name": "file2",
+          "type": "image/png",
+          "uri": "./",
+        },
+      ]
+    }
+    setItems={[MockFunction]}
+    setUploaded={[Function]}
+  >
+    <Component
+      accept="application/pdf"
+      className="sc-ifAKCX dHcTOt"
+      isImage={false}
+      items={
+        Array [
+          Object {
+            "key": 0,
+            "name": "file2",
+            "type": "image/png",
+            "uri": "./",
+          },
+        ]
+      }
+      setItems={[MockFunction]}
+      setUploaded={[Function]}
+    >
+      <div
+        className="sc-ifAKCX dHcTOt"
+      >
+        <Styled(Component)
+          canChange={true}
+          item={
+            Object {
+              "key": 0,
+              "name": "file2",
+              "type": "image/png",
+              "uri": "./",
+            }
+          }
+          key="0"
+          onChange={[Function]}
+          onRemove={[Function]}
+        >
+          <StyledComponent
+            canChange={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "ibcHuM",
+                  "rules": Array [
+                    "
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  :hover {
+    box-sizing: border-box;
+    border: 1px solid #50bbd8;
+    background-color: #ffffff;
+    box-shadow: 0 1px 4px 0 #50bbd8;
+  }
+  .MuiSvgIcon-root {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: #00000022;
+  }
+  input {
+    background: transparent;
+    border: none;
+    height: 20px;
+    width: 174px;
+  }
+  button {
+    background: transparent;
+    box-sizing: content-box;
+    border: none;
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: rotate(90deg);
+  }
+",
+                  ],
+                },
+                "displayName": "Styled(Component)",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            item={
+              Object {
+                "key": 0,
+                "name": "file2",
+                "type": "image/png",
+                "uri": "./",
+              }
+            }
+            onChange={[Function]}
+            onRemove={[Function]}
+          >
+            <Component
+              canChange={true}
+              className="sc-htpNat ibcHuM"
+              item={
+                Object {
+                  "key": 0,
+                  "name": "file2",
+                  "type": "image/png",
+                  "uri": "./",
+                }
+              }
+              onChange={[Function]}
+              onRemove={[Function]}
+            >
+              <div
+                className="sc-htpNat ibcHuM"
+              >
+                <styled.img
+                  alt="img"
+                  src="./"
+                >
+                  <StyledComponent
+                    alt="img"
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-bdVaJa",
+                          "isStatic": false,
+                          "lastClassName": "ktlnLS",
+                          "rules": Array [
+                            "
+  width: 196px;
+  height: 145px;
+  display: block;
+  object-fit: cover;
+",
+                          ],
+                        },
+                        "displayName": "styled.img",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-bdVaJa",
+                        "target": "img",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    src="./"
+                  >
+                    <img
+                      alt="img"
+                      className="sc-bdVaJa ktlnLS"
+                      src="./"
+                    />
+                  </StyledComponent>
+                </styled.img>
+                <ForwardRef
+                  onClick={[Function]}
+                >
+                  <WithStyles(ForwardRef(SvgIcon))
+                    onClick={[Function]}
+                  >
+                    <ForwardRef(SvgIcon)
+                      classes={
+                        Object {
+                          "colorAction": "MuiSvgIcon-colorAction",
+                          "colorDisabled": "MuiSvgIcon-colorDisabled",
+                          "colorError": "MuiSvgIcon-colorError",
+                          "colorPrimary": "MuiSvgIcon-colorPrimary",
+                          "colorSecondary": "MuiSvgIcon-colorSecondary",
+                          "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                          "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                          "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                          "root": "MuiSvgIcon-root",
+                        }
+                      }
+                      onClick={[Function]}
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root"
+                        focusable="false"
+                        onClick={[Function]}
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                        />
+                      </svg>
+                    </ForwardRef(SvgIcon)>
+                  </WithStyles(ForwardRef(SvgIcon))>
+                </ForwardRef>
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="file2"
+                />
+                <button
+                  onClick={[Function]}
+                >
+                  ✎
+                </button>
+              </div>
+            </Component>
+          </StyledComponent>
+        </Styled(Component)>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bxivhb",
+                  "isStatic": false,
+                  "lastClassName": "ihpoNk",
+                  "rules": Array [
+                    "
+  display: inline-block;
+  > div {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    width: 194px;
+    height: 165px;
+    :hover {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+    &.isDragging {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bxivhb",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-bxivhb ihpoNk"
+            >
+              <div
+                className=""
+              >
+                <input />
+                <p>
+                  Drop documents here
+                </p>
+              </div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;
+
+exports[`renders items (png) 1`] = `
+<Styled(Component)
+  accept="image/jpeg, image/png"
+  isImage={true}
+  items={
+    Array [
+      Object {
+        "key": 0,
+        "name": "file2",
+        "type": "image/png",
+        "uri": "./",
+      },
+    ]
+  }
+  setItems={[MockFunction]}
+  setUploaded={[Function]}
+>
+  <StyledComponent
+    accept="image/jpeg, image/png"
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-ifAKCX",
+          "isStatic": false,
+          "lastClassName": "dHcTOt",
+          "rules": Array [
+            "
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-ifAKCX",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    isImage={true}
+    items={
+      Array [
+        Object {
+          "key": 0,
+          "name": "file2",
+          "type": "image/png",
+          "uri": "./",
+        },
+      ]
+    }
+    setItems={[MockFunction]}
+    setUploaded={[Function]}
+  >
+    <Component
+      accept="image/jpeg, image/png"
+      className="sc-ifAKCX dHcTOt"
+      isImage={true}
+      items={
+        Array [
+          Object {
+            "key": 0,
+            "name": "file2",
+            "type": "image/png",
+            "uri": "./",
+          },
+        ]
+      }
+      setItems={[MockFunction]}
+      setUploaded={[Function]}
+    >
+      <div
+        className="sc-ifAKCX dHcTOt"
+      >
+        <Styled(Component)
+          canChange={true}
+          item={
+            Object {
+              "key": 0,
+              "name": "file2",
+              "type": "image/png",
+              "uri": "./",
+            }
+          }
+          key="0"
+          onChange={[Function]}
+          onRemove={[Function]}
+        >
+          <StyledComponent
+            canChange={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "ibcHuM",
+                  "rules": Array [
+                    "
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  :hover {
+    box-sizing: border-box;
+    border: 1px solid #50bbd8;
+    background-color: #ffffff;
+    box-shadow: 0 1px 4px 0 #50bbd8;
+  }
+  .MuiSvgIcon-root {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: #00000022;
+  }
+  input {
+    background: transparent;
+    border: none;
+    height: 20px;
+    width: 174px;
+  }
+  button {
+    background: transparent;
+    box-sizing: content-box;
+    border: none;
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: rotate(90deg);
+  }
+",
+                  ],
+                },
+                "displayName": "Styled(Component)",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            item={
+              Object {
+                "key": 0,
+                "name": "file2",
+                "type": "image/png",
+                "uri": "./",
+              }
+            }
+            onChange={[Function]}
+            onRemove={[Function]}
+          >
+            <Component
+              canChange={true}
+              className="sc-htpNat ibcHuM"
+              item={
+                Object {
+                  "key": 0,
+                  "name": "file2",
+                  "type": "image/png",
+                  "uri": "./",
+                }
+              }
+              onChange={[Function]}
+              onRemove={[Function]}
+            >
+              <div
+                className="sc-htpNat ibcHuM"
+              >
+                <styled.img
+                  alt="img"
+                  src="./"
+                >
+                  <StyledComponent
+                    alt="img"
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-bdVaJa",
+                          "isStatic": false,
+                          "lastClassName": "ktlnLS",
+                          "rules": Array [
+                            "
+  width: 196px;
+  height: 145px;
+  display: block;
+  object-fit: cover;
+",
+                          ],
+                        },
+                        "displayName": "styled.img",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-bdVaJa",
+                        "target": "img",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    src="./"
+                  >
+                    <img
+                      alt="img"
+                      className="sc-bdVaJa ktlnLS"
+                      src="./"
+                    />
+                  </StyledComponent>
+                </styled.img>
+                <ForwardRef
+                  onClick={[Function]}
+                >
+                  <WithStyles(ForwardRef(SvgIcon))
+                    onClick={[Function]}
+                  >
+                    <ForwardRef(SvgIcon)
+                      classes={
+                        Object {
+                          "colorAction": "MuiSvgIcon-colorAction",
+                          "colorDisabled": "MuiSvgIcon-colorDisabled",
+                          "colorError": "MuiSvgIcon-colorError",
+                          "colorPrimary": "MuiSvgIcon-colorPrimary",
+                          "colorSecondary": "MuiSvgIcon-colorSecondary",
+                          "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                          "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                          "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                          "root": "MuiSvgIcon-root",
+                        }
+                      }
+                      onClick={[Function]}
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root"
+                        focusable="false"
+                        onClick={[Function]}
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                        />
+                      </svg>
+                    </ForwardRef(SvgIcon)>
+                  </WithStyles(ForwardRef(SvgIcon))>
+                </ForwardRef>
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="file2"
+                />
+                <button
+                  onClick={[Function]}
+                >
+                  ✎
+                </button>
+              </div>
+            </Component>
+          </StyledComponent>
+        </Styled(Component)>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bxivhb",
+                  "isStatic": false,
+                  "lastClassName": "ihpoNk",
+                  "rules": Array [
+                    "
+  display: inline-block;
+  > div {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    width: 194px;
+    height: 165px;
+    :hover {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+    &.isDragging {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bxivhb",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-bxivhb ihpoNk"
+            >
+              <div
+                className=""
+              >
+                <input />
+                <p>
+                  Drop images here
+                </p>
+              </div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;
+
+exports[`renders without crashing 1`] = `
+<Styled(Component)
+  accept="image/jpeg, image/png"
+  isImage={false}
+  items={
+    Array [
+      Object {
+        "key": 0,
+        "name": "file1",
+        "type": "application/pdf",
+        "uri": "./",
+      },
+    ]
+  }
+  setItems={[MockFunction]}
+  setUploaded={[Function]}
+>
+  <StyledComponent
+    accept="image/jpeg, image/png"
+    forwardedComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-ifAKCX",
+          "isStatic": false,
+          "lastClassName": "dHcTOt",
+          "rules": Array [
+            "
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+",
+          ],
+        },
+        "displayName": "Styled(Component)",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-ifAKCX",
+        "target": [Function],
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    forwardedRef={null}
+    isImage={false}
+    items={
+      Array [
+        Object {
+          "key": 0,
+          "name": "file1",
+          "type": "application/pdf",
+          "uri": "./",
+        },
+      ]
+    }
+    setItems={[MockFunction]}
+    setUploaded={[Function]}
+  >
+    <Component
+      accept="image/jpeg, image/png"
+      className="sc-ifAKCX dHcTOt"
+      isImage={false}
+      items={
+        Array [
+          Object {
+            "key": 0,
+            "name": "file1",
+            "type": "application/pdf",
+            "uri": "./",
+          },
+        ]
+      }
+      setItems={[MockFunction]}
+      setUploaded={[Function]}
+    >
+      <div
+        className="sc-ifAKCX dHcTOt"
+      >
+        <Styled(Component)
+          canChange={true}
+          item={
+            Object {
+              "key": 0,
+              "name": "file1",
+              "type": "application/pdf",
+              "uri": "./",
+            }
+          }
+          key="0"
+          onChange={[Function]}
+          onRemove={[Function]}
+        >
+          <StyledComponent
+            canChange={true}
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-htpNat",
+                  "isStatic": false,
+                  "lastClassName": "ibcHuM",
+                  "rules": Array [
+                    "
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  :hover {
+    box-sizing: border-box;
+    border: 1px solid #50bbd8;
+    background-color: #ffffff;
+    box-shadow: 0 1px 4px 0 #50bbd8;
+  }
+  .MuiSvgIcon-root {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: #00000022;
+  }
+  input {
+    background: transparent;
+    border: none;
+    height: 20px;
+    width: 174px;
+  }
+  button {
+    background: transparent;
+    box-sizing: content-box;
+    border: none;
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: rotate(90deg);
+  }
+",
+                  ],
+                },
+                "displayName": "Styled(Component)",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-htpNat",
+                "target": [Function],
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+            item={
+              Object {
+                "key": 0,
+                "name": "file1",
+                "type": "application/pdf",
+                "uri": "./",
+              }
+            }
+            onChange={[Function]}
+            onRemove={[Function]}
+          >
+            <Component
+              canChange={true}
+              className="sc-htpNat ibcHuM"
+              item={
+                Object {
+                  "key": 0,
+                  "name": "file1",
+                  "type": "application/pdf",
+                  "uri": "./",
+                }
+              }
+              onChange={[Function]}
+              onRemove={[Function]}
+            >
+              <div
+                className="sc-htpNat ibcHuM"
+              >
+                <styled.img
+                  alt="doc"
+                  src="pdf.svg"
+                >
+                  <StyledComponent
+                    alt="doc"
+                    forwardedComponent={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-bwzfXH",
+                          "isStatic": false,
+                          "lastClassName": "inTrpr",
+                          "rules": Array [
+                            "
+  width: 116px;
+  height: 65px;
+  display: block;
+  padding: 40px;
+",
+                          ],
+                        },
+                        "displayName": "styled.img",
+                        "foldedComponentIds": Array [],
+                        "render": [Function],
+                        "styledComponentId": "sc-bwzfXH",
+                        "target": "img",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    src="pdf.svg"
+                  >
+                    <img
+                      alt="doc"
+                      className="sc-bwzfXH inTrpr"
+                      src="pdf.svg"
+                    />
+                  </StyledComponent>
+                </styled.img>
+                <ForwardRef
+                  onClick={[Function]}
+                >
+                  <WithStyles(ForwardRef(SvgIcon))
+                    onClick={[Function]}
+                  >
+                    <ForwardRef(SvgIcon)
+                      classes={
+                        Object {
+                          "colorAction": "MuiSvgIcon-colorAction",
+                          "colorDisabled": "MuiSvgIcon-colorDisabled",
+                          "colorError": "MuiSvgIcon-colorError",
+                          "colorPrimary": "MuiSvgIcon-colorPrimary",
+                          "colorSecondary": "MuiSvgIcon-colorSecondary",
+                          "fontSizeInherit": "MuiSvgIcon-fontSizeInherit",
+                          "fontSizeLarge": "MuiSvgIcon-fontSizeLarge",
+                          "fontSizeSmall": "MuiSvgIcon-fontSizeSmall",
+                          "root": "MuiSvgIcon-root",
+                        }
+                      }
+                      onClick={[Function]}
+                    >
+                      <svg
+                        aria-hidden="true"
+                        className="MuiSvgIcon-root"
+                        focusable="false"
+                        onClick={[Function]}
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                        />
+                      </svg>
+                    </ForwardRef(SvgIcon)>
+                  </WithStyles(ForwardRef(SvgIcon))>
+                </ForwardRef>
+                <input
+                  onChange={[Function]}
+                  type="text"
+                  value="file1"
+                />
+                <button
+                  onClick={[Function]}
+                >
+                  ✎
+                </button>
+              </div>
+            </Component>
+          </StyledComponent>
+        </Styled(Component)>
+        <styled.div>
+          <StyledComponent
+            forwardedComponent={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "attrs": Array [],
+                "componentStyle": ComponentStyle {
+                  "componentId": "sc-bxivhb",
+                  "isStatic": false,
+                  "lastClassName": "ihpoNk",
+                  "rules": Array [
+                    "
+  display: inline-block;
+  > div {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    box-sizing: border-box;
+    width: 194px;
+    height: 165px;
+    :hover {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+    &.isDragging {
+      cursor: pointer;
+      border: 1px solid #50bbd8;
+      background-color: #ffffff;
+      box-shadow: 0 1px 4px 0 #50bbd8;
+    }
+  }
+",
+                  ],
+                },
+                "displayName": "styled.div",
+                "foldedComponentIds": Array [],
+                "render": [Function],
+                "styledComponentId": "sc-bxivhb",
+                "target": "div",
+                "toString": [Function],
+                "warnTooManyClasses": [Function],
+                "withComponent": [Function],
+              }
+            }
+            forwardedRef={null}
+          >
+            <div
+              className="sc-bxivhb ihpoNk"
+            >
+              <div
+                className=""
+              >
+                <input />
+                <p>
+                  Drop documents here
+                </p>
+              </div>
+            </div>
+          </StyledComponent>
+        </styled.div>
+      </div>
+    </Component>
+  </StyledComponent>
+</Styled(Component)>
+`;
